@@ -1,0 +1,68 @@
+[
+  {
+    "file": "hokkaido-0.csv",
+    "utility": "hokkaido",
+    "url": "https://www.hepco.co.jp/network/con_service/public_document/zip/sys_capa_kikan.zip",
+    "member": "sys_capa_kikan01_line_202608_01.csv"
+  },
+  {
+    "file": "tohoku-0.csv",
+    "utility": "tohoku",
+    "url": "https://nw.tohoku-epco.co.jp/consignment/system/announcement/data/sys_capa_local01_line_202607_02.csv",
+    "member": "download.csv"
+  },
+  {
+    "file": "tepco-0.csv",
+    "utility": "tepco",
+    "url": "https://www.tepco.co.jp/pg/consignment/system/pdf/csv_yosochoryu_kikan.zip",
+    "member": "csv_yosochoryu_kikan_soudensen.csv"
+  },
+  {
+    "file": "tepco-5.csv",
+    "utility": "tepco",
+    "url": "https://www.tepco.co.jp/pg/consignment/system/pdf/csv_yosochoryu_chiba.zip",
+    "member": "csv_yosochoryu_chiba/csv_yosochoryu_chiba_soudensen.csv"
+  },
+  {
+    "file": "chubu-0.csv",
+    "utility": "chubu",
+    "url": "https://gridmap.powergrid.chuden.co.jp/geo_data/KRSIH010",
+    "member": "275kVê╚ÅπæùôdÉⁿï≤ùeù╩üEù/æzÆ¬ù¼êΩùùò/.csv"
+  },
+  {
+    "file": "hokuriku-0.csv",
+    "utility": "hokuriku",
+    "url": "https://www.rikuden.co.jp/nw_notification/attach/sys_capa_kikan01_line_202608_05.csv",
+    "member": "download.csv"
+  },
+  {
+    "file": "kansai-0.csv",
+    "utility": "kansai",
+    "url": "https://www.kansai-td.co.jp/interchange/takusou/pdf/154kv_more_line.csv",
+    "member": "download.csv"
+  },
+  {
+    "file": "chugoku-0.csv",
+    "utility": "chugoku",
+    "url": "https://www.energia.co.jp/nw/service/retailer/keitou/access/zip/csv_220kv.zip",
+    "member": "sys_capa_kikan01_line_202608_07.csv"
+  },
+  {
+    "file": "shikoku-0.csv",
+    "utility": "shikoku",
+    "url": "https://www.yonden.co.jp/nw/assets/line_access/data/sys_capa_kikan00_line_202609_08.csv",
+    "member": "download.csv"
+  },
+  {
+    "file": "kyushu-0.csv",
+    "utility": "kyushu",
+    "url": "https://www.kyuden.co.jp/var/rev0/0909/2169/td_o9Kd8vU3.zip",
+    "member": "送電線CSV/★離島①、②、③、④_送電線.csv"
+  },
+  {
+    "file": "okinawa-0.csv",
+    "utility": "okinawa",
+    "url": "https://www.okiden.co.jp/shared/csv/business-support/service/rule/plan/con_res_map01_01.csv",
+    "member": "download.csv"
+  }
+]

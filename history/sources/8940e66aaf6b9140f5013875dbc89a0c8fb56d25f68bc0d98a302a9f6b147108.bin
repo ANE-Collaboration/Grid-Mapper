@@ -1,0 +1,753 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="当社における系統情報について">
+<meta name="keywords" content="当社における系統情報について">
+<title>当社における系統情報について｜系統情報｜東京電力パワーグリッド株式会社</title>
+<link rel="apple-touch-icon-precomposed" href="/pg/shared/images/bookmark_icon.png">
+<link rel="stylesheet" href="/pg/shared/css/import.css" media="all">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/shared_hd/css/legacy.css" media="all">
+<![endif]-->
+<link rel="stylesheet" href="/shared_hd/css/print.css" media="print">
+<script src="/shared_hd/js/jquery.js"></script>
+<script src="/shared_hd/js/common.js"></script>
+<!-- bxslider -->
+<link rel="stylesheet" href="/shared_hd/css/jquery.bxslider.css">
+<link rel="stylesheet" href="/shared_hd/css/jquery.bxslider_custom.css">
+<script src="/shared_hd/js/jquery.bxslider.min.js"></script>
+<script src="/shared_hd/js/bxSlider_ctrl.js"></script>
+<!-- bxslider -->
+
+<!-- modal -->
+<link rel="stylesheet" href="/shared_hd/css/modal.css">
+<script src="/shared_hd/js/jquery.magnific-popup.min.js"></script>
+<script src="/shared_hd/js/magnific-popup-ctrl.js"></script>
+<!-- modal -->
+
+<!-- search -->
+<script src="/shared_hd/js/popterm2_dev.js"></script>
+<script src="/shared_hd/js/probo.js"></script>
+<script src="/shared_hd/js/probo_mess.js"></script>
+<script src="/shared_hd/js/probo_refine.js"></script>
+<script src="/shared_hd/js/probo_sort.js"></script>
+<script src="/shared_hd/js/search_ctrl_pg.js"></script>
+<!-- search -->
+
+<!-- new shared -->
+<link rel="stylesheet" href="/pg/shared/css/head_foot.css" media="all">
+<script src="/pg/shared/js/common.js"></script>
+<script src="/pg/shared/js/head_foot.js"></script>
+<!-- new shared -->
+
+</head>
+<body class=" localnav-vertical ">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="content-all-wrapper">
+<div id="content-all">
+<div class="header-company-logo">
+<h1><a href="/pg/"><img src="/pg/shared/images/logo_header.png" alt="東京電力パワーグリッド" class="btn sp-hidden" /><img src="/pg/shared/images/logo_header-r2x.png" alt="東京電力パワーグリッド" class="pc-hidden" /></a></h1>
+</div><!--/.header-company-logo-->
+<p class="menu-control-sp"><a href="javascript:void(0);"><span>menu</span></a></p>
+<div id="content-head-wrapper">
+<div id="head-sub-wrapper">
+<div class="head-sub-container">
+<div class="sub-info-content">
+<div class="info-list">
+<ul>
+<li><a href="/forecast/">でんき予報</a></li>
+<li><a href="https://teideninfo.tepco.co.jp" target="_blank">停電情報</a></li>
+<li><a href="/pg/faq/faq.html">よくあるご質問</a></li>
+<li><a href="/pg/company/press-information/">プレスリリース・お知らせ</a></li>
+</ul>
+</div><!--/.info-list-->
+</div><!--/.sub-info-content-->
+<div class="head-quick-content">
+<div class="lang-select">
+<p><a class="lang-select-button" href="javascript:void(0);">LANGUAGE</a></p>
+<div class="lang-select-inner">
+<ul>
+<li class="current"><a href="/">日本語</a></li>
+<li><a href="https://www.tepco.co.jp/en/hd/">English</a></li>
+</ul>
+</div><!--/.lang-select-inner-->
+</div><!--/.lang-select-->
+<div class="quick-link">
+<p><a class="quick-link-button" href="javascript:void(0);">クイックリンク</a></p>
+<div class="quick-link-inner">
+<div class="service-wrapper">
+<ul class="global-service">
+<li><a href="/"><span>持株会社</span><img src="/pg/shared/images/logo_header_group_hd.png" alt="TEPCO 東京電力ホールディングス" class="btn"></a></li>
+<li><a href="/fp/"><span>火力発電・燃料</span><img src="/pg/shared/images/logo_header_group_fp.png" alt="TEPCO 東京電力フュエル&パワー" class="btn"></a></li>
+<li><a href="/pg/"><span>送電・配電</span><img src="/pg/shared/images/logo_header_group_pg.png" alt="東京電力パワーグリッド" class="btn"></a></li>
+<li><a href="/ep/"><span>電気・ガス・くらし</span><img src="/pg/shared/images/logo_header_group_ep.png" alt="TEPCO 東京電力エナジーパートナー" class="btn"></a></li>
+<li><a href="/rp/"><span>再生可能エネルギー</span><img src="/pg/shared/images/logo_header_group_rp.png" alt="TEPCO 東京電力リニューアブルパワー" class="btn"></a></li>
+</ul>
+<ul class="general-service-link">
+<li class="quick-link01"><em><a href="/forecast/"><span>でんき予報</span></a></em></li>
+<li class="quick-link02"><em><a href="https://teideninfo.tepco.co.jp/" target="_blank"><span>停電情報</span></a></em></li>
+<li class="quick-link04"><em><a href="/pg/company/summary/area-office/"><span>事業所一覧</span></a></em></li>
+<li class="quick-link05"><em><a href="/pg/consignment/workshop/"><span>電気工事店の<br class="pc-hidden">みなさま</span></a></em></li>
+<li class="quick-link06"><em><a href="/pg/consignment/for-general/"><span>電気をご使用の<br class="pc-hidden">お客さま</span></a></em></li>
+<li class="quick-link07"><em><a href="/pg/site/"><span>電柱敷地ご承諾内容<br>WEB回答サービス</span></a></em></li>
+<li class="quick-link08"><em><a href="/pg/consignment/liberalization/kyoukyusya/"><span>電気の供給者変更</span></a></em></li>
+<li class="quick-link09"><em><a href="/pg/consignment/liberalization/smartmeter-broute.html"><span>Bルートサービス</span></a></em></li>
+<li class="quick-link10"><em><a href="/pg/consignment/fit/index-j.html"><span>再生可能エネルギーの<br class="sp-hidden">固定価格買取制度の手続き</span></a></em></li>
+<li class="quick-link11"><em><a href="/about/procurement/"><span>資材調達</span></a></em></li>
+<li class="quick-link12"><em><a href="/library/"><span>動画・写真ライブラリー</span></a></em></li>
+</ul>
+</div><!--/.service-wrapper-->
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.quick-link-inner-->
+</div><!--/.quick-link-->
+</div><!--/.head-quick-content-->
+<div class="sns-content">
+<ul>
+<li><a href="/twitter/"><img src="/pg/shared/images/icon_sns_x.png" alt="東京電力 公式
+
+xアカウントのご案内ページへリンクします" class="btn"></a></li>
+<li><a href="https://www.facebook.com/OfficialTEPCO" target="_blank"><img 
+
+src="/pg/shared/images/icon_sns_facebook.png" alt="facebook公式アカウントサイトへリンクします" 
+
+class="btn"></a></li>
+<li><a href="https://www.instagram.com/tepco.official/" target="_blank"><img 
+
+src="/pg/shared/images/icon_sns_instagram.png" alt="Instagram公式アカウントサイトへリンクしま
+
+す" class="btn"></a></li>
+<li><a href="https://www.youtube.com/user/TEPCOofficial" target="_blank"><img 
+
+src="/pg/shared/images/icon_sns_youtube.png" alt="youtube公式アカウントサイトへリンクします" 
+
+class="btn"></a></li>
+
+<li><a href="/line/"><img src="/pg/shared/images/icon_sns_line.png" alt="東京電力 公式LINEアカウントのご案内ページへリンクします" class="btn"></a></li>
+
+</ul>
+</div>
+<div class="site-search">
+<p class="site-search-button"><a href="javascript:void(0);">サイト内検索</a></p>
+<div class="site-search-inner">
+<form name="search_form" action="https://search-tepco.dga.jp/index-j.html" method="GET" 
+
+onsubmit="return mysearch(this);">
+<input type="text" name="kw" value="" class="iSearchAssist" placeholder="キーワード">
+<input type="hidden" name="ie" value="u">
+<input type="hidden" name="company[]" value="ja_hd">
+<input type="hidden" name="company[]" value="ja_fp">
+<input type="hidden" name="company[]" value="ja_pg">
+<input type="hidden" name="company[]" value="ja_ep">
+<input type="hidden" name="company[]" value="ja_rp">
+<input class="seach-btn" type="submit" value="" >
+</form>
+</div><!--/.site-search-inner-->
+</div><!--/.site-search-->
+</div><!--/.head-sub-container-->
+</div><!--/#head-sub-wrapper-->
+<div id="content-nav-wrapper">
+<div class="content-nav-container">
+<ul class="global-nav">
+
+
+
+<li class="global-nav01"><a href="javascript:void(0);" class="second-head">企業情報</a>
+<div class="mega-drop only-lv3">
+<div class="content-nav-container-inner">
+<p class="site-menu-top sp-hidden"><span>企業情報</span></p>
+
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/summary/"><span>会社概要</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/brandmessage.html"><span>ブランドメッセージ</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/summary/internal_control.html"><span>内部統制の取り組み</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/fukushima/"><span>福島復興への貢献</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/clause/index-j.html"><span>約款関係(一般需要 他)</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/press-information/"><span>プレスリリース・お知らせ一覧</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/summary/office/"><span>都県別のお知らせ</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/consignment/notification/"><span>約款関係（託送）</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/environment/"><span>環境への取り組み</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/bond/"><span>社債情報</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/publicnotice/"><span>電子公告</span></a></li>
+</ul>
+<ul class="site-menu-parent no-child">
+<li><a href="/pg/company/group/"><span>グループ会社情報</span></a></li>
+</ul>
+
+
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">安定供給</a></p>
+<ul class="site-menu-parent w-100per">
+<li><div class="no-link"><span>安定供給</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child col-type3">
+<li><a href="/pg/electricity-supply/quality.html">品質</a></li>
+<li><a href="/pg/electricity-supply/operation/">安定供給を支える設備</a></li>
+<li><a href="/pg/electricity-supply/disaster/">供給網の整備</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">効率化・低コスト化</a></p>
+<ul class="site-menu-parent w-100per">
+<li><div class="no-link"><span>効率化・低コスト化</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child col-type3">
+<li><a href="/pg/cost-down/results.html">取り組み状況</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">技術力</a></p>
+<ul class="site-menu-parent w-100per">
+<li><div class="no-link"><span>技術力</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child col-type3">
+<li><a href="/pg/technology/renewable.html">再生可能エネルギー</a></li>
+<li><a href="/pg/technology/smartmeterpj.html">スマートメーター</a></li>
+<li><a href="/pg/technology/smartgrid.html">スマートグリッド</a></li>
+<li><a href="/pg/technology/participation.html">海外事業</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.content-nav-container-inner-->
+</div><!--/.mega-drop-->
+
+
+
+<li class="global-nav02"><a href="javascript:void(0);" class="second-head">一般のお客さま</a>
+<div class="mega-drop">
+<div class="content-nav-container-inner">
+<p class="site-menu-top sp-hidden"><span>一般のお客さま</span></p>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">個人のお客さま</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>個人のお客さま</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/for-general/trouble">急に電気が消えたとき</a></li>
+<li><a href="/pg/electricity-supply/operation/distribution/flicker.html">電圧フリッカについて（照明のチラつきなど）</a></li>
+<li><a href="/pg/consignment/fit/purchasedpower.html">再生可能エネルギー 購入実績お知らせサービス</a></li>
+<li><a href="/pg/consignment/liberalization/kyoukyusya/change/">電気の供給者変更のお手続き</a></li>
+<li><a href="https://pgservice1.tepco.co.jp">電気設備の安全点検サービス</a></li>
+<li><a href="/pg/consignment/removal/index-j.html">メーターと引込線撤去のお申込(web受付)</a></li>
+<li><a href="/pg/consignment/relocation/index-j.html">電柱移設などのお申込み</a></li>
+<li><a href="/pg/site/">電柱敷地料・Web回答サービス</a></li>
+<li><a href="/pg/consignment/liberalization/smartmeter-broute.html">低圧Bルートサービスのお申込み</a></li>
+<li><a href="/pg/consignment/island/index-j.html">島嶼地域の各種ご案内</a></li>
+<li><a href="/pg/consignment/for-general/">電気の防災情報</a></li>
+<li><a href="/pg/consignment/disaster_prevention/index-j.html">総合防災サービス</a></li>
+<li><a href="/pg/consignment/for-general/energy-efficiency/">電気の省エネ情報</a></li>
+<li><a href="/pg/consignment/for-general/basic-knowledge/">電気設備の基礎知識</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">法人のお客さま</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>法人のお客さま</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/procedures/switch/">開閉器操作のお申込み</a></li>
+<li><a href="/pg/consignment/procedures/pressure/">高圧Bルートサービスのお申込み</a></li>
+<li><a href="/pg/consignment/procedures/harmonic/">高調波流出電流計算書のご提出</a></li>
+<li><a href="/pg/consignment/procedures/pulse/">パルス提供のお申込</a></li>
+<li><a href="/pg/consignment/fit/purchasedpower.html">再生可能エネルギー 購入実績お知らせサービス</a></li>
+<li><a href="/pg/consignment/fit/index-j.html">受給契約(FIT)のお申込み概要</a></li>
+<li><a href="/pg/consignment/liberalization/new-service">高圧のお客さま向け新サービス</a></li>
+<li><a href="/pg/consignment/transmission/">特別高圧電気設備に関する技術支援</a></li>
+<li><a href="/pg/consignment/lr/index.html">最終保障供給契約</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お問い合わせ</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お問い合わせ</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/user/contact.html">お問い合わせ</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.content-nav-container-inner-->
+</div><!--/.mega-drop-->
+</li>
+
+
+<li class="global-nav03"><a href="javascript:void(0);" class="second-head">発電事業者さま・<BR>小売電気事業者さま</a>
+<div class="mega-drop">
+<div class="content-nav-container-inner">
+<p class="site-menu-top sp-hidden"><span>発電事業者さま・小売電気事業者さま</span></p>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お知らせ</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お知らせ</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/system/">系統情報について</a></li>
+<li><a href="/pg/consignment/rule-tr-dis/">送配電系統利用に関するルール</a></li>
+<li><a href="/pg/consignment/access/index-j.html">系統アクセスに関する各種制度概要</a></li>
+<li><a href="/pg/consignment/rule-wheeling/">行為規制の取り組みについて</a></li>
+<li><a href="/pg/consignment/retailservice/shushi-j.html">送配電部門収支について</a></li>
+<li><a href="/pg/consignment/retailservice/imbalance/index-j.html">インバランス料金単価</a></li>
+<li><a href="/pg/consignment/notification/index-j.html">託送供給等約款等</a></li>
+<li><a href="https://pgservice1.tepco.co.jp/corporate/">小売電気事業者さま向けサービス</a></li>
+<li><a href="/pg/retailer/rushservice/index-j.html">高圧電気設備の停電時かけつけサービス</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お手続き</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お手続き</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/liberalization/kyoukyusya/change/">電気の供給者変更のお手続き</a></li>
+<li><a href="/pg/consignment/demand/web/">新増設のお申込み</a></li>
+<li><a href="/pg/consignment/retailservice/overview.html">低圧供給お申込み概要</a></li>
+<li><a href="/pg/consignment/retailservice/overview2.html">高圧・特別高圧供給お申込み概要</a></li>
+<li><a href="/pg/consignment/procedure-flow/">電気使用お申込みの流れ</a></li>
+<li><a href="/pg/consignment/fit/purchasedpower.html">再生可能エネルギー 購入実績お知らせサービス</a></li>
+<li><a href="/pg/consignment/fit/index-j.html">受給契約(FIT)のお申込み概要</a></li>
+<li><a href="/pg/consignment/retailservice/">託送サービスのお手続き</a></li>
+<li><a href="/pg/consignment/distributor/">アンシラリーサービス</a></li>
+<li><a href="/pg/consignment/retailservice/negawatt_power/">電力量調整供給</a></li>
+<li><a href="/pg/consignment/system/process.html">電源接続案件について</a></li>
+<li><a href="/pg/consignment/reserve/">調整力電源等</a></li>
+<li><a href="/pg/consignment/reserve_market/index-j.html">需給調整市場</a></li>
+<li><a href="/pg/retailer/agreement/">余力活用に関する契約</a></li>
+<li><a href="/pg/consignment/workshop/application/demand/specified_measurement.html">特定計量に関するお手続き</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お問い合わせ</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お問い合わせ</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/user/contact.html">お問い合わせ</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.content-nav-container-inner-->
+</div><!--/.mega-drop-->
+</li>
+
+
+<li class="global-nav04"><a href="javascript:void(0);" class="second-head">電気工事店さま・<BR>電気主任技術者さま</a>
+<div class="mega-drop">
+<div class="content-nav-container-inner ver2">
+<p class="site-menu-top sp-hidden"><span>電気工事店さま・電気主任技術者さま</span>
+  <span class="wrap-has-icon">
+    <a href="/pg/consignment/workshop/" class="has-icon icon01"><span>ご案内トップ</span></a>
+    <a href="/pg/consignment/workshop/information/index-j.html" class="has-icon icon02"><span>お知らせ</span></a>
+    <a href="https://pgfaq.tepco.co.jp/" class="has-icon icon03"><span>よくあるご質問</span></a>
+    <a href="/pg/user/contact.html" class="has-icon icon04"><span>お問い合わせ</span></a>
+  </span>
+</p>
+<p class="site-menu-top has-icon icon01 pc-hidden"><a href="/pg/consignment/workshop/">ご案内トップ</a></p>
+<p class="site-menu-top has-icon icon02 pc-hidden"><a href="/pg/consignment/workshop/information/index-j.html">お知らせ</a></p>
+<p class="site-menu-top has-icon icon03 pc-hidden"><a href="https://pgfaq.tepco.co.jp/">よくあるご質問</a></p>
+<p class="site-menu-top has-icon icon04 pc-hidden"><a href="/pg/user/contact.html">お問い合わせ</a></p>
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お申込み</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お申込み</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/workshop/application/demand/index-j.html">新増設のお申込み</a></li>
+<li><a href="/pg/consignment/workshop/application/consult/index-j.html">事前協議のお申込み</a></li>
+<li><a href="/pg/consignment/workshop/application/relocation/index-j.html">電柱移設などのお申込み</a></li>
+<li><a href="/pg/consignment/workshop/procedure/high-pressure/switch/index-j.html">開閉器操作のお申込み</a></li>
+<li><a href="/pg/consignment/workshop/procedure/high-pressure/pressure/index-j.html">高圧Bルートサービスのお申込み</a></li>
+<li><a href="/pg/consignment/workshop/procedure/high-pressure/pulse/index-j.html">パルス提供のお申込み</a></li>
+<li><a href="/pg/consignment/workshop/island/index-j.html">島嶼地域の各種ご案内</a></li>
+<li><a href="/pg/consignment/workshop/procedure/flow/index-j.html">電気使用お申込みの流れ</a></li>
+<li><a href="/pg/retailer/rushservice/index-j.html">高圧電気設備の停電時かけつけサービス</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">各種お手続き</a></p>
+<ul class="site-menu-parent row2">
+<li><div class="no-link"><span>各種お手続き</span><span class="pc-hidden"> トップ</span></div>
+  <div class="wrap-site-menu-child">
+    <ul class="site-menu-child">
+      <li><div class="no-link-child">低圧供給</div></li>
+      <li><a href="/pg/consignment/workshop/procedure/low-pressure/index-j.html">低圧供給のお申込み概要</a></li>
+      <li><div class="no-link-child">高圧・特別高圧供給</div></li>
+      <li><a href="/pg/consignment/workshop/procedure/high-pressure/index-j.html">高圧・特別高圧供給お申込み概要</a></li>
+      <li><a href="/pg/consignment/workshop/procedure/high-pressure/harmonic/index-j.html">高調波流出電流計算書のご提出</a></li>
+    </ul>
+    <ul class="site-menu-child">
+      <li><div class="no-link-child">発電　受給契約（FIT）</div></li>
+      <li><a href="/pg/consignment/workshop/procedure/renewable/index-j.html">FIT制度お申込み概要</a></li>
+      <li><a href="/pg/consignment/workshop/procedure/renewable/fit/workshop.html">受給契約（FIT）低圧お申込みのご案内</a></li>
+      <li><a href="/pg/consignment/workshop/procedure/renewable/fit/corporate.html">受給契約（FIT）高圧・特別高圧お申込みのご案内</a></li>
+      <li><div class="no-link-child">発電　発電量調整供給契約（非FIT・FIP）</div></li>
+      <li><a href="/pg/consignment/workshop/procedure/renewable/retailservice/low-pressure.html">発電量調整供給契約（非FIT・FIP）低圧お申込みのご案内</a></li>
+      <li><a href="/pg/consignment/workshop/procedure/renewable/retailservice/high-pressure.html">発電量調整供給契約（非FIT・FIP）高圧・特別高圧お申込みのご案内</a></li>
+    </ul>
+  </div>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お役立ち情報</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お役立ち情報</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+  <li><a href="/pg/consignment/workshop/duration/index-j.html">お申込みから送電までの所要期間</a></li>
+  <li><a href="http://d-reservation.jp/Top.jsp">供給工事状況の確認（低圧）</a></li>
+  <li><a href="/pg/consignment/workshop/procedure/renewable/purchasedpower.html">再生可能エネルギー 購入実績お知らせサービス</a></li>
+  <li><a href="/pg/consignment/workshop/workshop-search/index-j.html">事業所検索</a></li>
+  <li><a href="/pg/consignment/demand/process/index-j.html">工程見える化システム</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.content-nav-container-inner-->
+</div><!--/.mega-drop-->
+</li>
+
+
+
+<li class="global-nav05"><a href="javascript:void(0);" class="second-head">その他お手続き・<BR>ご案内</a>
+<div class="mega-drop">
+<div class="content-nav-container-inner">
+<p class="site-menu-top sp-hidden"><span>その他お手続き・ご案内</span></p>
+
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お手続き</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お手続き</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/pole/">電柱共架のお手続き</a></li>
+<li><a href="/pg/consignment/equipment/">地上機器共架のお手続き</a></li>
+<li><a href="/pg/electricity-supply/operation/distribution/protectivetube.html">防護管取付のお手続き</a></li>
+<li><a href="/pg/electricity-supply/operation/distribution/removal.html">建物解体等に伴う引込線等撤去のお手続き</a></li>
+<li><a href="/pg/consignment/buriedobject/index-j.html">設備(埋設物・送電線)照会・施工協議のお手続き</a></li>
+<li><a href="/pg/consignment/engineering/s-map-j.html">供給エリア塩害マップ</a></li>
+<li><a href="/pg/consignment/pylon/index-j.html">鉄塔ご利用のお手続き</a></li>
+<li><a href="/pg/consignment/duct/">管路・洞道ご利用のお手続き</a></li>
+<li><a href="/pg/consignment/haidenjigyouseido/index-j.html">配電事業制度のお手続き</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">ご案内</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>ご案内</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/consignment/zonemap/">特別高圧供給をご希望されるお客さま（WELCOME ZONE MAP）</a></li>
+<li><a href="/pg/consignment/engineering/">配電設備に関する技術支援・劣化診断</a></li>
+<li><a href="/pg/consignment/partners/index-j.html">パートナーズナビ</a></li>
+</ul>
+</li>
+</ul>
+
+<p class="site-menu-parent-control"><a href="javascript:void(0);">お問い合わせ</a></p>
+<ul class="site-menu-parent">
+<li><div class="no-link"><span>お問い合わせ</span><span class="pc-hidden"> トップ</span></div>
+<ul class="site-menu-child">
+<li><a href="/pg/user/contact.html">お問い合わせ</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p class="close"><a href="javascript:void(0);"><span class="close-txt">閉じる</span></a></p>
+</div><!--/.content-nav-container-inner-->
+</div><!--/.mega-drop-->
+</li>
+
+
+</ul>
+</div><!--/.content-nav-container-->
+</div><!--/#content-nav-wrapper-->
+</div><!--/#content-head-wrapper-->
+
+
+<div id="content-body-wrapper">
+<div class="content-level1-wrapper">
+<div class="local-nav-wrapper">
+<p class="list-control-sp"><a href="javascript:void(0);">当社における系統情報について</a></p>
+<div class="local-nav">
+<ul class="list-third">
+<li class="third01"><a href="/pg/consignment/system/">系統情報</a></li>
+<li class="third05"><a href="/pg/consignment/system/keitoukonzatu/index-j.html">系統混雑情報</a></li>
+<li class="third02"><a href="/pg/consignment/system/process.html">一括検討プロセス</a></li>
+<li class="third03"><a href="/pg/consignment/system/recruitment.html">募集プロセス</a></li>
+<li class="third04"><a href="/pg/consignment/system/archive.html">過去に掲載した系統情報</a></li>
+</ul>
+</div><!--/.local-nav-->
+</div><!--/.local-nav-wrapper-->
+<div class="hdg-level1-wrapper">
+<h1 class="hdg-level1">当社における系統情報について</h1>
+</div><!--/.hdg-level1-wrapper-->
+</div><!--/.content-level1-wrapper-->
+<div id="content-body">
+<link rel="stylesheet" media="all" href="/pg/consignment/system/pdf/keitou.css" />
+<div class="section">
+<div class="news-element-wrapper">
+<div class="hdg-wrapper" id="anchor01">
+<h2 class="hdg-level2"></h2>
+<h2 class="hdg-level2">系統情報更新のお知らせ</h2>
+<p class="link-btn-type01"><a href="/pg/consignment/system/information/index-j.html">一覧</a></p></div><!--/.hdg-wrapper--><dl><dt><span>2026年8月25日</span> </dt> <dd>太陽光発電および風力発電の出力制御見通しの2025年度算定データを更新しましたので、お知らせいたします。</dd><dt><span>2026年8月21日</span> </dt> <dd>「需要・送配電に関する情報」の予想潮流について、配電系統（22kV以下）を更新いたしました。なお、基幹系統・地域供給系統についてはデータメンテナンスのため９月中の更新を予定しております。</dd><dt><span>2026年8月12日</span> </dt> <dd>太陽光発電および風力発電の出力制御見通しの2025年度算定データを掲載しましたので、お知らせいたします</dd><dt><span>2026年7月16日</span> </dt> <dd>「需要・送配電に関する情報」の系統の予想潮流等に関するCSV形式の公開データを追加しました。</dd><dt><span>2026年7月10日</span> </dt> <dd>「需要・送配電に関する情報」の系統構成・予想潮流を更新いたしました。また、CSVデータ形式につきましては、7月中に掲載いたします。</dd></dl></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">系統情報に関するよくあるご質問</h2>
+<p class="doc-text">皆さまからよくいただくご質問にお答えいたします。<br />
+ <a class="link-pdf" href="/pg/consignment/system/pdf/systeminformation_qa_0414.pdf" target="_blank">「系統情報に関する問合せ」QA（PDF:590KB)<span class="file-capacity"></span></a><br />
+ なお，再生可能エネルギー固定価格買取制度の手続き等に関するよくあるご質問については<a class="link-doc" href="/pg/consignment/fit/faq.html">こちら</a>をご覧ください。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">空容量マッピングに関する情報</h2>
+<p class="doc-text">「系統の空き容量等に関する情報」は「系統の予想潮流等に関する情報」へ統合して公開しています。</p></div></div>
+<div class="section">
+<h2 class="h2-title marg-t30">ノンファーム型接続に関する情報</h2>
+<div>
+<h3 class="hdg-level3">ノンファーム型接続発電設備の申込み・接続状況</h3>
+<div class="news-element-wrapper marg-b00"><dl><dt><span>2025年1月31日公開</span> </dt> <dd>ノンファーム型接続発電設備の申込み・接続状況　<a class="link-pdf" href="/pg/consignment/system/pdf/nonfarm_status.pdf" target="_blank"><span class="file-capacity">112KB</span><br /></a></dd> <dd>過去分<a class="link-pdf" href="/pg/consignment/system/pdf/nonfarm_past_status.xlsx" target="_blank"><span class="file-capacity">67KB</span></a> </dd></dl>
+<p>※経済産業省　資源エネルギー庁の「系統情報の公表の考え方」の改定（2024年12月）に伴い、ノンファーム型接続による再生可能エネルギー等の接続・申込状況に関する情報」は公表を終了しております。<br /></p></div></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">流通設備計画</h2>
+<p class="doc-text">流通設備建設計画につきましては、<a class="link-pdf" href="/pg/consignment/system/pdf/20250526_setubikeikaku-j500-275.pdf" target="_blank">こちら<span class="file-capacity">705KB</span></a>をご覧下さい。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">需要・送配電に関する情報</h2>
+<p class="doc-text">需要・送配電に関する情報の留意点は<a class="link-pdf" href="/pg/consignment/system/pdf/jyuyou_souhaiden_points_to_note.pdf" target="_blank">こちら<span class="file-capacity">344KB</span></a>をご覧下さい。</p>
+<p class="doc-text">需要・送配電に関する情報の免責事項は<a class="link-pdf" href="/pg/consignment/system/pdf/disclaimer.pdf" target="_blank">こちら<span class="file-capacity">318KB</span></a>をご覧下さい。</p>
+<h3 class="hdg-level3">基幹系統(275kV以上) 地点別需要・系統潮流実績</h3>
+<div class="marg-b30">
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_kikan.pdf?251028" target="_blank">2024年度_実績系統図<span class="file-capacity">1.75MB</span></a></li>
+<li><a href="/pg/consignment/system/pdf/tyouryu_kikan.zip?251028" target="_blank">2024年度_潮流実績<span class="file-capacity">(ZIP:8.33MB)</span></a></li>
+</ul></div>
+<h3 class="hdg-level3">地方供給系統(154kV) 地点別需要・系統潮流実績</h3>
+<div class="marg-b30">
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_154kV.pdf?251028" target="_blank">2024年度_実績系統図<span class="file-capacity">2.94MB</span></a></li>
+<li><a href="/pg/consignment/system/pdf/tyouryu_154kV.zip?251028" target="_blank">2024年度_潮流実績<span class="file-capacity">(ZIP:13.6MB)</span></a></li>
+</ul></div>
+<h3 class="hdg-level3">地方供給系統(66kV) 地点別需要・系統潮流実績</h3>
+<div class="marg-b30">
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_tochigi.pdf?251028" target="_blank">2024年度_実績系統図（栃木県）<span class="file-capacity">1.42MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_gunma.pdf?251028" target="_blank">2024年度_実績系統図（群馬県）<span class="file-capacity">1.24MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_ibaraki.pdf?251028" target="_blank">2024年度_実績系統図（茨城県）<span class="file-capacity">1.50MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_saitama.pdf?251028" target="_blank">2024年度_実績系統図（埼玉県）<span class="file-capacity">1.48MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_chiba.pdf?251028" target="_blank">2024年度_実績系統図（千葉県）<span class="file-capacity">2.09MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_tokyo_23.pdf?251028" target="_blank">2024年度_実績系統図（東京都[23区]）<span class="file-capacity">5.26MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_tokyo_tama.pdf?251028" target="_blank">2024年度_実績系統図（東京都[多摩地区]）<span class="file-capacity">1.07MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_kanagawa.pdf?251028" target="_blank">2024年度_実績系統図（神奈川県）<span class="file-capacity">2.05MB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_yamanasi.pdf?251028" target="_blank">2024年度_実績系統図（山梨県）<span class="file-capacity">443.0KB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_shizuoka.pdf?251028" target="_blank">2024年度_実績系統図（静岡県）<span class="file-capacity">838.0KB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_fukushima.pdf?251028" target="_blank">2024年度_実績系統図（福島県[一部]）<span class="file-capacity">98.0KB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_nagano.pdf?251028" target="_blank">2024年度_実績系統図（長野県[一部]）<span class="file-capacity">166.0KB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/jisseki_niigata.pdf?251028" target="_blank">2024年度_実績系統図（新潟県[一部]）<span class="file-capacity">135.0KB</span></a></li>
+<li><a href="/pg/consignment/system/pdf/tyouryu_66kV.zip?251028" target="_blank">2024年度_潮流実績<span class="file-capacity">(ZIP:30.2MB)</span></a></li>
+</ul></div>
+<div class="marg-b30">
+<h3 class="hdg-level3">系統の予想潮流等に関する情報</h3>
+<p class="doc-text">系統の予想潮流等に関する情報の利用における留意点は<a class="link-pdf" href="/pg/consignment/system/pdf/yosouchoryu_points_to_note.pdf" target="_blank">こちら<span class="file-capacity">217KB</span></a>をご覧ください。</p>
+<p class="doc-text">基幹系統（275kV以上）</p>
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/kikan_yosochoryu.pdf" target="_blank">基幹系統<span class="file-capacity">2,808KB</span></a><a style="padding-left: 110px;" href="/pg/consignment/system/pdf/csv_yosochoryu_kikan.zip" target="_blank" class="link-csv">基幹系統CSV<span class="file-capacity">(ZIP:6 KB)</span></a></li>
+</ul>
+<p class="doc-text marg-t30">地域供給系統・配電系統（154kV以下）</p>
+<div class="marg-b30">
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/tochigi_yosochoryu.pdf" target="_blank">栃木県<span class="file-capacity">4,459 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_tochigi.zip" target="_blank" class="link-csv">栃木県CSV<span class="file-capacity">(ZIP:7 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/gunma_yosochoryu.pdf" target="_blank">群馬県<span class="file-capacity">4,017 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_gunma.zip" target="_blank" class="link-csv">群馬県CSV<span class="file-capacity">(ZIP:6 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/ibaraki_yosochoryu.pdf" target="_blank">茨城県<span class="file-capacity">3,739 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_ibaraki.zip" target="_blank" class="link-csv">茨城県CSV<span class="file-capacity">(ZIP:8 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/saitama_yosochoryu.pdf" target="_blank">埼玉県<span class="file-capacity">5,302 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_saitama.zip" target="_blank" class="link-csv">埼玉県CSV<span class="file-capacity">(ZIP:8 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/chiba_yosochoryu.pdf" target="_blank">千葉県<span class="file-capacity">3,717 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_chiba.zip" target="_blank" class="link-csv">千葉県CSV<span class="file-capacity">(ZIP:9 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/tokyo23_yosochoryu.pdf" target="_blank">東京都[23区]<span class="file-capacity">3,740 KB</span></a><a style="padding-left: 75px;" href="/pg/consignment/system/pdf/csv_yosochoryu_tokyo.zip" target="_blank" class="link-csv">東京都[23区]CSV<span class="file-capacity">(ZIP:8 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/tama_yosochoryu.pdf" target="_blank">東京都[多摩地区]<span class="file-capacity">3,295 KB</span></a><a style="padding-left: 50px;" href="/pg/consignment/system/pdf/csv_yosochoryu_tama.zip" target="_blank" class="link-csv">東京都[多摩地区]CSV<span class="file-capacity">(ZIP:5 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/kanagawa_yosochoryu.pdf" target="_blank">神奈川県<span class="file-capacity">4,744 KB</span></a><a style="padding-left: 105px;" href="/pg/consignment/system/pdf/csv_yosochoryu_kanagawa.zip" target="_blank" class="link-csv">神奈川県CSV<span class="file-capacity">(ZIP:9 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/yamanashi_yosochoryu.pdf" target="_blank">山梨県<span class="file-capacity">3,958 KB</span></a><a style="padding-left: 120px;" href="/pg/consignment/system/pdf/csv_yosochoryu_yamanashi.zip" target="_blank" class="link-csv">山梨県CSV<span class="file-capacity">(ZIP:4 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/shizuoka_yosochoryu.pdf" target="_blank">静岡県［富士川以東］<span class="file-capacity">3,183 KB</span></a><a style="padding-left: 25px;" href="/pg/consignment/system/pdf/csv_yosochoryu_shizuoka.zip" target="_blank" class="link-csv">静岡県［富士川以東］CSV<span class="file-capacity">(ZIP:5 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/fukushima_yosochoryu.pdf" target="_blank">福島県[一部]<span class="file-capacity">2,205 KB</span></a><a style="padding-left: 80px;" href="/pg/consignment/system/pdf/csv_yosochoryu_fukushima.zip" target="_blank" class="link-csv">福島県CSV<span class="file-capacity">(ZIP:2 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/nagano_yosochoryu.pdf" target="_blank">長野県[一部]<span class="file-capacity">2,174 KB</span></a><a style="padding-left: 80px;" href="/pg/consignment/system/pdf/csv_yosochoryu_nagano.zip" target="_blank" class="link-csv">長野県CSV<span class="file-capacity">(ZIP:2 KB)</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/niigata_yosochoryu.pdf" target="_blank">新潟県[一部]<span class="file-capacity">2,106 KB</span></a><a style="padding-left: 80px;" href="/pg/consignment/system/pdf/csv_yosochoryu_niigata.zip" target="_blank" class="link-csv">新潟県CSV<span class="file-capacity">(ZIP:2 KB)</span></a></li>
+</ul></div></div>
+<div class="marg-b30">
+<h3 class="hdg-level3">送電線等の投資・廃止計画</h3>
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/20250526_setubikeikaku-j154.pdf" target="_blank">送変電設備の投資・廃止計画（154kV分）<span class="file-capacity">863KB</span></a></li>
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/20250526_setubikeikaku-j66.pdf" target="_blank">送変電設備の投資・廃止計画 （66kV分）<span class="file-capacity">1.222KB</span></a></li>
+</ul>
+<p class="doc-text marg-b00">※275kV以上の送変電設備の投資・廃止計画につきましては、<a class="link-pdf" href="/pg/consignment/system/pdf/20250526_setubikeikaku-j500-275.pdf" target="_blank">流通設備建設計画<span class="file-capacity">705KB</span></a>をご覧下さい。</p></div>
+<div class="marg-b30">
+<h3 class="hdg-level3">送電線等の作業停止計画</h3>
+<ul class="list-disc marg-b00">
+<li><a href="/pg/consignment/system/pdf/teishi_2024.zip?251028" target="_blank">2024年度_作業停止計画<span class="file-capacity">(ZIP:96.0MB)</span></a></li>
+<li><a href="/pg/consignment/system/pdf/teishi_2025.zip?251028" target="_blank">2025年度_作業停止計画<span class="file-capacity">(ZIP:94.4MB)</span></a></li>
+<li><a href="/pg/consignment/system/pdf/teishi_2026.zip" target="_blank">2026年度_作業停止計画<span class="file-capacity">(ZIP:1.57MB)</span></a></li>
+</ul></div>
+<div class="marg-b30">
+<h3 class="hdg-level3">その他</h3>
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/impedance.pdf?251028" target="_blank">インピーダンス（ループ系統）<span class="file-capacity">72.7KB</span></a></li>
+</ul></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">需給状況に関する情報</h2>
+<p class="doc-text">でんき予報（翌日予報、当日予報・実績）は、<a class="link-doc" href="/forecast/index-j.html">こちら</a>をご覧下さい。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">エリアの需給実績情報</h2>
+<p class="doc-text">エリアの需要実績(1時間値)ならびにエリアの供給実績（電源種別、1時間値）は、<a class="link-doc" href="/forecast/html/area_data-j.html">こちら</a>をご覧下さい。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">系統混雑に関する情報</h2>
+<p class="doc-text">系統混雑に関する情報については<a class="link-doc" href="/pg/consignment/system/keitoukonzatu/index-j.html">こちら</a>をご覧下さい。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">発電等設備の受付状況に関する情報・出力制御区分の内訳</h2>
+<div class="news-element-wrapper marg-b00">
+<h3 class="hdg-level3">本土（島嶼部除く）</h3><!--/.hdg-wrapper--><dl><dt><span>2026年8月26日公開</span> </dt><dd><a class="link-excel" href="/pg/consignment/system/pdf/uketsuke_saishin_03_hondo.xlsx" target="_blank">本土（島嶼部除く）における発電等設備の受付状況に関する情報・出力制御区分の内訳 <span class="file-capacity">45 KB</span></a> </dd></dl><dl><dt><span>2025年7月31日公開</span> </dt><dd><a class="link-pdf" href="/pg/consignment/system/pdf/newenergy_hondo_backnumber.pdf" target="_blank">本土（島嶼部除く）における再生可能エネルギー発電設備の接続・申込状況の過去分（2019年4月末時点～2025年5月末時点） <span class="file-capacity">535KB</span></a> </dd> </dl>
+<h3 class="hdg-level3 marg-t30" id="islands">島嶼部</h3><!--/.hdg-wrapper--><dl><dt><span>2026年8月26日</span> </dt><dd><a class="link-pdf" href="/pg/consignment/system/pdf/newenergy_tousho.pdf" target="_blank">島嶼部における再生可能エネルギー発電設備の接続・申込状況 <span class="file-capacity">394 KB</span></a> </dd></dl>
+<h3 class="hdg-level3 marg-t30">太陽光発電および風力発電の出力制御見通し</h3>
+<div class="pad-1em">
+<p class="marg-b20">総合資源エネルギー調査会 省エネルギー・新エネルギー分科会 新エネルギー小委員会/電力・ガス事業分科会再生可能エネルギー大量導入・次世代電力ネットワーク小委員会 次世代電力系統ワーキンググループにおいて、当社エリアでの出力制御見通しを算定しています。</p>
+<p>[短期見通し]<br /> 当社の出力制御見通しは、以下の資料をご確認ください。</p>
+<p style="padding-left: 1em;"><a class="link-pdf" href="/pg/consignment/access/pdf/smitoshi_2025r.pdf" target="_blank">2025年度出力制御見通しについて<span class="file-capacity">（512KB）</span></a></p>
+<p style="padding-left: 1em;"><a class="link-pdf" href="/pg/consignment/access/pdf/smitoshi_2026.pdf" target="_blank">2026年度出力制御見通しについて<span class="file-capacity">（666KB）</span></a></p></div><br />
+
+<div class="pad-1em">
+<p>[長期見通し]<br />
+ 当社の出力制御見通しは、<a class="link-doc" href="https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/smart_power_grid_wg/012.html" target="_blank">こちら</a>をご確認ください。<br />
+ また、算定に用いたシミュレーションデータは以下をご確認ください。<br /></p>
+<div style="padding-left: 1em;">
+<p><a class="link-excel" href="/pg/consignment/access/pdf/simulation_data_2025.xlsx" target="_blank">太陽光発電および風力発電の出力制御見通し算定データ（2025年度）<span class="file-capacity">（1.43MB）</span></a></p>
+<p><a class="link-doc" href="https://www.tepco.co.jp/pg/consignment/system/mitoushi.html" target="_blank">過去分はこちら</a></p></div></div><br />
+
+<p class="marg-t20">上記の資料に関するお問い合わせは<a class="link-doc" href="/pg/consignment/retailservice2/wsc/" target="_blank">ネットワークサービスセンター</a>にて受け付けておりますので、ご不明な点がございましたらご連絡下さい。</p></div></div></div></div>
+<div class="section-wrapper">
+<div class="section">
+<p class="ttl_info">開示情報</p>
+<h3 class="hdg-level3">電源に関する情報の開示</h3>
+<p class="doc-text">電源に関する情報の開示については<a class="link-doc" href="/pg/consignment/system/disclosure.html" target="_blank">こちら</a>をご覧下さい。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">供給区域の電力需要実績の開示について</h2>
+<p class="doc-text">当社の供給区域の電力需要実績に関するデータ（月間使用電力量等）を個別に開示しております。詳しくは、<a class="link-doc" href="/pg/consignment/retailservice2/wsc/">ネットワークサービスセンター</a>までお問合わせください。</p></div></div>
+<div class="section-wrapper">
+<div class="section">
+<p class="ttl_info">その他情報</p>
+<div class="section">
+<h2 class="h2-title">地域間連系線、地内基幹送電線、需給関連情報</h2>
+<p><a class="link-doc" href="http://occtonet.occto.or.jp/public/dfw/RP11/OCCTO/SD/LOGIN_login#">電力広域的運営推進機関のホームページ</a>を参照下さい。</p></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">再生可能エネルギー低圧事業用発電設備（50kW未満）の系統連系に必要な期間について</h2>
+<h3 class="hdg-level3">再生可能エネルギー低圧事業用発電設備（50kW未満）の系統連系に必要な期間　～2019年2月4日～</h3>
+<ul class="list-disc marg-b00">
+<li><a class="link-pdf" href="/pg/consignment/system/pdf/renkeikikan_20190204.pdf" target="_blank">茨城県・千葉県<span class="file-capacity">200KB</span></a></li>
+</ul></div></div>
+<div class="section-wrapper">
+<div class="section">
+<h2 class="h2-title">過去に掲載した系統情報について</h2>
+<p class="doc-text">過去に掲載した系統情報につきましては、<a class="link-doc" href="/pg/consignment/system/archive.html">こちら</a>をご覧下さい。</p></div></div></div></div>
+<div><br /></div></div> 適用 閉じる
+</div><!--/content-body-->
+
+</div><!--/#content-body-wrapper-->
+<div id="content-foot-support">
+<p class="content-body-top"><a href="#content-all-wrapper">ページの先頭へ戻ります</a></p>
+<div class="bred-crumb-wrapper">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="home" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/pg/index-j.html"><span itemprop="name">HOME</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/pg/consignment/index-j.html"><span itemprop="name">託送・お手続き・サービス</span></a><meta itemprop="position" content="2"></li>
+<li><span>当社における系統情報について</span></li></ol>
+</div><!--/.bred-crumb-wrapper-->
+</div><!--/#content-foot-support-->
+<!--SiteStratos Version 2.0-->
+<script type="text/javascript"><!--
+
+var _ANid = "tepco";
+
+var _ANprt = (document.location.protocol=="https:"?"https://www4.tepco.co.jp/common_files/js/":"https://www.tepco.co.jp/common_files/js/");
+var _ANsrc = "ss_tepco.js";
+document.write(unescape('%3Cscr'+'ipt type="text/javascript" src="'+_ANprt+_ANsrc+'"%3E%3C/scr'+'ipt%3E'));
+//--></script>
+<noscript><ins><img src="//a5.ogt.jp/plog?id=tepco&guid=ON" width="2" height="1" alt="" /></ins></noscript>
+<!--END OF SiteStratos-->
+
+<!--SiteStratos HM Version 2.0-->
+<script type="text/javascript"><!--
+var _ANprt = (document.location.protocol=="https:"?"https://www4.tepco.co.jp/common_files/js/":"https://www.tepco.co.jp/common_files/js/");
+var _ANsrc = "ss_tepco_hm.js";
+document.write(unescape('%3Cscr'+'ipt type="text/javascript" src="'+_ANprt+_ANsrc+'"%3E%3C/scr'+'ipt%3E'));
+//--></script>
+<!--END OF HM SiteStratos -->
+<div id="content-foot-wrapper">
+<div class="content-foot-container">
+<ul class="global-service">
+<li><a href="/"><span>持株会社</span><img src="/pg/shared/images/logo_footer_group_hd.png" alt="TEPCO 東京電力ホールディングス" class="btn"></a></li>
+<li><a href="/fp/"><span>火力発電・燃料</span><img src="/pg/shared/images/logo_footer_group_fp.png" alt="TEPCO 東京電力フュエル&パワー" class="btn"></a></li>
+<li><a href="/pg/"><span>送電・配電</span><img src="/pg/shared/images/logo_footer_group_pg.png" alt="東京電力パワーグリッド" class="btn"></a></li>
+<li><a href="/ep/"><span>電気・ガス・くらし</span><img src="/pg/shared/images/logo_footer_group_ep.png" alt="TEPCO 東京電力エナジーパートナー" class="btn"></a></li>
+<li><a href="/rp/"><span>再生可能エネルギー</span><img src="/pg/shared/images/logo_footer_group_rp.png" alt="TEPCO 東京電力リニューアブルパワー" class="btn"></a></li>
+</ul>
+<div class="sns-content">
+<dl>
+<dt>公式アカウント：</dt>
+<dd>
+<ul>
+<li><a href="/twitter/"><img src="/pg/shared/images/icon_sns_x.png" alt="東京電力 公式Xアカウントのご案内ページへリンクします" class="btn"></a></li>
+<li><a href="https://www.facebook.com/OfficialTEPCO" target="_blank"><img src="/pg/shared/images/icon_sns_facebook.png" alt="facebook公式アカウントサイトへリンクします" class="btn"></a></li>
+<li><a href="https://www.instagram.com/tepco.official/" target="_blank"><img src="/pg/shared/images/icon_sns_instagram.png" alt="Instagram公式アカウントサイトへリンクします" class="btn"></a></li>
+<li><a href="https://www.youtube.com/user/TEPCOofficial" target="_blank"><img src="/pg/shared/images/icon_sns_youtube.png" alt="youtube公式アカウントサイトへリンクします" class="btn"></a></li>
+<li><a href="/line/"><img src="/pg/shared/images/icon_sns_line.png" alt="東京電力 公式LINEアカウントのご案内ページへリンクします" class="btn"></a></li>
+</ul>
+</dd>
+</dl>
+</div><!--/.sns-content-->
+<div class="utility-content">
+<ul>
+<li><a href="/pg/sitemap/">サイトマップ</a></li>
+<li><a href="/legal/">サイトのご利用にあたって</a></li>
+<li><a href="/pg/privacypolicy/">当社の個人情報の取扱いについて</a></li>
+<li><a href="/pg/legal/external-tools.html">利用者情報の外部送信について</a></li>
+</ul>
+<p class="copyright">&copy; TEPCO Power Grid, Inc.</p>
+</div><!--/.utility-content-->
+</div><!--/.content-foot-container-->
+</div><!--/#content-foot-wrapper-->
+<script type="text/javascript" src="https://cache.dga.jp/s/tepco2/search_tool_n3.js"></script>
+</div><!--/#content-all-->
+</div><!--/#content-all-wrapper-->
+</body>
+</html>

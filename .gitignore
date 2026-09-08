@@ -1,0 +1,111 @@
+# ==============================================================================
+# Repository Exclusions: Japan High-Voltage Grid Capacity Map
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Python & Bytecode Caches
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ------------------------------------------------------------------------------
+# Virtual Environments
+# ------------------------------------------------------------------------------
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# Testing & Coverage
+# ------------------------------------------------------------------------------
+.cache/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ------------------------------------------------------------------------------
+# Geospatial Data Outputs (ETL intermediate & final artifacts)
+# ------------------------------------------------------------------------------
+data/*.geojson
+data/*.parquet
+data/*.gpkg
+data/*.csv
+data/*.xlsx
+data/*.json
+# Preserve directory structure
+!data/.gitkeep
+
+# CRITICAL: Preserve offline test fixtures!
+!tests/fixtures/**
+
+# ------------------------------------------------------------------------------
+# Vector Tile Outputs
+# ------------------------------------------------------------------------------
+*.pmtiles
+web/public/tiles/*.pmtiles
+# Preserve offline test fixture pmtiles if created
+!tests/fixtures/*.pmtiles
+
+# ------------------------------------------------------------------------------
+# Node.js & Web Frontend Artifacts
+# ------------------------------------------------------------------------------
+node_modules/
+web/node_modules/
+web/dist/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------------------------------------------------------
+# IDE & Operating System Artifacts
+# ------------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------------------------------------------------------
+# Local Scratch & Temporary Files
+# ------------------------------------------------------------------------------
+*.tmp
+*.local
+tmp/
+web/.generated/
+web/.generated-build/
+web/public/data/*.geojson
+web/public/data/dataset.json

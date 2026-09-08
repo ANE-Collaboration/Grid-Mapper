@@ -1,0 +1,969 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>系統情報の公表について - ほくでんネットワーク</title>
+
+<meta name="description" content="将来の流通設備整備計画および系統空容量情報を公開しています。">
+<meta name="keywords" content="ほくでんネットワーク,北海道電力ネットワーク,託送">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="/network/assets/img/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/network/assets/img/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/network/assets/img/apple_touch_icon.png">
+<link rel="stylesheet" href="../../assets/css/base.css" media="all">
+<link rel="stylesheet" href="../../assets/css/layout.css" media="all">
+<link rel="stylesheet" href="../../assets/css/module.css" media="all">
+<!-- using responsive -->
+<link rel="stylesheet" href="../../assets/css/responsive.css" media="all">
+<!-- / using responsive -->
+<link rel="stylesheet" href="../../assets/css/colorbox.css" media="all">
+
+<script src="../../assets/module/jquery-1.10.2.min.js"></script>
+<script src="../../assets/module/jquery.cookie.js"></script>
+<script src="../../assets/module/jqueryAutoHeight.js"></script>
+<script src="../../assets/module/jquery.colorbox-min.js"></script>
+
+<script src="../../assets/js/script.js"></script>
+<!-- using responsive -->
+<script src="../../assets/js/responsive.js"></script>
+<!-- / using responsive -->
+<script src="../../assets/js/include.js"></script>
+
+<!--[if lt IE 9]>
+<script src="../../assets/module/html5.js"></script>
+<script src="../../assets/module/PIE.js"></script>
+<![endif]-->
+
+<!-- 共通コードエリア 1 -->
+<!--#include virtual="/network/assets/inc/code-head.html" -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6BZL42');</script>
+<!-- End Google Tag Manager -->
+<!-- /共通コードエリア 1 -->
+</head>
+
+<body id="TOP" class="child con_service public_document">
+<!-- 共通コードエリア 2 -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6BZL42"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--#include virtual="/network/assets/inc/code-body-top.html" -->
+<!-- /共通コードエリア 2 -->
+
+<div class="reader"><a id="PL_PAGETOP">ページの先頭です。</a></div>
+<div class="block_skip js_block_skip"><a href="#PL_PAGETEXT">本文へジャンプする。</a></div>
+<p class="ignore">本ウェブサイトでは、JavaScriptおよびスタイルシートを使用しています。<br>お客さまがご使用のブラウザではスタイルが未適応のため、本来とは異なった表示になっていますが、情報は問題なくご利用できます。</p>
+
+<!--#include virtual="/network/assets/inc/header.html" -->
+<div class="header_adjustment"></div>
+
+<div class="reader"><a id="PL_HEADMENU">ここからサイト内共通メニューです。</a></div>
+<div class="block_skip js_block_skip"><a href="#PL_PAGETEXT">サイト内共通メニューをスキップする。</a></div>
+
+<!--#include virtual="/network/assets/inc/gnavi.html" -->
+<div class="gnavi_adjustment"></div>
+
+<!--#include virtual="/network/assets/inc/h-search-sp.html" -->
+
+<div class="reader">ここから現在位置です。</div>
+<div id="breadcrumbs">
+	<ol>
+		<!--#include virtual="/network/assets/inc/bc/bc-con_service-public_document.html" -->
+		<li>系統情報の公表について</li>
+	</ol>
+</div>
+<div class="reader">現在位置ここまで。</div>
+
+<div class="reader"><a id="PL_HEADMENU_END">サイト内共通メニューここまで。</a></div>
+<div class="reader"><a id="PL_PAGETEXT">ここから本文です。</a></div>
+
+<!-- #l_main -->
+<div id="l_main">
+	<div id="h1_title_bg"><p>背景用div</p></div>
+
+	<div class="main_inner clear_fix">
+		<div class="main_contents">
+			<div class="h1_title opt_no_icon">
+				<table>
+					<tbody>
+					<tr>
+						<td class="h1_title_text">
+							<p class="sub_title mb_05"><img src="../../assets/img/ic_f_con_service.png" width="31" height="29" class="v_align_middle mr_10" alt="">託送・サービス</p>
+
+							<h1>系統情報の公表について</h1>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="section mb_30">
+				<p class="mb_20">経済産業省　資源エネルギー庁の「系統情報の公表の考え方」に基づき、以下の情報を公表しています。</p>
+				<div class="js_auto_height" data-cols="2">
+					<div class="text_center mb_05">
+						<p class="text_btn opt_general opt_light_red text_left width_45 mr_10 js_pie js_fade"><a href="#SYS_CAPACITY" class="ic_anchor"><span class="text js_auto_height_cols">系統の予想潮流等および需要・送配電に関する情報</span></a></p>
+						<p class="text_btn opt_general opt_light_red text_left width_45 js_pie js_fade"><a href="#CONSTRUCTION_PLAN" class="ic_anchor"><span class="text js_auto_height_cols">流通設備建設計画</span></a></p>
+					</div>
+					<div class="text_center mb_20">
+						<p class="text_btn opt_general opt_light_red text_left width_45 mr_10 js_pie js_fade"><a href="#CONGESTED_SYS" class="ic_anchor"><span class="text js_auto_height_cols">混雑系統に関する情報</span></a></p>
+						<p class="text_btn opt_general opt_light_red text_left width_45 js_pie js_fade"></p>
+					</div>
+					
+					<p class="mb_10">また、電力広域的運営推進機関等の整理に基づき、以下の情報を公表しています。</p>
+					<div class="text_center">
+						<p class="text_btn opt_general opt_light_red text_left width_45 mr_10 js_pie js_fade"><a href="#GRID_CONGESTION" class="ic_anchor"><span class="text js_auto_height_cols">系統混雑に関する中長期見通し</span></a></p>
+						<p class="text_btn opt_general opt_light_red text_left width_45 js_pie js_fade"></p>
+					</div>
+				</div>
+			</div>
+
+			<h2 id="SYS_CAPACITY"><span class="h_inner"><span class="bg_top"><span class="bg_btm">系統の予想潮流等および需要・送配電に関する情報</span></span></span></h2>
+			<div class="section mb_30">
+				<p class="mb_05">【留意事項】</p>
+				<div class="section mb_20">
+					<ul class="common_list">
+						<li class="mb_10">予想潮流は目安となります。系統接続の前には、接続検討のお申込みによる詳細検討が必要であり、検討の結果、変更となる場合があります。</li>
+						<li class="mb_10">予想潮流の値は想定潮流の合理化の考え方に基づき、現時点で想定される条件において設備毎に算出したものであり、実際の潮流値とは異なる可能性があります。</li>
+						<li class="mb_10">混雑状況マップ（旧空容量マップ）の系統図は模式的に示したものであり、実際の発変電所、送電線などの位置を必ずしも正確に示すものではありません。</li>
+						<li class="mb_10">実績情報は伝送異常や通信作業によるデータ欠落等がある場合があります。データ欠損時は、実績を「欠測」として表示しています。</li>
+						<li class="mb_10">潮流実績及び予想潮流においては、個別需要が分かる専用線等や電源が1ユニットのみの電源線については、第三者情報性を排除するよう加工処理を実施しており、実際とは異なる場合があります。</li>
+						<li>潮流実績や作業計画は、過去に遡り修正させていただく場合があります。この場合、実績等修正のお知らせや修正前の実績の提供はいたしませんので、予めご了承ください。</li>
+					</ul>
+				</div>
+				<h3><span class="bg_top"><span class="bg_btm">187kV以上系統</span></span></h3>
+				<div class="ml_10 mb_30">
+					<h4><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="ic_pdf mb_10"><a href="pdf/sys_config_results.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:83KB]</p>
+						<div class="clear_fix">
+							<div class="float_left opt_col2 mb_00">
+								<p class="ic_link mb_10"><a href="zip/tide_results_transmission.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線の潮流実績（2021～2025年度）</a> [ZIP:4,266KB]</p>
+							</div>
+							<div class="float_right opt_col2 ml_00">
+								<p class="ic_link"><a href="zip/tide_results_transformer.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>変圧器の潮流実績（2021～2025年度）</a> [ZIP:2,202KB]</p>
+							</div>
+						</div>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h4>
+					<div class="ml_10 mb_30">
+						<div class="clear_fix">
+							<div class="float_left opt_col2 mb_00">
+								<ul class="link_list">
+									<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:98KB]</li>
+									<li class="ic_pdf"><a href="pdf/map_forecast_tide_list.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:325KB]</li>
+								</ul>
+							</div>
+							<div class="float_right opt_col2 ml_00">
+								<p class="ic_link"><a href="zip/sys_capa_kikan.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:4KB]</p>
+							</div>
+						</div>
+					</div>
+					<h4><span class="bg_top"><span class="bg_btm">送変電設備の投資・廃止計画</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="ic_pdf"><a href="pdf/investment_removal_plan.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>送変電設備の投資・廃止計画</a> [PDF:118KB]</p>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">送変電設備の作業停止計画</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="ic_link"><a href="zip/equipment_suspend_kikan_2025-2027.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送変電設備の作業停止計画（2025～2027年度）</a> [ZIP:1,162KB]</p>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">その他</span></span></h4>
+					<div class="section mb_30">
+						<p class="ic_excel"><a href="xls/impedance_kikan_2026_01.xlsx" target="_blank"><span class="reader">Excelファイルを開きます。</span>送変電設備のインピーダンス（ループ系統）</a> [Excel:23KB]</p>
+					</div>
+				</div>
+
+				<h3><span class="bg_top"><span class="bg_btm">110kV以下系統</span></span></h3>
+				<div class="ml_10 mb_30">
+					<p class="text_center mb_10"><img src="img/outline_location_map.gif" width="620" height="550" alt="各系統の概略位置図"></p>
+					<div class="border_box opt_gray mb_30">
+						<div class="clear_fix">
+							<div class="float_left opt_col3 mb_00">
+								<ul class="link_list">
+									<li class="ic_anchor"><a href="#SYS_01">01 西中川・西名寄系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_02">02 西旭川系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_03">03 旭川系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_04">04 留辺蘂系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_05">05 女満別系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_06">06 南九条系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_07">07 西札幌系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_08">08 苗穂系統</a></li>
+								</ul>
+							</div>
+							<div class="float_left opt_col3 mb_00">
+								<ul class="link_list">
+									<li class="ic_anchor"><a href="#SYS_09">09 篠路系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_10">10 南札幌系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_11">11 恵庭系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_12">12 西小樽系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_13">13 北江別系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_14">14 西滝川系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_15">15 宇円別系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_16">16 東釧路系統</a></li>
+								</ul>
+							</div>
+							<div class="float_right opt_col3 ml_00">
+								<ul class="link_list">
+									<li class="ic_anchor"><a href="#SYS_17">17 西春別系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_18">18 北芽室・西音更系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_19">19 西伊達系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_20">20 室蘭系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_21">21 苫小牧系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_22">22 南早来・東苫小牧系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_23">23 北静内系統</a></li>
+									<li class="ic_anchor"><a href="#SYS_24">24 北七飯・大野系統</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_01"><span class="bg_top"><span class="bg_btm">01 西中川・西名寄系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:159KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_01.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:568KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:143KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:266KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local01.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_02"><span class="bg_top"><span class="bg_btm">02 西旭川系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_02.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:117KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_02.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:114KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_02.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:72KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_02.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:215KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local02.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_03"><span class="bg_top"><span class="bg_btm">03 旭川系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_03.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:151KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_03.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:328KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_03.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:87KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_03.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:239KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local03.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_04"><span class="bg_top"><span class="bg_btm">04 留辺蘂系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_04.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:150KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_04.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:302KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_04.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:93KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_04.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:268KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local04.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_05"><span class="bg_top"><span class="bg_btm">05 女満別系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_05.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:135KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_05.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:183KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_05.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:83KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_05.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:176KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local05.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_06"><span class="bg_top"><span class="bg_btm">06 南九条系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_06.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:126KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_06.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:180KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_06.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:76KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_06.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:180KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local06.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_07"><span class="bg_top"><span class="bg_btm">07 西札幌系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_07.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:137KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_07.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:302KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_07.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:128KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_07.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:232KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local07.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_08"><span class="bg_top"><span class="bg_btm">08 苗穂系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_08.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:125KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_08.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:161KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_08.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:75KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_08.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:234KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local08.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_09"><span class="bg_top"><span class="bg_btm">09 篠路系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_09.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:122KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_09.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:156KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_09.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:74KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_09.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:209KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local09.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_10"><span class="bg_top"><span class="bg_btm">10 南札幌系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_10.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:139KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_10.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:302KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_10.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:90KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_10.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:240KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local10.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_11"><span class="bg_top"><span class="bg_btm">11 恵庭系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_11.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:131KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_11.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:212KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_11.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:81KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_11.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:232KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local11.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_12"><span class="bg_top"><span class="bg_btm">12 西小樽系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_12.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:141KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_12.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:274KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_12.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:90KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_12.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:248KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local12.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_13"><span class="bg_top"><span class="bg_btm">13 北江別系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_13.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:147KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_13.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:338KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_13.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:91KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_13.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:247KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local13.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_14"><span class="bg_top"><span class="bg_btm">14 西滝川系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_14.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:151KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_14.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:525KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_14.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:143KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_14.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:255KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local14.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_15"><span class="bg_top"><span class="bg_btm">15 宇円別系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_15.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:141KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_15.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:218KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_15.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:132KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_15.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:209KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local15.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_16"><span class="bg_top"><span class="bg_btm">16 東釧路系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_16.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:132KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_16.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:203KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_16.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:83KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_16.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:244KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local16.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_17"><span class="bg_top"><span class="bg_btm">17 西春別系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_17.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:139KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_17.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:271KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_17.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:132KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_17.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:240KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local17.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<h4 id="SYS_18"><span class="bg_top"><span class="bg_btm">18 北芽室・西音更系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_18.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:148KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_18.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:584KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_18.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:91KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_18.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:237KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local18.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_19"><span class="bg_top"><span class="bg_btm">19 西伊達系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_19.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:134KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_19.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:215KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_19.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:80KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_19.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:142KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local19.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_20"><span class="bg_top"><span class="bg_btm">20 室蘭系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_20.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:141KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_20.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:201KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_20.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:81KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_20.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:208KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local20.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_21"><span class="bg_top"><span class="bg_btm">21 苫小牧系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_21.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:141KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_21.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:156KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_21.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:82KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_21.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:148KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local21.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_22"><span class="bg_top"><span class="bg_btm">22 南早来・東苫小牧系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_22.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:146KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_22.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:447KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_22.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:135KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_22.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:265KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local22.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:3KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<h4 id="SYS_23"><span class="bg_top"><span class="bg_btm">23 北静内系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_23.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:142KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_23.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:147KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_23.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:80KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_23.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:153KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local23.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:2KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4 id="SYS_24"><span class="bg_top"><span class="bg_btm">24 北七飯・大野系統</span></span></h4>
+					<div class="ml_10 mb_30">
+						<h5><span class="bg_top"><span class="bg_btm">地点別需要・系統潮流実績</span></span></h5>
+						<div class="ml_10 mb_30">
+							<ul class="link_list">
+								<li class="ic_pdf"><a href="pdf/sys_config_results_24.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（実績）</a> [PDF:166KB]</li>
+								<li class="ic_link"><a href="zip/tide_results_trans_24.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送電線・変圧器の潮流実績（2023～2025年度）</a> [ZIP:785KB]</li>
+							</ul>
+						</div>
+						<h5><span class="bg_top"><span class="bg_btm">系統構成・予想潮流・混雑状況マップ（旧空容量マップ）</span></span></h5>
+						<div class="ml_10">
+							<div class="clear_fix">
+								<div class="float_left opt_col2 mb_00">
+									<ul class="link_list">
+										<li class="ic_pdf"><a href="pdf/sys_config_forecast_tide_24.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統構成（予想潮流）</a> [PDF:159KB]</li>
+										<li class="ic_pdf"><a href="pdf/map_forecast_tide_list_24.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>混雑状況マップ・予想潮流等一覧表</a> [PDF:278KB]</li>
+									</ul>
+								</div>
+								<div class="float_right opt_col2 ml_00">
+									<p class="ic_link"><a href="zip/sys_capa_local24.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>予想潮流等一覧表</a> [ZIP:4KB]</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">平常時出力制御が発生する可能性のあるエリア</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="mb_05">【留意事項】</p>
+						<div class="ml_10 mb_20">
+							<ul class="common_list">
+								<li>
+									<p>平常時出力制御<span class="text_sup">※</span>が発生する可能性のあるエリアを模式的に示したものであり、実際のエリアを必ずしも正確に示すものではありません。</p>
+									<p class="text_indent font_90"><span class="icon">※</span><span class="text">系統容量の制約による出力制御</span></p>
+								</li>
+							</ul>
+						</div>
+						<ul class="link_list opt_inline">
+							<li class="ic_pdf"><a href="pdf/outputcontrol_lap_north.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>道北エリア</a> [PDF:208KB]</li>
+							<li class="ic_pdf"><a href="pdf/outputcontrol_lap_central.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>道央エリア</a> [PDF:242KB]</li>
+							<li class="ic_pdf"><a href="pdf/outputcontrol_lap_tomakomai.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>苫小牧エリア</a> [PDF:133KB]</li>
+							<li class="ic_pdf"><a href="pdf/outputcontrol_lap_east.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>道東エリア</a> [PDF:243KB]</li>
+							<li class="ic_pdf"><a href="pdf/outputcontrol_lap_south.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>道南エリア</a> [PDF:134KB]</li>
+						</ul>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">送変電設備の投資・廃止計画</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="ic_pdf"><a href="pdf/investment_removal_plan_110kv.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>送変電設備の投資・廃止計画</a> [PDF:79KB]</p>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">送変電設備の作業停止計画</span></span></h4>
+					<div class="ml_10 mb_30">
+						<p class="ic_link"><a href="zip/equipment_suspend_local_2025-2026.zip" target="_blank"><span class="reader">ZIPファイルを開きます。</span>送変電設備の作業停止計画（2025～2026年度）</a> [ZIP:1,222KB]</p>
+					</div>
+
+					<h4><span class="bg_top"><span class="bg_btm">その他</span></span></h4>
+					<div class="ml_10">
+						<p class="ic_excel"><a href="xls/impedance_local_2026_01.xlsx" target="_blank"><span class="reader">Excelファイルを開きます。</span>送変電設備のインピーダンス（ループ系統）</a> [Excel:45KB]</p>
+					</div>
+				</div>
+
+				<div class="clear_fix">
+
+
+
+					<div class="page_top_btn js_pie"><a href="#TOP">ページの先頭へ戻る</a></div>
+				</div>
+			</div>
+
+			<h2 id="CONSTRUCTION_PLAN"><span class="h_inner"><span class="bg_top"><span class="bg_btm">流通設備建設計画</span></span></span></h2>
+			<div class="section mb_30">
+				<p class="ic_pdf mb_30"><a href="pdf/distribution_equipment.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>流通設備建設計画</a> [PDF:116KB]</p>
+				<div class="clear_fix">
+					<div class="page_top_btn js_pie"><a href="#TOP">ページの先頭へ戻る</a></div>
+				</div>
+			</div>
+
+			<h2 id="CONGESTED_SYS"><span class="h_inner"><span class="bg_top"><span class="bg_btm">混雑系統に関する情報</span></span></span></h2>
+			<div class="section mb_30">
+				<h3><span class="bg_top"><span class="bg_btm">速報</span></span></h3>
+				<div class="ml_10 mb_30">
+					<p class="ic_csv"><a href="csv/konzatsu_sokuho_202607_01_local.csv" target="_blank"><span class="reader">CSVファイルを開きます。</span>2026年7月（ローカル系）</a> [CSV:1KB]</p>
+				</div>
+
+				<h3><span class="bg_top"><span class="bg_btm">確報</span></span></h3>
+				<div class="ml_10 mb_30">
+					<p class="ic_csv mb_10"><a href="csv/konzatsu_kakuho_YYYYMM_01.csv" target="_blank"><span class="reader">CSVファイルを開きます。</span>混雑系統に関する情報（確報）</a> [CSV:1KB]</p>
+					<p class="text_indent font_90"><span class="icon">※</span><span class="text">混雑管理システム運開前におけるローカル系統の混雑管理（暫定措置）において、北海道エリアでは速報の公開以降、月間想定最大出力制御量の変更がないことから、確報を公開しておりません（速報に同じ）。</span></p>
+				</div>
+
+				<h3><span class="bg_top"><span class="bg_btm">年度報</span></span></h3>
+				<div class="ml_10 mb_30">
+					<p class="ic_csv"><a href="csv/konzatsu_nendoho_2025_01_local.csv" target="_blank"><span class="reader">CSVファイルを開きます。</span>2025年（ローカル系）</a> [CSV:1KB]</p>
+				</div>
+				<div class="clear_fix">
+					<div class="page_top_btn js_pie"><a href="#TOP">ページの先頭へ戻る</a></div>
+				</div>
+			</div>
+			
+			<h2 id="GRID_CONGESTION"><span class="h_inner"><span class="bg_top"><span class="bg_btm">系統混雑に関する中長期見通し</span></span></span></h2>
+			<div class="section mb_30">	
+				<ul class="link_list mb_10">
+					<li class="ic_pdf"><a href="pdf/konzatsu_genkou_2031_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統混雑に関する中長期見通し（2031年度_現行シナリオ）</a> [PDF:3,632KB]</li>
+					<li class="ic_pdf"><a href="pdf/konzatsu_ikou_2031_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>系統混雑に関する中長期見通し（2031年度_移行シナリオ）</a> [PDF:3,684KB]</li>
+				</ul>
+				
+				<p class="text_indent font_90 word_break mb_20"><span class="icon">※</span><span class="text">本見通しは、第103回　広域系統整備委員会（2026年9月1日）において示された前提条件・算定方法に基づき算出されたものです。各シナリオについては広域系統整備委員会資料をご確認願います。<br>
+				第103回　広域系統整備委員会：<a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/103.html" target="_blank" class="ic_window"><span class="reader">別のウィンドウで開きます。</span>https://www.occto.or.jp/iinkai/kouikikeitouseibi/103.html</a></span></p>
+				
+				<p class="mb_05">（参考）過去のシミュレーション結果</p>
+				<div class="ml_1em">
+					<ul class="link_list mb_10">
+						<li class="ic_pdf"><a href="pdf/konzatsu_genkou_2030_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>【差替】系統混雑に関する中長期見通し（2030年度_現行シナリオ）</a> [PDF:3,520KB]</li>
+						<li class="ic_pdf"><a href="pdf/konzatsu_ikou_2030_01.pdf" target="_blank"><span class="reader">PDFファイルを開きます。</span>【差替】系統混雑に関する中長期見通し（2030年度_移行シナリオ）</a> [PDF:3,391KB]</li>
+					</ul>
+					<p class="text_indent font_90 word_break mb_10"><span class="icon">※</span><span class="text">本見通しは、第92回　広域系統整備委員会（2025年9月2日）において示された前提条件・算定方法に基づき算出されたものです。各シナリオについては広域系統整備委員会資料をご確認願います。<br>
+					第92回　広域系統整備委員会：<a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/2025/seibi_92_shiryou.html" target="_blank" class="ic_window"><span class="reader">別のウィンドウで開きます。</span>https://www.occto.or.jp/iinkai/kouikikeitouseibi/2025/seibi_92_shiryou.html</a></span></p>
+					
+					<p class="ic_pdf mb_10"><a href="pdf/konzatsu_2029_01.pdf" target="_blank"><span class="reader">pdfファイルを開きます。</span>系統混雑に関する中長期見通し（2029年度）</a> [PDF:844KB]</p>
+					<p class="text_indent font_90 word_break"><span class="icon">※</span><span class="text">本見通しは、第83回　広域系統整備委員会（2024年9月10日）において示された前提条件・算定方法に基づき算出されたものです。<br>
+					第83回　広域系統整備委員会：<a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/2024/seibi_83_shiryou.html" target="_blank" class="ic_window"><span class="reader">別のウィンドウで開きます。</span>https://www.occto.or.jp/iinkai/kouikikeitouseibi/2024/seibi_83_shiryou.html</a></span></p>
+				</div>
+			</div>
+			
+			<div class="border_block opt_gray mb_30"></div>
+			<div class="section">
+				<ul class="link_list">
+					<li class="ic_c_link"><a href="supply_demand_results/index.html">北海道エリアの需給実績</a></li>
+					<li class="ic_c_link"><a href="adjustment_work_status/index.html">需給調整業務の実施状況</a></li>
+					<li class="ic_c_link"><a href="eq_status_oc_category/index.html">発電等設備の受付状況に関する情報・出力制御区分の内訳</a></li>
+					<li class="ic_c_link"><a href="pwr_supply_disclosure/index.html">電源情報開示について</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="reader">本文ここまで。</div>
+
+
+		<div class="reader">ここからカテゴリ内メニューです。</div>
+
+		<!-- .local_navi -->
+		<div class="local_navi">
+			<!--#include virtual="/network/assets/inc/lnavi/lnavi-con_service.html" -->
+
+			<!-- 関連リンク・バナーエリア -->
+			<!--#include virtual="/network/assets/inc/rel/rel-con_service-public_document.html" -->
+			<!--#include virtual="/network/assets/inc/rel/rel-con_service.html" -->
+			<!--#include virtual="/network/assets/inc/site-share.html" -->
+			<!-- / 関連リンク・バナーエリア -->
+		</div>
+		<!-- / .local_navi -->
+
+		<div class="reader">カテゴリ内メニューここまで。</div>
+	</div>
+</div>
+<!-- / #l_main -->
+
+<div class="reader"><a id="PL_FOOTERMENU">ここから共通フッターメニューです。</a></div>
+
+<!--#include virtual="/network/assets/inc/footer.html" -->
+
+<div class="reader">共通フッターメニューここまで。</div>
+
+<!-- 共通コードエリア 3 -->
+<script src="https://cache.dga.jp/s/hepco/search_tool_n3.js"></script>
+<!--#include virtual="/network/assets/inc/code-body-btm.html" -->
+<!-- /共通コードエリア 3 -->
+</body>
+</html>

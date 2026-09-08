@@ -1,0 +1,10 @@
+* text=auto
+# Archived disclosures and geometry are verified byte-for-byte by SHA-256.
+history/** -text
+history/sources/** binary
+history/geometry/** binary
+*.py text eol=lf
+*.ts text eol=lf
+*.mjs text eol=lf
+*.yml text eol=lf
+*.md text eol=lf

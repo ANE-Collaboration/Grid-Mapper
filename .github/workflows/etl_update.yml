@@ -1,0 +1,111 @@
+name: Weekly grid update and deployment
+
+on:
+  schedule:
+    # Every Monday at 09:23 Japan time. Off the hour to reduce queue delays.
+    - cron: '23 0 * * 1'
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: 'Collect this week if it does not exist yet'
+        type: boolean
+        default: true
+      refresh_geometry:
+        description: 'Refresh nationwide OSM geometry when creating a new week'
+        type: boolean
+        default: false
+      deploy:
+        description: 'Deploy to GitHub Pages (disable when using another host)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: grid-publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: pipeline/requirements-test.txt
+      - run: pip install -r pipeline/requirements-test.txt
+      - name: Test schemas, matching and history
+        run: python -m pytest tests/test_weekly_snapshot.py -q
+      - name: Collect the new week
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        env:
+          REFRESH_GEOMETRY: ${{ inputs.refresh_geometry }}
+        run: |
+          if [ "$REFRESH_GEOMETRY" = "true" ]; then
+            python -m pipeline.weekly_snapshot --refresh-geometry
+          else
+            python -m pipeline.weekly_snapshot
+          fi
+      - name: Validate all historical references and checksums
+        run: python -m pipeline.validate_history
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci --prefix web
+      - run: npm run build --prefix web
+      - name: Archive the completed weekly update in Git
+        run: |
+          git add -- history/
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "data: archive weekly grid snapshot"
+            git push origin HEAD:main
+          fi
+      - name: Report source health
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          index = json.loads(Path("history/index.json").read_bytes())
+          snapshot = json.loads(Path("history", index["snapshots"][0]["url"]).read_bytes())
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as report:
+              report.write(f"Snapshot: **{snapshot['week']}**\n\n")
+              for key, source in snapshot["utilities"].items():
+                  report.write(f"- {key}: {source['status']}, {len(source['records'])} records\n")
+                  if source["status"] != "ok":
+                      print(f"::warning title={key} source update::{source.get('error', 'Source unavailable')}")
+          PY
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  deploy:
+    needs: build
+    if: vars.GRID_HOST != 'cloudflare' && (github.event_name != 'workflow_dispatch' || inputs.deploy)
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Publish static map
+        id: deployment
+        uses: actions/deploy-pages@v4

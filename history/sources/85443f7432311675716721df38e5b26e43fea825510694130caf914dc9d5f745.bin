@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="/nw/shared/inc/gtm.js"></script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>予想潮流等の情報公開　北陸電力送配電</title>
+	<meta name="copyright" content="Hokuriku Electric Power Transmission & Distribution Company.">
+	<meta name="author" content="Hokuriku Electric Power Transmission & Distribution Company.">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta property="og:title" content="予想潮流等の情報公開　北陸電力送配電">
+	<meta property="og:description" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://www.rikuden.co.jp/nw/shared/img/nw_ogp.png">
+	<meta property="og:site_name" content="北陸電力送配電株式会社">
+	<link rel="alternate" title="RSS（プレスリリース）" href="https://www.rikuden.co.jp/nw/press_nw.rdf" type="application/rss+xml">
+	<link rel="alternate" title="RSS（TOPICS）" href="https://www.rikuden.co.jp/nw/topics_nw.rdf" type="application/rss+xml">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="icon" href="https://www.rikuden.co.jp/nw/favicon.ico">
+	<link rel="stylesheet" href="/nw/shared/css/top.css">
+	<link rel="stylesheet" href="/nw/shared/css/common.css">
+	<link rel="stylesheet" href="/nw/shared/css/template.css">
+	<link rel="stylesheet" href="https://unpkg.com/scroll-hint@latest/css/scroll-hint.css">
+	<link rel="stylesheet" href="/nw/shared/css/general_contents.css">
+	<script src="https://unpkg.com/scroll-hint@latest/js/scroll-hint.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+	<script src="/nw/shared/inc/gtmn.js"></script> 
+	<div class="hrs-top">   
+		<div id="header-placeholder"></div><!-- header (bg/globalmenu/menuContent) -->
+		<div class="nw-breadcrumbs">
+			<p><a href="/nw/index.html">TOP</a> &gt; <a href="/nw/takusou.html">託送・再エネ・調整力</a> &gt; <a href="/nw_notification/top_index.html">系統情報</a> &gt; <a href="/nw_notification/index.html">系統情報の公表</a> &gt; 予想潮流等の情報公開</p>
+		</div>
+		<div class="title-frame">
+			<div class="title-txt">
+				<p><span>託送・再エネ・調整力</span></p>
+				<p>系統情報</p>
+			</div>
+		</div>
+		<div id="button-menu-upper"></div><!-- innerHTML -->
+		<div class="_3rd-layer-contents">
+			<div class="_3rd-layer-contents-frame">
+				<div class="side-menu-container pc-only"></div><!-- innerHTML -->
+				<div class="_3rd-layer-h2">
+					<article id="entry" class="contents" role="main">
+						<div id="main-contents">
+							<section class="l-section">
+		<h1 class="ttl-lv01">予想潮流等の情報公開</h1>
+		<div><a name="akiyouryu"></a></div>
+		<h2 class="ttl-lv02">系統の予想潮流等に関する情報</h2>
+		<p class="TextLeft">系統図における特別高圧以上の送電線、変電所の熱容量面での予想潮流および空容量を公開します。<br /><br />2023年4月1日より、ノンファーム型接続の適用電源が全電源（10kW未満の低圧除く）に拡大しており、<br />系統混雑時の出力制御を前提に空容量のない特別高圧設備でも設備増強せずに早期に系統接続できるようになりました。<br />
+
+
+
+
+
+</p>
+		<h3 class="ttl-lv03">154kV以上系統</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitouzu154.pdf" target="_blank">予想潮流・空容量マップ</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitou_kikan01_yosou_05.pdf" target="_blank">系統構成図</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_kikan01_line_202608_05.pdf" target="_blank">予想潮流・空容量（送電線）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_kikan01_line_202608_05.csv" target="_blank">予想潮流・空容量（送電線）（CSV）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_kikan01_tr_202608_05.pdf" target="_blank">予想潮流・空容量（変圧器）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_kikan01_tr_202608_05.csv" target="_blank">予想潮流・空容量（変圧器）（CSV）</a></li></ul>
+		<h3 class="ttl-lv03">154kV未満系統（富山県）</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitouzutoyama.pdf" target="_blank">予想潮流・空容量マップ（富山県）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitou_local02_yosou_05.pdf" target="_blank">系統構成図（富山県）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local01_line_202608_05.pdf" target="_blank">予想潮流・空容量（富山県 送電線）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local01_line_202608_05.csv" target="_blank">予想潮流・空容量（富山県 送電線）（CSV）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local01_tr_202608_05.pdf" target="_blank">予想潮流・空容量（富山県 変圧器）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local01_tr_202608_05.csv" target="_blank">予想潮流・空容量（富山県 変圧器）（CSV）</a></li></ul>
+		<h3 class="ttl-lv03">154kV未満系統（石川県）</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitouzuishikawan.pdf" target="_blank">予想潮流・空容量マップ（石川県北部）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitouzuishikawas.pdf" target="_blank">予想潮流・空容量マップ（石川県南部）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitou_local03_yosou_05.pdf" target="_blank">系統構成図（石川県）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local02_line_202608_05.pdf" target="_blank">予想潮流・空容量（石川県 送電線）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local02_line_202608_05.csv" target="_blank">予想潮流・空容量（石川県 送電線）（CSV）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local02_tr_202608_05.pdf" target="_blank">予想潮流・空容量（石川県 変圧器）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local02_tr_202608_05.csv" target="_blank">予想潮流・空容量（石川県 変圧器）（CSV）</a></li></ul>
+		<h3 class="ttl-lv03">154kV未満系統（福井県）</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitouzufukui.pdf" target="_blank">予想潮流・空容量マップ（福井県）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/keitou_local04_yosou_05.pdf" target="_blank">系統構成図（福井県）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local03_line_202608_05.pdf" target="_blank">予想潮流・空容量（福井県 送電線）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local03_line_202608_05.csv" target="_blank">予想潮流・空容量（福井県 送電線）（CSV）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sys_capa_local03_tr_202608_05.pdf" target="_blank">予想潮流・空容量（福井県 変圧器）</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/sys_capa_local03_tr_202608_05.csv" target="_blank">予想潮流・空容量（福井県 変圧器）（CSV）</a></li></ul>
+		<h3 class="ttl-lv03">平常時出力制御が発生する可能性のあるエリア</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/nf_area.pdf" target="_self">平常時出力制御が発生する可能性のあるエリア</a></li></ul>
+		<br>
+		<br>
+		<hr class="LineDushed">
+		<br>
+		<div><a name="setsubikeikaku"></a></div>
+		<h2 class="ttl-lv02">流通設備計画</h2>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/setsubi_kensetsu.pdf" target="_blank">流通設備建設計画</a></li></ul>
+		<p class="TextLeft">　 （供給計画の概要）</p>
+		<br>
+		<br>
+		<hr class="LineDushed">
+		<br>
+		<div><a name="jyuyou"></a></div>
+		<h2 class="ttl-lv02">需要・送配電に関する情報</h2>
+		<p class="TextLeft">「系統情報の公表の考え方」（資源エネルギー庁）において、系統に連系する際の<br />予見性向上に資する情報が公表すべき項目として整理されました。<br />これを受け、以下の項目を公開いたします。
+
+</p>
+		<h3 class="ttl-lv03">地点別需要・潮流実績</h3>
+		<table class="commonTable" style="width: 80%;"><tbody><tr><td align="center" class="blue" rowspan="3" colspan="1"><br /><br /><br /></td><td align="center" class="blue"><strong>基幹系統</strong><br /></td><td align="center" class="blue" rowspan="1" colspan="4"><br /><strong>ローカル系統</strong><br /><br /></td></tr><tr><td align="center" class="blue"><strong>275kV以上</strong><br /></td><td align="center" class="blue"><strong>154kV</strong><br /></td><td align="center" class="blue"><strong>福井県</strong><br /></td><td align="center" class="blue"><strong>石川県</strong><br /></td><td align="center" class="blue"><strong>富山県</strong><br /></td></tr><tr><td align="center"><a class="MarkPdfdoc" href="https://www.rikuden.co.jp/nw_notification/attach/keitou_kikan01_jisseki_05.pdf" target="_blank">系統構成図</a><br /></td><td align="center"><a class="MarkPdfdoc" href="https://www.rikuden.co.jp/nw_notification/attach/keitou_local01_jisseki_05.pdf" target="_blank">系統構成図</a><br /></td><td align="center"><a class="MarkPdfdoc" href="https://www.rikuden.co.jp/nw_notification/attach/keitou_local04_jisseki_05.pdf" target="_blank">系統構成図</a><br /></td><td align="center"><a class="MarkPdfdoc" href="https://www.rikuden.co.jp/nw_notification/attach/keitou_local03_jisseki_05.pdf" target="_blank">系統構成図</a><br /></td><td align="center"><a class="MarkPdfdoc" href="https://www.rikuden.co.jp/nw_notification/attach/keitou_local02_jisseki_05.pdf" target="_blank">系統構成図</a><br /></td></tr><tr><td align="center" class="blue"><strong>2019年度</strong><br /></td><td align="center" rowspan="1" colspan="2"><a class="MarkNewwin" href="/nw_notification/attach/choryu2019.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/juyou2019.csv" target="_blank">変圧器</a><br /></td><td align="center">－<br /></td><td align="center">－<br /></td><td align="center">－<br /></td></tr><tr><td align="center" class="blue"><strong>2020年度</strong><br /></td><td align="center" rowspan="1" colspan="2"><a class="MarkNewwin" href="/nw_notification/attach/choryu2020.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/juyou2020.csv" target="_blank">変圧器</a><br /></td><td align="center">－<br /></td><td align="center">－<br /></td><td align="center">－<br /></td></tr><tr><td align="center" class="blue"><strong>2021年度</strong><br /></td><td align="center" rowspan="1" colspan="2"><a class="MarkNewwin" href="/nw_notification/attach/choryu2021.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/juyou2021.csv" target="_blank">変圧器</a><br /></td><td align="center">－<br /></td><td align="center">－<br /></td><td align="center">－<br /></td></tr><tr><td align="center" class="blue"><strong>2022年度</strong><br /></td><td align="center" rowspan="1" colspan="2"><a class="MarkNewwin" href="/nw_notification/attach/choryu2022.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/juyou2022.csv" target="_blank">変圧器</a><br /></td><td align="center">－<br /></td><td align="center">－<br /></td><td align="center">－<br /></td></tr><tr><td align="center" class="blue"><strong>2023年度</strong><br /></td><td align="center" rowspan="1" colspan="2"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_154ijou_line_2023.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_154ijou_tr_2023.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_fukui_line_2023.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_fukui_tr_2023.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_ishikawa_line_2023.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_ishikawa_tr_2023.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_toyama_line_2023.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local_toyama_tr_2023.csv" target="_blank">変圧器</a><br /></td></tr><tr><td align="center" class="blue"><strong>2024年度</strong><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_kikan01_line_2024_05.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_kikan01_tr_2024_05.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local01_line_2024_05.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local01_tr_2024_05.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local04_line_2024_05.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local04_tr_2024_05.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local03_line_2024_05.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local03_tr_2024_05.csv" target="_blank">変圧器</a><br /></td><td align="center"><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local02_line_2024_05.csv" target="_blank">送電線</a><br /><a class="MarkNewwin" href="/nw_notification/attach/jisseki_local02_tr_2024_05.csv" target="_blank">変圧器</a><br /></td></tr><tr><td align="center" class="blue" rowspan="1"><b>2025年度</b></td><td align="center" rowspan="1"><a href="/nw_notification/attach/jisseki_kikan01_line_2025_05.csv" class="MarkNewwin" target="_blank">送電線</a><br /><a href="/nw_notification/attach/jisseki_kikan01_tr_2025_05.csv" class="MarkNewwin" target="_blank">変圧器</a></td><td align="center" rowspan="1"><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local01_line_2025_05.csv" class="MarkNewwin" target="_blank">送電線</a></span><br style="font-size: 12.8px;" /><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local01_tr_2025_05.csv" class="MarkNewwin" target="_blank">変圧器</a></span></td><td align="center" rowspan="1"><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local04_line_2025_05.csv" class="MarkNewwin" target="_blank">送電線</a></span><br style="font-size: 12.8px;" /><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local04_tr_2025_05.csv" class="MarkNewwin" target="_blank">変圧器</a></span></td><td align="center" rowspan="1"><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local03_line_2025_05.csv" class="MarkNewwin" target="_blank">送電線</a></span><br style="font-size: 12.8px;" /><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local03_tr_2025_05.csv" class="MarkNewwin" target="_blank">変圧器</a></span></td><td align="center" rowspan="1"><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local02_line_2025_05.csv" class="MarkNewwin" target="_blank">送電線</a></span><br style="font-size: 12.8px;" /><span style="font-size: 12.8px;"><a href="/nw_notification/attach/jisseki_local02_tr_2025_05.csv" class="MarkNewwin" target="_blank">変圧器</a></span></td></tr></tbody></table>		<h3 class="ttl-lv03">送変電設備の作業停止計画</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/sagyou2025k.pdf" target="_blank">2025年度作業停止計画（基幹系統）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sagyou2025l.pdf" target="_blank">2025年度作業停止計画（ローカル系統）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sagyou2026k.pdf" target="_blank">2026年度作業停止計画（基幹系統）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sagyou2026l.pdf" target="_blank">2026年度作業停止計画（ローカル系統）</a></li><li class="MarkPdfdoc"><a href="/nw_notification/attach/sagyou2027k.pdf" target="_blank">2027年度作業停止計画（基幹系統）</a></li></ul>
+		<h3 class="ttl-lv03">送電線・変圧器の投資・廃止計画</h3>
+		<ul><li class="MarkPdfdoc"><a href="/nw_notification/attach/setsubikeikaku.pdf" target="_blank">送電線・変圧器の投資・廃止計画</a></li></ul>
+		<h3 class="ttl-lv03">送変電設備インピーダンス</h3>
+		<ul><li class="MarkNewwin"><a href="/nw_notification/attach/impedance_kikan01_2025_05.xlsx" target="_blank">基幹系統</a></li><li class="MarkNewwin"><a href="/nw_notification/attach/impedance_local01_2025_05.xlsx" target="_blank">ローカル系統</a></li></ul>
+		<h3 class="ttl-lv03">系統情報に関する留意事項</h3>
+		<p class="TextLeft">※実績情報は伝送異常や通信作業によるデータ欠落等がある場合があります。<br />　データ欠損時は、直前値を保持または実績を「0」もしくは「-」として処理しています。<br />※需要家等の第三者情報に関する箇所については、加工処理をしており、実際とは異なる場合があります。<br />※作業計画や潮流実績は、過去にさかのぼり修正させていただく場合があります。<br />　その場合は、実績等修正のお知らせや修正前の需要実績の提供はいたしませんので、予めご了承ください。<br />※系統情報を利用される方が、本情報を用いて行う一切の行為について、当社は責任を負いません。
+
+
+
+
+
+</p>
+		<br>
+		<h2 class="ttl-lv02">2030年度の系統混雑に関する中長期見通し</h2>
+		<p class="TextLeft"><span style="color: black; font-family:;">第92</span><span style="color: black; font-family:;">回
+広域系統整備委員会（</span><span style="color: black; font-family:;">2025</span><span style="color: black; font-family:;">年</span><span style="color: black; font-family:;">9</span><span style="color: black; font-family:;">月2</span><span style="color: black; font-family:;">日）において示された前提条件・算定方法に基づき算出した結果、</span>
+
+<span style="color: black; font-family:;">2030</span><span style="color: black; font-family:;">年度の系統制約による混雑は発生しない見通しです。</span>
+
+<span style="color: black; font-family:;">（</span><span style="color: black; font-family:;">第92</span><span style="color: black; font-family:;">回
+広域系統整備委員会：</span><span style="color: black; font-family:;"><a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/2025/seibi_92_shiryou.html">https://www.occto.or.jp/iinkai/kouikikeitouseibi/2025/seibi_92_shiryou.html</a><span style="color: black; font-family:;"><font face="ＭＳ Ｐゴシック">）</font></span><br /></span><span style="color: black; font-family:;"></span><span style="color: black; font-family:;"></span><span style="color: black; font-family:;">【留意事項】<br /></span><span style="color: black; font-family:;">　今後の電源の稼働状況や系統の運用状況の変化によっては、混雑想定結果が異なる場合があります。</span><span style="color: black; font-family:;">　また、別途公開している予想潮流は「電源接続や設備形成の検討における前提条件（送配電等業務指針第62条）</span><span style="color: black; font-family:;">　としての想定潮流の合理化の考え方について」に基づき算出されたものであり、本見通しとは前提条件や算定方法が異なります。</span>
+
+
+
+
+
+
+
+</p>
+		<br>
+		<h2 class="ttl-lv02">お問い合わせ先</h2>
+		<p class="TextLeft">送変電設備の空容量についてのお問い合わせは、ネットワークサービスセンターまでお願いします。</p>
+		<div class="ImgLeft"><a href="/nw_nsc/index.html" target="_self"><img src="/nw_notification/img/banner_nscnavi.png" alt="ナビダイヤル 　託送供給について　0570-051-081" border="0"></a></div>
+		<h3 class="ttl-lv03">Webお問い合わせ</h3>
+		<p class="TextLeft">送変電設備の空容量については、『その他のお問い合わせ』からお問い合わせください。
+</p>
+		<ul><li class="MarkTangle"><a href="/nw_toiawase/index.html#nsc_tel" target="_self">お問い合わせ</a></li></ul>
+							</section>
+						</div>
+					</article>
+				</div>
+				<div class="sp-side-menu-container sp-only">
+					<a href="/nw_notification" class="side-menu toggle-parent">系統情報の公表<img class="link-button-arrow-s-20 toggle-icon" src="/nw/shared/img/link-button-arrow-s-20.png" alt="toggle"></a>
+					<div class="side-submenu-frame">
+						<a href="/nw_notification/index.html" class="side-submenu"><span>－</span>系統情報の公表</a>
+						<a href="/nw_notification/U_154seiyaku.html" class="side-submenu current"><span>－</span>予想潮流等の情報公開</a>
+						<a href="/nw_notification/sodensen_jouhou.html" class="side-submenu"><span>－</span>地域間連系線・地内基幹送電線に係る情報について</a>
+					</div>
+				</div>
+			</div>
+			<div class="_3rd-layer-contents2">
+				<div class="button-menu-frame">
+					<a href="/nw/takusou.html" class="button-menu-top">託送・再エネ・調整力　TOP</a>
+					<div class="button-menu-box scroll-hint is-scrollable" data-scroll-hint>
+						<a href="/nw_soden/index.html" class="button-menu">託送サービス</a>
+						<a href="/nw_koteikaitori/index.html" class="button-menu">再生可能エネルギー</a>
+						<a href="/nw_chouseiryoku/top_index.html" class="button-menu">調整力</a>
+						<a href="/nw_notification/top_index.html" class="button-menu button-menu-active">系統情報</a>
+						<a href="/nw_procedure/index.html" class="button-menu">お手続き</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footer-placeholder"></div><!-- footer -->
+	</div>
+	<script src="/nw/shared/js/header.js" defer></script>
+	<script src="/nw/shared/js/footer.js" defer></script>
+	<script src="/nw/shared/js/top.js" defer></script>
+	<script src="/nw/shared/js/template.js" defer></script>
+</body>
+</html>

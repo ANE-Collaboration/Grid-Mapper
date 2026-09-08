@@ -1,0 +1,3 @@
+# Production weekly collector: no GIS binaries, Excel engine or browser needed.
+requests==2.34.2
+tzdata==2026.3; sys_platform == 'win32'

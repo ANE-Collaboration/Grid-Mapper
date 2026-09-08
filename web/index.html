@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Japan's mapped power lines with weekly, source-linked grid disclosures from ten regional utilities." />
+  <title>Grid Mapper · Japan</title>
+</head>
+<body>
+  <div id="map" aria-label="Japan power line map"></div>
+  <button id="toggle-panel" aria-controls="panel" aria-expanded="true">☰ Grid Mapper</button>
+  <aside id="panel">
+    <header><p class="eyebrow">JAPAN · 日本の電力系統</p><h1>Grid Mapper</h1><p>Power lines &amp; published grid capacity</p></header>
+    <section>
+      <label for="snapshot-week">Weekly snapshot</label>
+      <select id="snapshot-week" disabled><option>Loading snapshots…</option></select>
+      <p id="dataset-status" class="notice" role="status" aria-live="polite">Loading the latest collection…</p>
+      <div class="stats"><div><strong id="total-lines">—</strong><span>OSM segments</span></div><div><strong id="matched-lines">—</strong><span>matched segments</span></div><div><strong id="record-count">—</strong><span>TSO records</span></div></div>
+      <a id="download-snapshot" download>Download weekly JSON</a>
+    </section>
+    <section>
+      <div class="section-title"><h2>Map filters</h2><button id="reset-filters" class="text-button">Reset</button></div>
+      <label for="search">Line name</label><input id="search" type="search" placeholder="Search mapped line names…" />
+      <div id="status-filters" class="status-filters"></div>
+      <p class="hint">Colours show published capacity or matching coverage. A forecast flow or N−1 control allowance is not spare connection capacity.</p>
+      <details><summary>Voltage</summary><div id="voltage-filters" class="voltage-filters"></div></details>
+      <label for="min-capacity">Minimum published capacity (MW)</label><input id="min-capacity" type="number" min="0" step="0.1" placeholder="All, including unknown" />
+      <label for="basemap">Basemap</label><select id="basemap"><option value="dark-matter">Dark</option><option value="positron">Light</option><option value="gsi-pale">GSI topographic</option><option value="gsi-ortho">GSI satellite</option></select>
+    </section>
+    <section>
+      <details id="records-panel"><summary>Browse all published records</summary>
+        <p class="hint">Includes records without a confirmed map location.</p>
+        <label for="utility">Utility</label><select id="utility"><option value="">All utilities</option></select>
+        <label for="record-search">Published line name or asset ID</label><input id="record-search" type="search" placeholder="Search TSO records…" />
+        <p id="record-results-count" class="hint"></p><div id="record-results"></div>
+      </details>
+    </section>
+    <section><details><summary>Sources &amp; coverage</summary><ul id="sources-list"></ul><p id="geometry-date" class="hint"></p>
+      <p class="hint">Collection runs weekly. Publication dates differ by utility. Older weeks retain the source files and geometry used at the time.</p>
+      <p class="hint">Published values do not guarantee a connection. Consult the utility's connection study and source notes.</p>
+    </details></section>
+    <footer><a href="https://github.com/ANE-Collaboration/Grid-Mapper" target="_blank" rel="noopener noreferrer">Project &amp; update status ↗</a></footer>
+  </aside>
+  <div id="map-loading" role="status">Loading nationwide grid…</div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
