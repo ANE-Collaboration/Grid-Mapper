@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="ja"> <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width">
+        <title>流通設備建設計画・系統連系制約等 | お知らせ・情報公開資料 | 託送（たくそう）とは | 関西電力送配電株式会社 </title>
+        <meta name="description" content="関西電力送配電株式会社の「流通設備建設計画・系統連系制約等」のページです。マッピング（154kV未満）についてご案内いたします。">
+        <meta name="keywords" content="関西電力送配電株式会社,流通設備建設計画・系統連系制約等">
+        <meta property="og:title" content="流通設備建設計画・系統連系制約等 | お知らせ・情報公開資料 | 託送（たくそう）とは | 関西電力送配電株式会社 ">
+        <meta property="og:description" content="関西電力送配電株式会社の「流通設備建設計画・系統連系制約等」のページです。マッピング（154kV未満）についてご案内いたします。">
+        <meta property="og:type" content="article">
+        <meta property="og:image" content="https://www.kansai-td.co.jp/common/images/ogp/ogp_image_c-09.jpg">
+        <meta property="og:url" content="https://www.kansai-td.co.jp/consignment/disclosure/distribution-equipment/index.html">
+        
+        <meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/common/images/webclipicon.png">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&amp;subset=japanese" rel="stylesheet">
+<link rel="stylesheet" href="/common/css/base.css?d=2024120314211500">
+<link rel="stylesheet" href="/common/css/common.css?d=2025021911483700">
+        
+        <!--Unique CSS-->
+        
+        <link rel="stylesheet" href="/consignment/disclosure/distribution-equipment/css/index.css?v=2">	
+        <!--Unique CSS-->
+        
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PCTV2SZ');</script>
+
+	<!-- End Google Tag Manager -->
+	<!-- //SSI include gtm.html -->
+    
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("True"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="TQ698-5ZNS3-WV4K6-89958-6KYQ7",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"TQ698-5ZNS3-WV4K6-89958-6KYQ7";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="q7umsiyx24f622vhqcxa-f-8a255ae4a-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"929641","ak.ai":parseInt("595390",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"279ddbcb","ak.r":48121,"ak.a2":n,"ak.m":"b","ak.n":"essl","ak.cport":29696,"ak.gh":"23.62.38.239","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1789362350","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==BY7bzcYEUfuvx41ZjT6oYHq+2HaBMZ/6ALokk23cFQyy3v/sGnqrOXfBNzXPQY7Q4Ti8JIp5orUJxZ8NLqcYTaGQCdSUzq6HvT18A1QtX2Z43xWPHbyJdZ1IE5IdEi7/hCNk78ajTcrXEXVxP5NvQfaKMsIuYPowzlWiYkYrMoNVqEq2Ud8gKCKyD0BxFXUnwFHpwZ7N3wWuSqlvgZR6pOXBQyqZarr2g8MglV0+YYCG1ochNjyfymTuJg0gMhfudOaB/geb0JyPlJ2/mWIk36JyuuzRbN8xEVCbNm3ik0Imz2gUHOmSSPj9VC/w/iyjLnlGnVjy+1+1SoSTJWDUdLkRclafBntV8+9AJFjn5bbAoexSRz+iC+aVdXVRcBvkayqBxIsnyBo5F9HeUKQvg+Xlt2mOjjpSWs5Pc8Dvvy8=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    <body data-pageid="C-09">
+        
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCTV2SZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <div id="wrapper">
+            <!-- SEARCH_EXCEPT_TAG_START -->
+<header id="header">
+	<div class="conts_in">
+		<div class="sp_only sp_header">
+			<div class="logo"><a href="/" class="op"><img src="/common/images/logo_souhaiden.svg" alt="関西電力送配電"></a></div>
+			<div class="search"><a href="#" class="btn_search">検索</a></div>
+			<div class="menu"><a href="#" class="btn_menu">メニュー</a></div>
+		</div>
+		<div class="search_wrap">
+			<form name="search_form" action="/search/">
+				<p class="input">
+					<input type="text" name="kw" value="" class="iSearchAssist input_txt" placeholder="サイト内検索">
+					<input type="hidden" name="env" value="kansai_td">
+					<input type="hidden" name="temp" value="jp">
+					<input type="hidden" name="ie" value="u">
+					<input type="submit" value="検索" class="btn_search">
+				</p>
+			</form>
+		</div>
+		<div class="sp_menu">
+			<div class="sp_menu_in">
+				<div class="sp_menu_top sp_only clearfix">
+					<div class="btn"><a href="#" class="sp_menu_close">閉じる</a></div>
+					<ul class="sp_language">
+						<li><a href="/" class="act">日本語</a></li>
+						<li><a href="/english/">English</a></li>
+					</ul>
+				</div>
+				<div class="header_top clearfix">
+					<div class="link_wrap">
+						<div class="top">
+							<ul class="link_list">
+								<li class="link"><a href="/english/">English</a></li>
+								<li class="group">
+								<div class="sns">
+								<ul class="sns_list">
+									<li class="sns"><a href="https://www.instagram.com/okurin_td/" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_instagram.png" alt="" height="28" class="mb20 mr5"></a></li>
+									<li class="sns"><a href="https://x.com/KANDEN_souhai" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_x.png" alt="" height="28" class="mb20 mr5"></a></li>
+									<li class="sns"><a href="https://www.youtube.com/channel/UCrIOvXkhEuiesJtudkuwwkA/featured" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_youtube.png" alt="" height="28" class="mb20 mr5"></a></li>
+								</ul>
+								</div>
+								</li>
+							</ul>
+						</div>
+						<div class="btm">
+							<ul class="info_btn_list">
+								<li class="btn blackout"><a href="/teiden-info/index.php" class="op">停電情報</a></li>
+								<li class="btn thunder"><a href="/kaminari-info/index.html" class="op">雷情報</a></li>
+								<li class="btn supply"><a href="/denkiyoho/index.html" class="op">でんき予報</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="logo"><a href="/" class="op"><img src="/common/images/logo_souhaiden.svg" alt="関西電力送配電"></a></div>
+				</div>
+				<div class="header_btm">
+					<nav>
+						<ul class="nav_wrap sp_acc_wrap">
+							<li class="nav sp_only">
+								<a href="/">トップページ</a>
+							</li>
+							<li class="nav sp_acc_area" data-path="supply">
+								<a href="/supply/" class="nav-link sp_acc_btn">安全・安定供給 </a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										
+										<p class="pc_only">安全・安定供給 </p>
+										
+										<ul class="link_list">
+											
+											<li class="link sp_only"><a href="/supply/" class="head_navlink">安全・安定供給TOP</a></li>
+											
+											<li class="link"><a href="/supply/facility.html" class="head_navlink">安定供給を支える設備</a></li>
+											
+											<li class="link"><a href="/supply/aging/" class="head_navlink">高経年化対策</a></li>
+											
+											<li class="link"><a href="/supply/accident-prevention/" class="head_navlink">電気事故防止のお願い</a></li>
+											
+											<li class="link"><a href="/supply/initiatives/" class="head_navlink">安全・安定供給への取組み</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+							<li class="nav sp_acc_area" data-path="technology">
+								<a href="/technology/" class="nav-link sp_acc_btn">技術力と効率化への取組み </a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										
+										<p class="pc_only">技術力と効率化<br>への取組み</p>
+										
+										<ul class="link_list">
+											
+											<li class="link sp_only"><a href="/technology/" class="head_navlink">技術力と効率化への取組みTOP</a></li>
+											
+											<li class="link"><a href="/technology/smart-meter.html" class="head_navlink">スマートメーター</a></li>
+											
+											<li class="link"><a href="/technology/drone/index.html" class="head_navlink">ドローンの活用</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+							<li class="nav sp_acc_area" data-path="consignment">
+								<a href="/consignment/" class="nav-link sp_acc_btn">託送（たくそう）とは</a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										
+										<p class="pc_only">託送とは</p>
+										
+										<ul class="link_list col2">
+											
+											<li class="link sp_only"><a href="/consignment/" class="head_navlink">託送（たくそう）とはTOP</a></li>
+											
+											<li class="link"><a href="/consignment/agreement/" class="head_navlink">各種約款・要綱・料金等</a></li>
+											
+											<li class="link"><a href="/consignment/welcome-zone-map/" class="head_navlink">ウェルカムゾーンマップ</a></li>
+											
+											<li class="link"><a href="/consignment/connection-supply.html" class="head_navlink">接続供給の概要と要件等</a></li>
+											
+											<li class="link"><a href="/consignment/transfer-supply.html" class="head_navlink">振替供給の概要と要件等</a></li>
+											
+											<li class="link"><a href="/consignment/adjustment-supply.html" class="head_navlink">発電量調整供給の概要と要件等</a></li>
+											
+											<li class="link"><a href="/consignment/demand-suppression.html" class="head_navlink">需要抑制量調整供給の概要と要件等</a></li>
+											
+											<li class="link"><a href="/consignment/self-consignment.html" class="head_navlink">自己託送の概要と要件等</a></li>
+											
+											<li class="link"><a href="/consignment/renewable-energy/" class="head_navlink">再生可能エネルギー発電出力制御について</a></li>
+											
+											<li class="link"><a href="/consignment/discussion-process/" class="head_navlink">電源接続案件一括検討プロセスについて</a></li>
+											
+											<li class="link"><a href="/consignment/disclosure/" class="head_navlink">お知らせ・情報公開資料</a></li>
+											
+											<li class="link"><a href="/consignment/congestion-mitigation/" class="head_navlink">混雑緩和プロセスについて</a></li>
+											
+											<li class="link"><a href="/consignment/service-center.html" class="head_navlink">ネットワークサービスセンターのご案内</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+							<li class="nav sp_acc_area" data-path="application">
+								<a href="/application/" class="nav-link sp_acc_btn">各種お手続き</a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										<div class="cat_meta">											
+											<p class="cat_name pc_only">各種お手続き</p>
+											<p class="cat_btn"><p class="cat_btn"><a href="/application/documents.html" class="head_navlink">申込様式一覧</a></p></p>
+											
+										</div>
+										
+										
+										<ul class="link_list col2">
+											
+											<li class="link sp_only"><a href="/application/ " class="head_navlink">各種お手続きTOP</a></li>
+											
+											<li class="link">インターネット託送工事等お手続き<br>（たくそう君）<a href="/application/consignment/takusou-kun/index.html" class="head_navlink">低圧</a>・<a href="/application/consignment/high-pressure-500kw.html" class="head_navlink">高圧</a></li>
+											
+											<li class="link"><a href="/application/renewable-energy/uchiden.html" class="head_navlink">送配電買取実績照会サービス<br>「うちの発電量」</a></li>
+											
+											<li class="link"><a href="/application/renewable-energy/fixed-purchase/contract/index.html" class="head_navlink">FIT送配電買取WEB申込サービス</a></li>
+											
+											<li class="link"><a href="/application/consignment/" class="head_navlink">託送供給に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/renewable-energy/" class="head_navlink">再生可能エネルギー電気に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/collocation/" class="head_navlink">共架・管路に関するお申込み</a></li>
+											
+											<li class="link"><a href="/application/eliminating-poles/index.html" class="head_navlink">市街地開発事業等における無電柱化に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/accident-prevention/" class="head_navlink">電気事故防止に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/switch/" class="head_navlink">開閉器操作に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/smart-meter/index.html" class="head_navlink">メーターデータ提供サービス</a></li>
+											
+											<li class="link"><a href="/application/demand-generation-infotmation/" class="head_navlink">需要者・発電者情報に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/supply-construction.html" class="head_navlink">供給工事の実施</a></li>
+											
+											<li class="link"><a href="/application/electric-energy-adjustment/" class="head_navlink">電力量調整供給に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/power_distribution_sys/index.html" class="head_navlink">配電事業制度とは</a></li>
+											
+											<li class="link"><a href="/application/kaketsuke-service.html" class="head_navlink">でんきの駆けつけサービス</a></li>
+											
+											<li class="link"><a href="/application/outsourcing/" class="head_navlink">小売電気事業・発電事業の業務の受託</a></li>
+											
+											<li class="link"><a href="/application/partner/" class="head_navlink">調整力電源に関するお手続き</a></li>
+											
+											<li class="link"><a href="/application/land/" class="head_navlink">土地・地役権等に関するお手続き</a></li>
+											
+											<li class="link"><a href="/corporate/profile/business/land-fee.html" class="head_navlink">電柱敷地料</a></li>
+											
+											<li class="link"><a href="/application/last-resort/index.html" class="head_navlink">最終保障供給（高圧ＬＲ）の契約に<br>
+関するお手続</a></li>
+											
+											<li class="link"><a href="/application/power-distribution-relocation/procedure.html" class="head_navlink">電柱・支線等の配電設備の移設に関するお手続き</a></li>
+											
+											<li class="link"><a href="/consignment/disclosure/fairness/index.html" class="head_navlink">送配電等業務の公平性の確保</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+							<li class="nav sp_acc_area" data-path="corporate">
+								<a href="/corporate/" class="nav-link sp_acc_btn">会社情報</a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										
+										<p class="pc_only">会社情報</p>
+										
+										<ul class="link_list col2">
+											
+											<li class="link sp_only"><a href="/corporate/" class="head_navlink">会社情報TOP</a></li>
+											
+											<li class="link"><a href="/corporate/profile/" class="head_navlink">会社概要</a></li>
+											
+											<li class="link"><a href="/corporate/philosophy/" class="head_navlink">経営理念</a></li>
+											
+											<li class="link"><a href="/corporate/liberalization/index.html" class="head_navlink">関西電力からの分社化</a></li>
+											
+											<li class="link"><a href="/corporate/message/" class="head_navlink">コーポレートメッセージ</a></li>
+											
+											<li class="link"><a href="/corporate/energy/" class="head_navlink">エネルギー問題と当社の取組み</a></li>
+											
+											<li class="link"><a href="/corporate/sustainability/index.html" class="head_navlink">サステナビリティ</a></li>
+											
+											<li class="link"><a href="/corporate/press-release/" class="head_navlink">プレスリリース</a></li>
+											
+											<li class="link"><a href="/corporate/information/" class="head_navlink">お知らせ・更新情報</a></li>
+											
+											<li class="link"><a href="/corporate/gallery.html" class="head_navlink">発行冊子・動画</a></li>
+											
+											<li class="link"><a href="/okurin/index.html" class="head_navlink">公式キャラクター「おくりん」</a></li>
+											
+											<li class="link"><a href="/corporate/learning-with-okurin/" class="head_navlink">おくりんの電気教室（forキッズ）</a></li>
+											
+											<li class="link"><a href="/corporate/kidzania/" class="head_navlink">キッザニア甲子園　「送配電会社」</a></li>
+											
+											<li class="link"><a href="/corporate/transmission-tower-card/" class="head_navlink"> 鉄塔カードについて</a></li>
+											
+											<li class="link"><a href="/corporate/campaign/" class="head_navlink">プレゼントキャンペーン</a></li>
+											
+											<li class="link"><a href="/corporate/e-public-notice.html" class="head_navlink">電子公告</a></li>
+											
+											<li class="link"><a href="/corporate/recruit.html" class="head_navlink">採用情報</a></li>
+											
+											<li class="link"><a href="/corporate/procurement/" class="head_navlink">資材調達情報</a></li>
+											
+											<li class="link"><a href="/corporate/group.html" class="head_navlink">グループ会社・関連企業／団体</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+							<li class="nav sp_acc_area no-child" data-path="faq">
+								<a href="/faq/" class="nav-link ">よくあるご質問・お問い合わせ</a>
+								<div class="sp_acc_in">
+									<div class="conts_in">
+										
+										
+										<p class="pc_only">よくあるご質問・お問い合わせ</p>
+										
+										<ul class="link_list col2">
+											
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+						</ul>
+					</nav>
+				</div>
+				<div class="sp_menu_btm sp_only">
+					<ul class="sns_list">
+						<li class="sns"><a href="https://www.instagram.com/okurin_td/" target="_blank" rel="noopener noreferrer"><img src="/common/images/icon/icon_instagram.png" alt=""></a></li>
+						<li class="sns"><a href="https://x.com/KANDEN_souhai" target="_blank" rel="noopener noreferrer"><img src="/common/images/icon/icon_x.png" alt=""></a></li>
+						<li class="sns"><a href="https://www.youtube.com/channel/UCrIOvXkhEuiesJtudkuwwkA/featured" target="_blank" rel="noopener noreferrer"><img src="/common/images/icon/icon_youtube.png" alt=""></a></li>
+					</ul>
+					<div class="logo_group"><a href="https://www.kepco.co.jp/" target="_blank" rel="noopener noreferrer"><img src="/common/images/logo_kansaidenryoku_lines.png" alt="関西電力グループ"></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- SEARCH_EXCEPT_TAG_END -->            
+            <main id="main">
+                <!-- #TCIMCLIB_Begin_breadCrumb -->
+                <div class="breadcrumbs">
+    <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/index.html"><span itemprop="name" class="ct">TOP</span></a>
+                            <meta itemprop="position" content="1">
+                        </li>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/consignment/index.html"><span itemprop="name" class="ct">託送（たくそう）とは</span></a>
+                            <meta itemprop="position" content="2">
+                        </li>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/consignment/disclosure/index.html"><span itemprop="name" class="ct">お知らせ・情報公開資料</span></a>
+                            <meta itemprop="position" content="3">
+                        </li>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name" class="ct">流通設備建設計画・系統連系制約等</span>
+                            <meta itemprop="position" content="4">
+                        </li>
+            
+    </ol>
+</div>
+
+                <!-- #TCIMCLIB_End_breadCrumb -->
+                
+                
+                <div class="anchor_to_side sp_only"><a href="#"><span class="anc_in">託送（たくそう）とはメニュー</span></a></div>
+                
+                <div class="ttl_main_wrap">
+                    <h1 class="ttl_main conts_in">
+                        流通設備建設計画・系統連系制約等
+                    </h1>
+                </div>
+                <div class="main_conts">
+                
+                    <div class="conts_in clearfix">
+                        
+                        
+                        <div id="main_wrap">
+                            
+                        <div class="sp_conts_in">
+                            <div class="lead_area">
+			<p class="text_mb">＜免責事項＞当社が公開する系統情報を利用される方が、本情報を用いて行う一切の行為について、当社は責任を負いません。</p>
+		</div>
+<section class="section" id="section-1">
+	<h2 class="ttl_bdr_l">流通設備建設計画について</h2>
+	<p><a href="/consignment/disclosure/distribution-equipment/pdf/plan_outline.pdf" class="link_pdf" target="_blank">流通設備建設計画の概要［<span class="filesize_auto">170,177B</span>］</a></p>
+</section>
+<section class="section" id="grid-connection-limit">
+	<h2 class="ttl_bdr_l">系統連系制約について</h2>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">系統連系制約（154kV以上）</h3>
+		<p><a href="/interchange/takusou/pdf/154kv_more_mapping.pdf" class="link_pdf" target="_blank">マッピング（154kV以上）［<span class="filesize_auto">327,646B</span>］</a></p>
+		<p><a href="/interchange/takusou/pdf/154kv_more_space.pdf" class="link_pdf" target="_blank">空容量一覧（154kV以上）［<span class="filesize_auto">1,333,213B</span>］</a></p>
+
+		<p><a href="/interchange/takusou/pdf/154kv_more_trans.csv" class="link_csv" target="_blank">154kV以上変圧器空容量一覧［<span class="filesize_auto">13,819B</span>］</a></p>
+		<p><a href="/interchange/takusou/pdf/154kv_more_line.csv" class="link_csv" target="_blank">154kV以上送電線空容量一覧［<span class="filesize_auto">26,609B</span>］</a></p>
+		<p><a href="/interchange/takusou/pdf/154kv_more_fence.csv" class="link_csv" target="_blank">154kV以上フェンス管理箇所空容量一覧［<span class="filesize_auto">1,271B</span>］</a></p>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">系統連系制約（154kV未満）</h3>
+		<p><a href="/consignment/disclosure/distribution-equipment/mapping.html" class="link_arw_r">マッピング（154kV未満）</a></p>
+		<p><a href="/interchange/takusou/pdf/154kv_less_space.pdf" class="link_pdf" target="_blank">空容量一覧（154kV未満）［<span class="filesize_auto">5,382,000B</span>］</a></p>
+
+		<p><a href="/interchange/takusou/pdf/154kv_less_trans.csv" class="link_csv" target="_blank">154kV未満変圧器空容量一覧［<span class="filesize_auto">161,709B</span>］</a></p>
+		<p><a href="/interchange/takusou/pdf/154kv_less_line.csv" class="link_csv" target="_blank">154kV未満送電線空容量一覧［<span class="filesize_auto">172,650B</span>］</a></p>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">「マッピング」および「空容量一覧」に関する留意事項</h3>
+		<ul class="list_num">
+			<li class="list"><span class="num">01.</span>空容量は目安であり、系統接続の前には、接続検討のお申込みによる詳細検討が必要となります。その結果、空容量が変更となる場合があります。</li>
+			<li class="list"><span class="num">02.</span>特に記載のない限り、熱容量を考慮した空容量を記載しております。その他の要因（電圧や系統安定度など）で連系制約が発生する場合があります。</li>
+			<li class="list"><span class="num">03.</span>発電設備等が連系する変圧器によっては、別途バンク逆潮流対策が必要になる可能性があります。</li>
+			<li class="list"><span class="num">04.</span>3年以内に増強した系統へ連系する場合は、空容量の範囲内であっても、増強工事費の一部を負担いただくことがあります。</li>
+			<li class="list"><span class="num">05.</span>社会的に影響を与えることが懸念される重要施設への供給系統に関する情報や、電力供給契約が特定できるような第三者情報などについては、公開しておりません。</li>
+			<li class="list"><span class="num">06.</span>2023年4月よりローカル系統へのノンファーム型接続開始に伴い、空き容量マップの色分け凡例および留意事項が変更<sup>※</sup>となります（２次電圧が6.6kVの変圧器を有する配電用変電所を除く）。現行の緑、赤、青色表示は原則、青色表示の平時出力制御が発生する可能性のある系統となります。<br>
+				※この変更の反映については、2024年4月のシステム改修にて反映予定です。
+			</li>
+			<li class="list"><span class="num">07.</span>現行の緑及び赤色系統の一部に、一括検討プロセス実施中の系統または増強予定の系統がある場合は、空き容量一覧表の備考欄に「増強予定」と記載いたします。</li>
+		</ul>
+	</section>
+</section>
+
+<section class="section" id="section-2">
+	<h2 class="ttl_bdr_l">蓄電池連系に伴い大規模な上位系統増強が必要となるマップ</h2>
+	<p>当社は、関西エリアにて蓄電池事業を計画されているお客さまに対し、当社系統への連系に伴い大規模な増強工事（概ね工期4年～10年以上の工事）が必要であることが既に判明している地域をご確認いただけるマップを公開します。</p>
+	<p><a href="/consignment/disclosure/distribution-equipment/pdf/map.pdf" class="link_pdf" target="_blank">蓄電池連系に伴い大規模な上位系統増強が必要となる地域マップ［<span class="filesize_auto">2,337,537B</span>］</a></p>
+</section>
+
+<section class="section" id="section-3">
+	<h2 class="ttl_bdr_l">ノンファーム型接続の受付について</h2>
+	<p>当社は、「<a href="/corporate/information/2022/pdf/20221220_1_01.pdf" class="link_pdf link_red" target="_blank">ノンファーム型接続のさらなる適用拡大について［<span class="filesize_auto">355,539B</span>］</a>」[2022年12月20日]を公表し、<br class="sp_only">
+		ノンファーム型接続として受け入れする場合の対応内容についてご案内しております。</p>
+	<p style="text-indent: -4em;margin: 1em 0 0 4em;">（参考）電力広域的運営推進機関ホームページ<br>
+		<a href="https://www.occto.or.jp/grid/business/setsuzoku.html" target="_blank" class="link_blank" rel="noopener noreferrer">系統の接続ルールについて</a>
+	</p>
+</section>
+<section class="section" id="section-4">
+	<h2 class="ttl_bdr_l">系統混雑に関する中長期見通し</h2>
+	<p>
+      第83回 広域系統整備委員会（2024年9月10日）において示された前提条件・算定方法に基づき算出した結果、2029年度の系統混雑に関する中長期見通しは下記の通りです。<br>
+      （<a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/2024/seibi_83_shiryou.html" target="_blank" class="link_blank" rel="noopener noreferrer">第83回 広域系統整備委員会</a>）
+	</p>
+   <p class="mt20"><a href="/consignment/disclosure/pdf/konzatsu_2029_06.pdf" class="link_pdf" target="_blank">2029年度の系統制約による混雑見通し［<span class="filesize_auto">2,166,559B</span>］</a></p>
+
+	<p class="mt50">
+		第92回 広域系統整備委員会（2025年9月2日）において示された前提条件・算定方法に基づき算出した結果、2030年度の移行シナリオにおける系統制約による混雑は発生しない見通しです。<br>
+		（<a href="https://www.occto.or.jp/iinkai/kouikikeitouseibi/2025/seibi_92_shiryou.html" target="_blank" class="link_blank" rel="noopener noreferrer">第92回 広域系統整備委員会</a>）
+	</p>
+	<p class="mt20">2030年度の現行シナリオにおける系統混雑に関する中長期見通しは下記の通りです。</p>
+	<p class="mt20"><a href="/consignment/disclosure/pdf/konzatsu_genkou_2030_06.pdf" class="link_pdf" target="_blank">2030年度の系統制約による混雑見通し（一部修正、2026年6月18日）［<span class="filesize_auto">789,041B</span>］</a></p>
+
+</section>
+
+<section class="section" id="repower">
+	<h2 class="ttl_bdr_l">基幹系統への再給電方式（調整電源の活用）の展開について</h2>
+	<p>当社は、「<a href="/corporate/information/2022/0125_1.html" class="link_red">基幹系統への再給電方式（調整電源の活用）の展開について</a>」[2022年1月25日]を公表し、<br class="sp_only">
+		基幹系統において、系統が混雑した際に、メリットオーダーに従い出力制御する再給電方式についてご案内しております。</p>
+		
+	<p>本取り組みは、2022年12月21日より開始することといたします（<a href="/corporate/information/2022/pdf/20221214_1_01.pdf" class="link_pdf" target="_blank">2022年12月14日お知らせ済［<span class="filesize_auto">133,031B</span>］</a>）。</p>
+</section>
+<section class="section" id="repower2">
+	<h2 class="ttl_bdr_l">基幹系統への再給電方式（一定の順序）の展開について</h2>
+	<p>
+		当社は、「<a href="/corporate/information/2022/pdf/20220729_1_01.pdf" class="link_pdf link_red" target="_blank">基幹系統への再給電方式（一定の順序）の展開について［<span class="filesize_auto">145,672B</span>］</a>」[2022年7月29日]を公表し、<br class="sp_only">
+		基幹系統において、系統が混雑した際に、調整電源をメリットオーダーに従い出力制御するのに加えて調整電源以外の電源を出力制御する再給電方式についてご案内しております。
+	</p>
+	<p class="mt20">本取り組みは、2023年12月28日より開始することといたします（<a href="/corporate/information/2023/pdf/20230731_1_01.pdf" class="link_pdf link_red" target="_blank">2023年7月31日お知らせ済［<span class="filesize_auto">152,780B</span>］</a>）。</p>
+</section>
+
+<section class="section" id="repower3">
+	<h2 class="ttl_bdr_l">再給電方式に関する情報公表</h2>
+	<p class="mb20"><a href="/denkiyoho/re-dispatch/index.html" class="link_arw_r">再給電方式に関する情報公表はこちら</a></p>
+</section>
+
+
+<section class="section" id="section-5">
+	<h2 class="ttl_bdr_l">系統情報の公開</h2>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">地点別需要・系統潮流実績 他</h3>
+        <p class="mb10">・154kV以上</p>
+		<div class="mb20">
+			<p>（2024年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2024.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">462,064B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2024_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">11,869,972B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2024_154more.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">6,490,368B</span>］</a></p>
+			<p><a href="/consignment/disclosure/pdf/01_roop_2024_1.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">93,850B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2023年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2023.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">621,809B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2023_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">9,587,619B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2023_154more.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">7,526,470B</span>］</a></p>
+			<p><a href="/consignment/disclosure/pdf/01_roop_2023_1.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">96,796B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2022年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2022.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">624,142B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2022_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">9,558,664B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2022_154more.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,931,581B</span>］</a></p>
+			<p><a href="/consignment/disclosure/pdf/01_roop_2022.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">94,992B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2021年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2021.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">625,075B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2021_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">9,925,122B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2021.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,746,287B</span>］</a></p>
+			<p><a href="/consignment/disclosure/pdf/01_roop_2021.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">96,666B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2020年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2020.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">215,164B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2020_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">9,855,429B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2020.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,688,989B</span>］</a></p>
+			<p><a href="/consignment/disclosure/pdf/01_roop_2020.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">93,562B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2019年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2019.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">216,301B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2019_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">8,792,549B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2019.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,549,373B</span>］</a></p>
+		</div>
+		<div class="mb20">
+			<p>（2018年度）</p>
+			<p><a href="/consignment/disclosure/pdf/01_keitou_2018.pdf" class="link_pdf" target="_blank">系統図［<span class="filesize_auto">227,435B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/jisseki_kikan_line_2018_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">5,918,152B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2018.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">3,822,572B</span>］</a></p>
+		</div>
+        <p class="mb10">・154kV未満</p>
+        <div class="mb20">
+		<p>（2024年度）</p>
+		<p><a href="/consignment/disclosure/csv/jisseki_local_line_2024_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">38,644,084B</span>］</a></p>
+		<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2024.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,980,521B</span>］</a></p>
+		<p><a href="/consignment/disclosure/pdf/01_roop_2024.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">339,813B</span>］</a></p>
+        </div>
+		<div class="mb20">
+		<p>（2023年度）</p>
+		<p><a href="/consignment/disclosure/csv/jisseki_local_line_2023_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">37,242,273B</span>］</a></p>
+		<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2023.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,984,041B</span>］</a></p>
+		<p><a href="/consignment/disclosure/pdf/01_roop_2023.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">247,583B</span>］</a></p>
+        </div>
+        <div class="mb20">
+			<p>（2022年度）</p>
+			<p><a href="/consignment/disclosure/csv/jisseki_local_line_2022_06.csv" class="link_csv" target="_blank">潮流実績（送電線）［<span class="filesize_auto">37,416,581B</span>］</a></p>
+			<p><a href="/consignment/disclosure/csv/01_chouryu_Tr_2022.csv" class="link_csv" target="_blank">潮流実績（変圧器）［<span class="filesize_auto">5,990,797B</span>］</a></p>
+            <p><a href="/consignment/disclosure/pdf/01_roop_2022_2.pdf" class="link_pdf" target="_blank">インピーダンス（ループ系統）［<span class="filesize_auto">118,013B</span>］</a></p>
+        </div>		
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">送変電設備の投資・廃止計画</h3>
+        <p class="mb10">・154kV以上</p>
+		<p><a href="/consignment/disclosure/pdf/03_toushi_2024.pdf" class="link_pdf" target="_blank">投資・廃止計画（154kV分）［<span class="filesize_auto">43,868B</span>］</a></p>
+		<p>275kV以上分については、「<a href="/consignment/disclosure/distribution-equipment/pdf/plan_outline.pdf" class="link_pdf" target="_blank">流通設備建設計画の概要［<span class="filesize_auto">170,177B</span>］</a>」をご確認ください。</p>
+        <p class="mb10 mt20">・154kV未満</p>
+		<p><a href="/consignment/disclosure/pdf/03_toushi_less_2022.pdf" class="link_pdf" target="_blank">投資・廃止計画（154kV未満）［<span class="filesize_auto">40,175B</span>］</a></p>
+
+    </section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">送変電設備の作業停止計画</h3>
+        <p class="mb10 mt20">・<a href="/consignment/disclosure/distribution-equipment/work_stop_154more.html" class="link_arw_r">154kV以上　作業停止計画</a></p>
+        <p class="mb10 mt20">・<a href="/consignment/disclosure/distribution-equipment/work_stop_154less.html" class="link_arw_r">154kV未満　作業停止計画</a></p>
+
+    </section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">「系統情報の公開」に関する留意事項</h3>
+		<ul class="list_num">
+			<li class="list"><span class="num">01.</span>「系統図」は社会的に影響を与えることが懸念される重要施設への供給系統に関する情報や、電力供給契約が特定できるような第三者情報などについては、公開しておりません。</li>
+			<li class="list"><span class="num">02.</span>「潮流実績」および「予想潮流」においては、個別需要が分かる専用線等や電源が1ユニットのみの電源線については第三者情報性を排除するよう加工処理をしております。</li>
+			<li class="list"><span class="num">03.</span>「潮流実績」は、データ取得可能箇所について公開しております。また、データは伝送異常や通信作業によるデータ欠落等がある場合がございます。</li>
+			<li class="list"><span class="num">04.</span>EXCELデータおよびCSVデータの仕様については、予告なく変更することがあります。</li>
+			<li class="list"><span class="num">05.</span>「作業停止計画（過去分除く）」については、公開情報更新時に内容が最新計画に更新されます。</li>
+		</ul>
+	</section>
+</section>
+
+<section class="section" id="section-6">
+	<h2 class="ttl_bdr_l">電源情報開示</h2>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">開示請求に関するご案内</h3>
+		<p>資源エネルギー庁 電力・ガス事業部が定める「系統情報の公表の考え方」に記載の通り、電源に関する情報について開示請求の受付を開始いたしました。</p>
+		<p>系統情報の公表の考え方については<a href="https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/summary/regulations/" target="_blank" class="link_blank" rel="noopener noreferrer">こちら</a></p>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">1．電源情報開示の流れ</h3>
+		<div class="step_wrap_big">
+			<div class="ttl">
+				<p class="step">1</p>
+				<p class="txt">電源情報開示のお申込み</p>
+			</div>
+		</div>
+		<div class="step_wrap_big">
+			<div class="ttl">
+				<p class="step">2</p>
+				<p class="txt">受付　（必要書類確認）</p>
+			</div>
+		</div>
+		<div class="step_wrap_big">
+			<div class="ttl">
+				<p class="step">3</p>
+				<p class="txt">秘密保持契約締結</p>
+			</div>
+		</div>
+		<div class="step_wrap_big">
+			<div class="ttl">
+				<p class="step">4</p>
+				<p class="txt">手数料請求・支払</p>
+			</div>
+		</div>
+		<div class="step_wrap_big last">
+			<div class="ttl">
+				<p class="txt">データ開示</p>
+			</div>
+		</div>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">2．開示手数料</h3>
+		<p>当社は、電源情報開示の都度、11,000円（税込）を開示手数料として申し受けます。</p>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">3．申込方法（問い合わせ窓口）</h3>
+		<p>当社所定の申込書に必要事項をご記入いただき、必要となる資料を添付のうえ、ネットワークサービスセンターにお申込みください</p>
+	</section>
+	<section class="section_in">
+		<h3 class="ttl_bdr_b">4．申込様式他</h3>
+		<p><a href="/consignment/disclosure/word/ryutusetsubi_application.docx" class="link_word" target="_blank">電源情報開示申込書［<span class="filesize_auto">33,921B</span>］</a></p>
+		<p><a href="/consignment/disclosure/word/ryutusetsubi_oath.docx" class="link_word" target="_blank">電源情報の第三者への開示に関する宣誓書［<span class="filesize_auto">28,505B</span>］</a></p>
+		<p><a href="/consignment/disclosure/word/ryutusetsubi_confidentiality.docx" class="link_word" target="_blank">電源情報の開示請求者に関わる情報開示要請書兼秘密保持誓約書［<span class="filesize_auto">26,010B</span>］</a></p>
+		<p><a href="/consignment/disclosure/pdf/ryutusetsubi_kaiji_01.pdf" class="link_pdf" target="_blank">秘密保持契約書［<span class="filesize_auto">175,478B</span>］</a></p>
+		</ul>
+	</section>
+</section>
+<section class="section" id="section-7">
+	<h2 class="ttl_bdr_l">電力潮流の状況について</h2>
+	<p class="text_mb">電力潮流の状況(予想値)については、<a href="/consignment/service-center.html" class="link_red">ネットワークサービスセンター</a>までお問い合わせください。</p>
+	<p><a href="/consignment/disclosure/distribution-equipment/renewable-energy.html" class="link_arw_r">発電設備の受付状況に関する情報 他</a></p>
+</section>
+
+<section class="section" id="section-8">
+	<h2 class="ttl_bdr_l">発電設備の周波数低下リレーの整定値変更について</h2>
+	<p class="text_mb">当社は、電力広域的運営推進機関や他の一般送配電事業者と連携し、60Hz連系系統のレジリエンス向上に取り組んでおります。発電設備をお持ちのお客さまは、発電設備の周波数低下リレー（UFR）の整定変更にご協力をお願い致します。本件に関するお問い合わせについては、<a href="/faq/contact/" class="link_red">こちら</a>までご連絡ください。</p>
+	<p><a href="https://www.kepco.co.jp/corporate/notice/souhaiden/pdf/20190426_1_01.pdf" class="link_blank" target="_blank" rel="noopener noreferrer">60Hz連系系統のレジリエンス向上のための取組みについて<span class="link_red">（2019年4月26日お知らせ済み）</span></a></p>
+</section>
+
+
+<!-- SEARCH_EXCEPT_TAG_START -->
+<div class="box_bg_gry acrobat_box">
+	<div class="clm2 sp1">
+		<div class="clm_in">
+			<p>PDF形式のファイルをご覧になるには、adobe社から提供されているAcrobat Readerが必要となります。ダウンロードはこちらのバナーをクリックしてください。</p>
+		</div>
+		<div class="clm_in taC"><a href="https://get.adobe.com/jp/reader/" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/get_acrobat_reader.png" alt="Get Adobe Acrobat Reader"></a></div>
+	</div>
+</div>
+<!-- SEARCH_EXCEPT_TAG_END -->
+                        </div>
+                        
+                        </div>
+                        <div id="side_wrap">
+                        
+                            <!-- SEARCH_EXCEPT_TAG_START -->
+
+					<div class="side_in">
+						<p class="ttl">託送（たくそう）とはメニュー</p>
+						<ul class="nav_list">
+							
+							<li class="nav"><a href="/consignment/">託送（たくそう）とはTOP</a></li>
+							
+							<li class="nav"><a href="/consignment/agreement/">各種約款・要綱・料金等</a></li>
+							
+							<li class="nav"><a href="/consignment/welcome-zone-map/">ウェルカムゾーンマップ</a></li>
+							
+							<li class="nav"><a href="/consignment/connection-supply.html">接続供給の概要と要件等</a></li>
+							
+							<li class="nav"><a href="/consignment/transfer-supply.html">振替供給の概要と要件等</a></li>
+							
+							<li class="nav"><a href="/consignment/adjustment-supply.html">発電量調整供給の概要と要件等</a></li>
+							
+							<li class="nav"><a href="/consignment/demand-suppression.html">需要抑制量調整供給の概要と要件等</a></li>
+							
+							<li class="nav"><a href="/consignment/self-consignment.html">自己託送の概要と要件等</a></li>
+							
+							<li class="nav"><a href="/consignment/renewable-energy/">再生可能エネルギー発電出力制御について</a></li>
+							
+							<li class="nav"><a href="/consignment/discussion-process/">電源接続案件一括検討プロセスについて</a></li>
+							
+							<li class="nav"><a href="/consignment/disclosure/">お知らせ・情報公開資料</a></li>
+							
+							<li class="nav"><a href="/consignment/congestion-mitigation/">混雑緩和プロセスについて</a></li>
+							
+							<li class="nav"><a href="/consignment/service-center.html">ネットワークサービスセンターのご案内</a></li>
+							
+						</ul>
+					</div>
+<!-- SEARCH_EXCEPT_TAG_END -->
+                        
+                        </div>
+                        
+                    </div>
+                 
+                </div>                
+                
+
+            </main>
+            
+            <!-- SEARCH_EXCEPT_TAG_START -->
+<footer id="footer">
+	<div class="conts_in clearfix sp_acc_wrap">
+		<div class="link_wrap">
+			
+			<div class="link_box sp_acc_area supply">
+				<a href="/supply/" class="link_cate sp_acc_btn">安全・安定供給 </a>
+				<ul class="link_list sp_acc_in">
+					
+					<li class="link sp_only"><a href="/supply/">安全・安定供給TOP</a></li>
+					
+					<li class="link"><a href="/supply/facility.html">安定供給を支える設備</a></li>
+					
+					<li class="link"><a href="/supply/aging/">高経年化対策</a></li>
+					
+					<li class="link"><a href="/supply/accident-prevention/">電気事故防止のお願い</a></li>
+					
+					<li class="link"><a href="/supply/initiatives/">安全・安定供給への取組み</a></li>
+					
+				</ul>
+			</div>
+			<div class="link_box sp_acc_area technology">
+				<a href="/technology/" class="link_cate sp_acc_btn">技術力と効率化への取組み </a>
+				<ul class="link_list sp_acc_in">
+					
+					<li class="link sp_only"><a href="/technology/">技術力と効率化への取組みTOP</a></li>
+					
+					<li class="link"><a href="/technology/smart-meter.html">スマートメーター</a></li>
+					
+					<li class="link"><a href="/technology/drone/index.html">ドローンの活用</a></li>
+					
+				</ul>
+			</div>
+			<div class="link_box sp_acc_area consignment">
+				<a href="/consignment/" class="link_cate sp_acc_btn">託送（たくそう）とは</a>
+				<ul class="link_list sp_acc_in">
+					
+					<li class="link sp_only"><a href="/consignment/">託送（たくそう）とはTOP</a></li>
+					
+					<li class="link"><a href="/consignment/agreement/">各種約款・要綱・料金等</a></li>
+					
+					<li class="link"><a href="/consignment/welcome-zone-map/">ウェルカムゾーンマップ</a></li>
+					
+					<li class="link"><a href="/consignment/connection-supply.html">接続供給の概要と要件等</a></li>
+					
+					<li class="link"><a href="/consignment/transfer-supply.html">振替供給の概要と要件等</a></li>
+					
+					<li class="link"><a href="/consignment/adjustment-supply.html">発電量調整供給の概要と要件等</a></li>
+					
+					<li class="link"><a href="/consignment/demand-suppression.html">需要抑制量調整供給の概要と要件等</a></li>
+					
+					<li class="link"><a href="/consignment/self-consignment.html">自己託送の概要と要件等</a></li>
+					
+					<li class="link"><a href="/consignment/renewable-energy/">再生可能エネルギー発電出力制御について</a></li>
+					
+					<li class="link"><a href="/consignment/discussion-process/">電源接続案件一括検討プロセスについて</a></li>
+					
+					<li class="link"><a href="/consignment/disclosure/">お知らせ・情報公開資料</a></li>
+					
+					<li class="link"><a href="/consignment/congestion-mitigation/">混雑緩和プロセスについて</a></li>
+					
+					<li class="link"><a href="/consignment/service-center.html">ネットワークサービスセンターのご案内</a></li>
+					
+				</ul>
+			</div>
+			<div class="link_box sp_acc_area application">
+				<a href="/application/" class="link_cate sp_acc_btn">各種お手続き</a>
+				<ul class="link_list sp_acc_in">
+					
+					<li class="link sp_only"><a href="/application/ ">各種お手続きTOP</a></li>
+					
+					<li class="link">インターネット託送工事等お手続き<br>（たくそう君）<a href="/application/consignment/takusou-kun/index.html" class="head_navlink">低圧</a>・<a href="/application/consignment/high-pressure-500kw.html" class="head_navlink">高圧</a></li>
+					
+					<li class="link"><a href="/application/renewable-energy/uchiden.html">送配電買取実績照会サービス<br>「うちの発電量」</a></li>
+					
+					<li class="link"><a href="/application/renewable-energy/fixed-purchase/contract/index.html">FIT送配電買取WEB申込サービス</a></li>
+					
+					<li class="link"><a href="/application/consignment/">託送供給に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/renewable-energy/">再生可能エネルギー電気に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/collocation/">共架・管路に関するお申込み</a></li>
+					
+					<li class="link"><a href="/application/eliminating-poles/index.html">市街地開発事業等における無電柱化に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/accident-prevention/">電気事故防止に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/switch/">開閉器操作に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/smart-meter/index.html">メーターデータ提供サービス</a></li>
+					
+					<li class="link"><a href="/application/demand-generation-infotmation/">需要者・発電者情報に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/supply-construction.html">供給工事の実施</a></li>
+					
+					<li class="link"><a href="/application/electric-energy-adjustment/">電力量調整供給に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/power_distribution_sys/index.html">配電事業制度とは</a></li>
+					
+					<li class="link"><a href="/application/kaketsuke-service.html">でんきの駆けつけサービス</a></li>
+					
+					<li class="link"><a href="/application/outsourcing/">小売電気事業・発電事業の業務の受託</a></li>
+					
+					<li class="link"><a href="/application/partner/">調整力電源に関するお手続き</a></li>
+					
+					<li class="link"><a href="/application/land/">土地・地役権等に関するお手続き</a></li>
+					
+					<li class="link"><a href="/corporate/profile/business/land-fee.html">電柱敷地料</a></li>
+					
+					<li class="link"><a href="/application/last-resort/index.html">最終保障供給（高圧ＬＲ）の契約に<br>
+関するお手続</a></li>
+					
+					<li class="link"><a href="/application/power-distribution-relocation/procedure.html">電柱・支線等の配電設備の移設に関するお手続き</a></li>
+					
+					<li class="link"><a href="/consignment/disclosure/fairness/index.html">送配電等業務の公平性の確保</a></li>
+					
+				</ul>
+			</div>
+			<div class="link_box sp_acc_area corporate">
+				<a href="/corporate/" class="link_cate sp_acc_btn">会社情報</a>
+				<ul class="link_list sp_acc_in">
+					
+					<li class="link sp_only"><a href="/corporate/">会社情報TOP</a></li>
+					
+					<li class="link"><a href="/corporate/profile/">会社概要</a></li>
+					
+					<li class="link"><a href="/corporate/philosophy/">経営理念</a></li>
+					
+					<li class="link"><a href="/corporate/liberalization/index.html">関西電力からの分社化</a></li>
+					
+					<li class="link"><a href="/corporate/message/">コーポレートメッセージ</a></li>
+					
+					<li class="link"><a href="/corporate/energy/">エネルギー問題と当社の取組み</a></li>
+					
+					<li class="link"><a href="/corporate/sustainability/index.html">サステナビリティ</a></li>
+					
+					<li class="link"><a href="/corporate/press-release/">プレスリリース</a></li>
+					
+					<li class="link"><a href="/corporate/information/">お知らせ・更新情報</a></li>
+					
+					<li class="link"><a href="/corporate/gallery.html">発行冊子・動画</a></li>
+					
+					<li class="link"><a href="/okurin/index.html">公式キャラクター「おくりん」</a></li>
+					
+					<li class="link"><a href="/corporate/learning-with-okurin/">おくりんの電気教室（forキッズ）</a></li>
+					
+					<li class="link"><a href="/corporate/kidzania/">キッザニア甲子園　「送配電会社」</a></li>
+					
+					<li class="link"><a href="/corporate/transmission-tower-card/"> 鉄塔カードについて</a></li>
+					
+					<li class="link"><a href="/corporate/campaign/">プレゼントキャンペーン</a></li>
+					
+					<li class="link"><a href="/corporate/e-public-notice.html">電子公告</a></li>
+					
+					<li class="link"><a href="/corporate/recruit.html">採用情報</a></li>
+					
+					<li class="link"><a href="/corporate/procurement/">資材調達情報</a></li>
+					
+					<li class="link"><a href="/corporate/group.html">グループ会社・関連企業／団体</a></li>
+					
+				</ul>
+			</div>
+			<div class="link_box sp_acc_area faq">
+				<a href="/faq/" class="link_cate fwB fslink">よくあるご質問・お問い合わせ</a>
+				<ul class="link_list sp_acc_in">
+					
+				</ul>
+			</div>
+		</div>
+
+	</div>
+    
+<div class="chat-frame behavior-page_top">
+<!-- クリック対象のマーク -->
+<span><img src="/common/images/chat-banner.svg" alt="困ったときはココを押してね！！" id="menu-btn" class="menu-btn"></span>
+<!-- 初期非表示のボタン -->
+<div id="slide-menu" class="slide-menu">
+<a href="/faq/" class="mb5"><img src="/top/images/top_faq_btn.svg" alt="よくある お問い合わせ"></a><br>
+<a href="https://kansai-td.support-navi.jp/t02/" class="v-ivr"><img src="/top/images/top_chat_btn.svg" alt="チャットで お問い合わせ"></a>
+</div>
+<span class="chat-banner-close"></span>
+</div>
+	<div id="page_top">
+		<a href="#" class="anchor btn_top op"><img src="/common/images/pagetop.png" alt="TOP"></a>
+	</div>
+	<div class="sp_only">
+		<ul class="info_btn_list">
+			<li class="btn blackout"><a href="/teiden-info/index.php" class="op">停電情報</a></li>
+			<li class="btn thunder"><a href="/kaminari-info/index.html" class="op">雷情報</a></li>
+			<li class="btn supply"><a href="/denkiyoho/index.html" class="op">でんき予報</a></li>
+		</ul>
+	</div>
+	<div class="site_menu">
+		<ul class="site_list">
+			<li class="site"><a href="/sitemap/index.html">サイトマップ</a></li>
+			<li class="site"><a href="/siteinfo/index.html">サイトのご利用にあたって</a></li>
+			<li class="site"><a href="/privacy/index.html">個人情報保護方針</a></li>
+		</ul>
+	</div>
+	<div class="footer_btm clearfix">
+		<div class="sns">
+			<ul class="sns_list">
+				<li class="sns"><a href="https://www.instagram.com/okurin_td/" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_instagram.png" alt=""></a></li>
+				<li class="sns"><a href="https://x.com/KANDEN_souhai" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_x.png" alt=""></a></li>
+				<li class="sns"><a href="https://www.youtube.com/channel/UCrIOvXkhEuiesJtudkuwwkA/featured" target="_blank" rel="noopener noreferrer" class="op"><img src="/common/images/icon/icon_youtube.png" alt=""></a></li>
+			</ul>
+		</div>
+		<div class="logo"><a href="https://www.kepco.co.jp/" class="op" target="_blank" rel="noopener noreferrer"><img src="/common/images/logo_kansaidenryoku_lines.png" alt="関西電力グループ"></a></div>
+	</div>
+	<div class="copy"><p>Copyright&copy;<span class="js_year"></span> KANSAI TRANSMISSION AND DISTRIBUTION, INC. All Rights Reserved.</p></div>
+</footer>
+<!-- SEARCH_EXCEPT_TAG_END -->
+            
+        </div><!-- / #wrapper -->
+        <!--common JS-->
+        
+   <script src="/common/js/lib/jquery-3.7.1.min.js"></script>
+   <script src="/common/js/lib/jquery.matchHeight.js"></script>
+   <script src="/common/js/base.js?d=2025032815142300"></script>
+   <script src="/common/js/common.js?d=2025021913193300"></script>
+   <script src="/common/data/related-map.js"></script>
+   <script src="/common/data/related-data.js"></script>
+   <script src="/common/data/popup-bnr.js"></script>
+   <script src="https://cache.dga.jp/s/kanden_td/search_tool_n3.js"></script>
+   <script src="/common/js/alert.js"></script>
+        <script src="/common/js/jquery.bytes2km.js"></script>
+        
+    </body>
+</html>
