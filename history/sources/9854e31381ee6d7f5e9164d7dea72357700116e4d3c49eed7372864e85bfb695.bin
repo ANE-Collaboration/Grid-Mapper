@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TG5F54X');</script>  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes">
+<meta name="description" content="">
+<meta name="author" content="YONDEN T &amp; D / Kagawa,Japan">
+
+<title>系統アクセスに関するデータ集｜四国電力送配電</title>
+
+<meta property="og:title" content="系統アクセスに関するデータ集">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://www.yonden.co.jp/nw/assets/img/common/ogp.png">
+<meta property="og:url" content="https://www.yonden.co.jp/nw/line_access/data.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="四国電力送配電">
+
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+
+<link rel="shortcut icon" href="/nw/assets/img/favicon/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="/nw/assets/img/favicon/favicon.svg">
+<link rel="icon" type="image/png" href="/nw/assets/img/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="apple-touch-icon" sizes="180x180" href="/nw/assets/img/favicon/apple-touch-icon.png">
+<link rel="manifest" href="/nw/assets/img/favicon/site.webmanifest">  <link rel="stylesheet" href="/nw/assets/css/scroll-hint.css">
+  <link rel="stylesheet" href="/nw/assets/css/style.min.css">
+    <script src="/nw/assets/js/jquery-3.7.1.min.js"></script>
+  <script defer src="/nw/assets/js/scroll-hint.min.js"></script>
+  <script defer src="/nw/assets/js/script.min.js"></script>
+    </head>
+
+<body >
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TG5F54X" height="0" width="0" style="display:none;visibility:hidden" sandbox="allow-scripts" title="Google Tag Manager"></iframe></noscript>
+  
+  <a href="#a-main-content" class="skip-link">本文へスキップ</a>
+  <header class="l-header" role="banner">
+    <div class="l-header__inner">
+      <div class="l-header__title">
+                  <p class="l-title"><a href="/nw/"><img src="/nw/assets/img/common/corporate_logo.svg" alt="四国電力送配電"></a></p>
+              </div>
+      <div class="l-header__global-menu">
+        <nav class="l-global-menu" role="navigation">
+          
+<ul class="l-global-menu__sp-btn">
+  <li><a class="no-icon" href="/nw/teiden-info/" target="_blank">停電情報</a></li>
+  <li><a class="no-icon" href="/nw/denkiyoho/" target="_blank">でんき予報</a></li>
+</ul>
+<p class="l-global-menu__sp-top"><a href="/nw/">四国電力送配電 トップページ</a></p>
+<dl>
+  <dt class="js-global-menu"><a href="/nw/safety/">停電・電気安全</a></dt>
+  <dd class="js-global-menu__inner l-global-menu__inner">
+    <div class="menu-bg">
+      <div class="l-wrapper">
+        <h2><a href="/nw/safety/">停電・電気の安全</a></h2>
+        <div class="menu-teiden01">
+          <ul class="menu-teiden-bt">
+            <li><a class="bt01" href="/nw/teiden-info/" target="_blank">停電情報</a></li>
+            <li><a class="bt02" href="/nw/safety/teiden/home.html">ご家庭での停電時の<br>対処法</a></li>
+            <li><a class="bt03" href="/nw/cnt_line-notice/" target="_blank">停電情報LINE通知</a></li>
+          </ul>
+          <div class="menu-teiden02">
+            <div>
+              <h3><a href="/nw/safety/teiden/">停電について</a></h3>
+              <ul class="menu-list">
+                <li><a href="/nw/teiden-info/" target="_blank">停電情報</a></li>
+                <li><a href="/nw/safety/teiden/home.html">ご家庭での停電時の対処方法</a></li>
+                <li><a href="/nw/cnt_line-notice/" target="_blank">停電情報LINE通知サービス</a></li>
+                <li><a href="/nw/safety/teiden/measures.html">停電対策のお願い</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3><a href="/nw/safety/electrical_safety/">電気の安全について</a></h3>
+              <ul class="menu-list">
+                <li><a href="/nw/safety/electrical_safety/prepare.html">災害時の対応</a></li>
+                <li><a href="/nw/safety/electrical_safety/home.html">ご家庭での安全な使い方</a></li>
+                <li><a href="/nw/safety/electrical_safety/outdoor.html">屋外での感電災害を防止<br>するために</a></li>
+                <li><a href="/nw/safety/electrical_safety/safety_survey.html">電気設備の安全調査</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3><a href="/nw/safety/contact_case/">このような場合は<br>お知らせください</a></h3>
+              <ul class="menu-list">
+                <li><a href="/nw/safety/contact_case/wire_runsout.html">切れた電線を見つけたら</a></li>
+                <li><a href="/nw/safety/contact_case/birds_nest.html">電柱に鳥の巣を見つけたら</a></li>
+                <li><a href="/nw/safety/contact_case/distribution_line.html">配電線付近で工事を行う場合</a></li>
+                <li><a href="/nw/safety/contact_case/power_line.html">送電線付近で工事を行う場合</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3><a href="/nw/safety/initiative/">当社の取り組み</a></h3>
+              <ul class="menu-list">
+                <li><a href="/nw/safety/initiative/safe_supply.html">電気の安定供給のために</a></li>
+                <li><a href="/nw/safety/initiative/service_line.html">引込線の張替工事</a></li>
+                <li><a href="/nw/safety/initiative/ai.html">AIを活用した営巣検知システム</a></li>
+              </ul>
+            </div>
+            <h3><a href="/nw/safety/electromagnetic_field/">電磁界について</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </dd>
+</dl>
+<dl>
+  <dt class="js-global-menu"><a href="/nw/renewable_energy/">再生可能エネルギー</a></dt>
+  <dd class="js-global-menu__inner l-global-menu__inner">
+    <div class="menu-bg">
+      <div class="l-wrapper">
+        <h2><a href="/nw/renewable_energy/">再生可能エネルギー</a></h2>
+        <div class="menu-energy">
+          <div>
+            <h3 class="u-mb50"><a href="/nw/renewable_energy/output_control/">再生可能エネルギーの出力制御</a></h3>
+            <h3 class="u-mb50"><a href="/nw/renewable_energy/power_purchase/">再生可能エネルギーの買取制度</a></h3>
+            <h3><a href="/nw/electric_wholesale_supply/">再生可能エネルギーの電気卸供給</a></h3>
+          </div>
+          <div>
+            <h3><a href="/nw/renewable_energy/procedure/">契約手続き・申込書類</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/renewable_energy/procedure/under50kw.html">FIT：低圧(50kW未満)の発電設備</a></li>
+              <li><a href="/nw/renewable_energy/procedure/high.html">FIT：高圧・特別高圧の発電設備</a></li>
+              <li><a href="/nw/renewable_energy/procedure/wind.html">風力発電設備</a></li>
+              <li><a href="/nw/consignment_service/flow/#a-sec03">FIT以外：発電設備等</a></li>
+            </ul>
+          </div>
+          <ul class="menu-list">
+            <li><a href="/nw/renewable_energy/data/">各種データ</a></li>
+            <li><a href="/nw/renewable_energy/reference.html">参考情報</a></li>
+            <li><a href="/nw/renewable_energy/news/">お知らせ一覧</a></li>
+            <li><a class="adjust03" href="https://faq-nw.yonden.co.jp/hc/ja/categories/4905458904478-%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" target="_blank">よくあるご質問</a></li>
+            <li><a class="js-anchor" href="/nw/faq/business.html#s03">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </dd>
+</dl>
+<dl>
+  <dt class="js-global-menu"><a href="/nw/consignment_service/">電力小売託送サービス</a></dt>
+  <dd class="js-global-menu__inner l-global-menu__inner">
+    <div class="menu-bg">
+      <div class="l-wrapper">
+        <h2><a href="/nw/consignment_service/">電力小売託送サービス</a></h2>
+        <div class="menu-service">
+          <div>
+            <h3><a class="js-anchor" href="/nw/consignment_service#a-sec01">電力小売託送サービスについて</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/consignment_service/outline.html">制度概要</a></li>
+              <li><a href="/nw/consignment_service/supply.html">不足補給・余剰購入</a></li>
+              <li><a href="/nw/consignment_service/law/">約款・要綱等</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3><a class="js-anchor" href="/nw/consignment_service#a-sec02">料金等</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/consignment_service/menu.html">メニュー</a></li>
+              <li><a href="/nw/consignment_service/price/">料金表</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3><a class="js-anchor" href="/nw/consignment_service#a-sec03">申込み・手続き</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/consignment_service/flow/">託送供給、電力量調整供給の開始までの流れ</a></li>
+              <li><a href="/nw/consignment_service/internet_application.html">インターネット託送工事申込み</a></li>
+              <li><a href="/nw/consignment_service/line_application.html">連系線利用申込み</a></li>
+            </ul>
+          </div>
+          <ul class="menu-list">
+            <li><a href="/nw/consignment_service/info.html">お知らせ</a></li>
+            <li><a href="/nw/consignment_service/quantity_used.html">需要者情報の提供</a></li>
+            <li><a href="/nw/consignment_service/bid.html">入札による電力調達をご検討の<br>お客さまへ</a></li>
+            <li><a href="/nw/consignment_service/briefing_for_e-retailer.html">小売電気事業者さま向け説明会<br>(電力設備見学会)</a></li>
+            <li><a href="/nw/consignment_service/contact.html">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </dd>
+</dl>
+<dl>
+  <dt class="js-global-menu"><a href="/nw/service/">ご案内・サービス</a></dt>
+  <dd class="js-global-menu__inner l-global-menu__inner">
+    <div class="menu-bg">
+      <div class="l-wrapper">
+        <h2><a href="/nw/service/">ご案内・サービス</a></h2>
+        <div class="menu-info">
+          <div>
+            <div class="menu-info__column">
+              <ul class="menu-list">
+                <li><a href="/nw/bougokan/">建設用防護管取付のお申込み</a></li>
+                <li><a href="/nw/line_access/">系統アクセス情報の公表</a></li>
+                <li><a href="/nw/ancillary/">発電サービス系統連系サービス<br><br class="u-sp">(アンシラリーサービス)</a></li>
+                <li><a href="/nw/hdfposition/">電柱位置情報提供サービス</a></li>
+                <li><a href="/nw/dealing/">電柱共架・管路利用・設備譲渡</a></li>
+                <li><a href="/nw/b_root/">電力メーター情報発信サービス<br>(Bルートサービス)</a></li>
+                <li><a href="/nw/strage_battery/">系統用蓄電池向けの土地貸付について</a></li>
+                <li><a href="/nw/rule/">一般送配電事業における行為規制・<br>系統ルール</a></li>
+              </ul>
+              <ul class="menu-list">
+                <li><a href="/nw/polr/">最終保障供給</a></li>
+                <li><a href="/nw/smartmeter_iot/">ガス・水道遠隔検針(IoT向け通信回線サービス)</a></li>
+                <li><a href="/nw/generating-side-charges/">系統連系受電サービス料金(発電側課金)について</a></li>
+                <li><a href="/nw/industrial_area/">大規模需要等の立地を検討されている<br class="u-sp">事業者さま向け情報</a></li>
+                <li><a href="/nw/power_connection/">電源接続案件一括検討プロセス</a></li>
+                <li><a href="/nw/adjusting_power_supply/">ブラックスタート機能等の公募</a></li>
+                <li><a href="/nw/development-agreement/">送電線下土地の開発行為等に伴う<br class="u-sp">同意書発行手続き</a></li>
+                <li><a href="/nw/specified_measuring/">特定計量に関するお手続き</a></li>
+              </ul>
+            </div>
+          </div>
+          <div>
+            <ul class="menu-list">
+              <li><a href="/nw/supply_adjustment_market/">需給調整市場について</a></li>
+              <li><a href="/nw/planned-outage/">電力需給の状況が改善しない場合における<br class="u-sp">万が一の備えについて</a></li>
+              <li><a href="/nw/capacity_utilize/">余力活用に関する契約について</a></li>
+              <li><a href="https://iecr.yonden.co.jp/hd50takuhai/hd50t/hd50tf0100.action" target="_blank">計器宅配システム</a></li>
+              <li><a href="/nw/optical_fiber/">光ファイバーケーブル心線貸し</a></li>
+              <li><a href="/nw/transmissiontower-card/">鉄塔カード</a></li>
+              <li><a href="https://henro-no-akari.com/" target="_blank">お遍路サポートアプリ遍路のあかり</a></li>
+              <li><a href="/nw/lp/oshikoku_map/" target="_blank">電柱位置検索サービス「電柱お四国マップ」<br><br class="u-sp">について</a></li>
+              <li><a href="/nw/cnt_electrification/" target="_blank">電化でスマート、家族でスマイル<br><br class="u-sp">(電化住宅のご案内)</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </dd>
+</dl>
+<dl>
+  <dt><a href="/nw/contract_change/">手続き</a></dt>
+</dl>
+<dl>
+  <dt class="js-global-menu"><a href="/nw/corporate/">企業情報・採用</a></dt>
+  <dd class="js-global-menu__inner l-global-menu__inner">
+    <div class="menu-bg">
+      <div class="l-wrapper">
+        <h2><a href="/nw/corporate/">企業情報・採用</a></h2>
+        <div class="menu-corporate">
+          <div>
+            <h3><a href="/nw/corporate/outline/">四国電力送配電の概要</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/corporate/outline/message.html">社長あいさつ</a></li>
+              <li><a href="/nw/corporate/outline/summary.html">会社概要</a></li>
+              <li><a href="/nw/corporate/outline/philosophy.html">企業方針</a></li>
+              <li><a href="/nw/corporate/outline/directors.html">役員一覧</a></li>
+              <li><a href="/nw/corporate/outline/organization.html">組織図</a></li>
+              <li><a href="/nw/corporate/outline/branch_office.html">支社・事業所</a></li>
+              <li><a href="/nw/corporate/outline/annoucement.html">決算公告</a></li>
+              <li><a href="/nw/corporate/outline/library/">広報ライブラリ</a></li>
+              <li><a href="/nw/corporate/outline/revenue.html">レベニューキャップ制度<br>における事業計画</a></li>
+              <li><a href="/nw/corporate/outline/balance/">託送供給等収支の実績</a></li>
+              <li><a href="/corporate/yonden/group/" target="_blank">四国電力グループ</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3><a href="/nw/corporate/norm/">行動規範・方針</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/corporate/norm/csr.html">サステナビリティ・環境活動</a></li>
+              <li><a href="/nw/corporate/norm/compliance.html">コンプライアンスへの取り組み</a></li>
+              <li><a href="/nw/corporate/norm/privacy.html">個人情報保護への取り組み</a></li>
+              <li><a href="/nw/corporate/norm/proper.html">業務の適正を確保するための体制</a></li>
+              <li><a href="/corporate/disaster_prevention.html" target="_blank">防災業務計画</a></li>
+              <li><a href="/corporate/protect.html" target="_blank">国民の保護に関する業務計画</a></li>
+              <li><a href="/corporate/bcp.html" target="_blank">感染症に対応した事業継続計画(BCP)</a></li>
+              <li><a href="/nw/corporate/norm/disaster/">災害時連携計画について</a></li>
+              <li><a href="/nw/corporate/norm/multistakeholder.html">マルチステークホルダー方針</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3><a href="/nw/corporate/recruit/">採用情報</a></h3>
+            <ul class="menu-list">
+              <li><a href="/corporate/recruit/shinsotsu/" target="_blank">新卒採用情報</a></li>
+              <li><a href="https://www.i-note.jp/yonden/internship/home.html" target="_blank">インターンシップ・<br>オープンカンパニー情報</a></li>
+              <li><a href="/corporate/recruit/career/" target="_blank">キャリア採用情報</a></li>
+              <li><a href="/corporate/recruit/comeback.html" target="_blank">カムバック採用情報</a></li>
+              <li><a href="/corporate/recruit/group.html" target="_blank">四国電力グループ採用情報</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3><a href="/nw/corporate/supply/">資材調達情報</a></h3>
+            <ul class="menu-list">
+              <li><a href="/nw/corporate/supply/policy.html">基本方針・お願い</a></li>
+              <li><a href="/nw/corporate/supply/procedure.html">取引に関する手続き</a></li>
+              <li><a href="/nw/corporate/supply/ve.html">VE提案制度</a></li>
+              <li><a href="/nw/corporate/supply/green.html">グリーン購入ガイドライン</a></li>
+              <li><a href="/nw/corporate/supply/procurment.html">調達資材</a></li>
+              <li><a href="/nw/corporate/supply/public_offering.html">公募案件</a></li>
+              <li><a href="/nw/corporate/supply/partnership.html">パートナーシップ構築宣言</a></li>
+              <li><a class="js-anchor" href="/nw/corporate/supply#a-sec01">相談窓口</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </dd>
+</dl>
+<p class="l-global-menu__sp-top"><a href="/nw/faq/">よくあるご質問・お問い合わせ</a></p>
+<ul class="l-global-menu__sp-sns">
+  <li><a href="https://page.line.me/716zqyfg?openQrModal=true" target="_brank"><img src="/nw/assets/img/common/icon_line_logo.svg" alt="LINE"></a></li>
+  <li><a href="https://x.com/YONDEN_kinkyu" target="_brank"><img src="/nw/assets/img/common/icon_x_logo.svg" alt="X"></a></li>
+  <li><a href="https://www.youtube.com/channel/UCg22DuLThKT-IelHUV9uEYQ" target="_brank"><img src="/nw/assets/img/common/youtube.svg" alt="YouTube"></a></li>
+</ul>
+        </nav>
+      </div>
+      <div class="l-header__submenu">
+        <ul class="l-header__link">
+          <li><a href="/nw/teiden-info/" target="_blank">停電情報</a></li>
+          <li><a href="/nw/denkiyoho/" target="_blank">でんき予報</a></li>
+          <li><a href="/nw/faq/">よくあるご質問・お問い合わせ</a></li>
+        </ul>
+        <div class="l-header__search">
+          <div class="js-search_bt search-bt"><img src="/nw/assets/img/common/icon_search.svg" alt="検索"></div>
+          <div class="js-search_inner search-inner">
+            <div class="mf_finder_container">
+              <mf-search-box
+                ajax-url="https://finder.api.mf.marsflag.com/api/v1/finder_service/documents/45458787/search"
+                doctype-hidden
+                options-hidden
+                suggest-hidden
+                search-history-hidden
+                input-placeholder="キーワードで探す"
+                results-page-url="/nw/search/">
+              </mf-search-box>
+            </div>
+            <div class="js-search_close search-close"></div>
+          </div>
+        </div>
+        <ul class="l-header__sns">
+          <li><a href="https://page.line.me/716zqyfg?openQrModal=true" target="_brank"><img src="/nw/assets/img/common/icon_line_logo.svg" alt="LINE"></a></li>
+          <li><a href="https://x.com/YONDEN_kinkyu" target="_brank"><img src="/nw/assets/img/common/icon_x_logo.svg" alt="X"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCg22DuLThKT-IelHUV9uEYQ" target="_brank"><img src="/nw/assets/img/common/youtube.svg" alt="YouTube"></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="js-hamburger l-hamburger">
+      <span class="l-hamburger--top"></span>
+      <span class="l-hamburger--middle"></span>
+      <span class="l-hamburger--bottom"></span>
+      <span class="l-hamburger--menu">メニュー</span>
+    </div>
+  </header>
+
+  <main id="a-main-content" role="main">
+<div class="l-wrapper">
+  <ul class="l-topic-path">
+    <li><a href="/nw/">ホーム</a></li>
+    <li><a href="/nw/line_access/">系統アクセス情報の公表</a></li>
+    <li>系統アクセスに関するデータ集</li>
+  </ul>
+</div>
+
+<div class="l-wrapper--title">
+  <hgroup class="c-heading">
+        <p>系統アクセス情報の公表</p>
+    <h1>系統アクセスに関する<br class="u-sp">データ集</h1>
+  </hgroup>
+</div>
+
+
+<div class="l-main">
+  <section class="u-mb--l">
+    <h2>系統構成・予想潮流・空容量</h2>
+    <dl class="c-data-list">
+      <dt>基幹系統(187kV以上系統)</dt>
+      <dd>
+        <a href="/nw/assets/line_access/data/sys_capa_kikan00_map_202609_08.pdf" target="_blank">基幹系(187kV以上系統)</a>　
+        <a href="/nw/assets/line_access/data/sys_capa_kikan00_line_202609_08.csv">送電線</a>　
+        <a href="/nw/assets/line_access/data/sys_capa_kikan00_tr_202609_08.csv">変圧器</a></dd>
+    </dl>
+    <dl class="c-data-list">
+      <dt>ローカル系統(66・110kV以下系統)</dt>
+      <dd>
+        <ul>
+          <li>香川県　<a href="/nw/assets/line_access/data/sys_capa_local01_map_202609_08.pdf" target="_blank">ローカル系統(66・110kV以下系統)</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local01_line_202609_08.csv">送電線</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local01_tr_202609_08.csv">変圧器</a></li>
+          <li>愛媛県　<a href="/nw/assets/line_access/data/sys_capa_local02_map_202609_08.pdf" target="_blank">ローカル系統(66・110kV以下系統)</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local02_line_202609_08.csv">送電線</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local02_tr_202609_08.csv">変圧器</a></li>
+          <li>徳島県　<a href="/nw/assets/line_access/data/sys_capa_local03_map_202609_08.pdf" target="_blank">ローカル系統(66・110kV以下系統)</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local03_line_202609_08.csv">送電線</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local03_tr_202609_08.csv">変圧器</a></li>
+          <li>高知県　<a href="/nw/assets/line_access/data/sys_capa_local04_map_202609_08.pdf" target="_blank">ローカル系統(66・110kV以下系統)</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local04_line_202609_08.csv">送電線</a>　
+            <a href="/nw/assets/line_access/data/sys_capa_local04_tr_202609_08.csv">変圧器</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>送変電設備の作業停止計画</h2>
+    <dl class="c-data-list">
+      <dt>基幹系統(187kV以上系統)</dt>
+      <dd>
+        <p class="u-mb10">送変電設備の作業停止計画(2年分の年間計画、1年分以上の過去計画) </p>
+        <ul>
+          <li>(2027年度) <a href="/nw/assets/line_access/main/sagyouteishikeikaku_2027.csv">作業停止計画</a></li>
+          <li>(2026年度) <a href="/nw/assets/line_access/main/sagyouteishikeikaku_2026.csv">作業停止計画</a></li>
+          <li>(2025年度) <a href="/nw/assets/line_access/main/sagyouteishikeikaku_2025.csv">作業停止計画</a></li>
+        </ul>
+      </dd>
+    </dl>
+    <dl class="c-data-list">
+      <dt>ローカル系統(66・110kV以下系統)</dt>
+      <dd>
+        <p class="u-mb10">送変電設備の作業停止計画(1年分の年間計画、1年分以上の過去計画) </p>
+        <p class="u-mb5"><strong>2026年度</strong></p>
+        <ul>
+          <li>香川県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_kagawa_2026.csv">作業停止計画</a></li>
+          <li>愛媛県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_ehime_2026.csv">作業停止計画</a></li>
+          <li>徳島県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_tokushima_2026.csv">作業停止計画</a></li>
+          <li>高知県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_kochi_2026.csv">作業停止計画</a></li>
+        </ul>
+        <p class="u-mb5"><strong>2025年度</strong></p>
+        <ul class="u-mb--s">
+          <li>香川県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_kagawa_2025.csv">作業停止計画</a></li>
+          <li>愛媛県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_ehime_2025.csv">作業停止計画</a></li>
+          <li>徳島県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_tokushima_2025.csv">作業停止計画</a></li>
+          <li>高知県　<a href="/nw/assets/line_access/local/sagyouteishikeikaku_kochi_2025.csv">作業停止計画</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>地点別需要・系統潮流実績</h2>
+    <div class="u-mb--m">
+      <dl class="c-data-list">
+        <dt>基幹系統(187kV以上系統)</dt>
+        <dd>
+          <p class="u-mb5"><strong>2025年度</strong></p>
+          <p><a href="/nw/assets/line_access/main/keitoukousei_2025.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/jisseki_kikan01_line_2025_08.csv">送電線</a>　<a href="/nw/assets/line_access/main/jisseki_kikan01_tr_2025_08.csv">変圧器</a></p>
+        </dd>
+      </dl>
+      <dl class="c-data-list">
+        <dt>ローカル系統(66・110kV以下系統)</dt>
+        <dd>
+          <p class="u-mb5"><strong>2025年度</strong></p>
+          <ul>
+            <li>香川県　<a href="/nw/assets/line_access/local/keitoukousei_kagawa_2025.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local01_line_2025_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local01_tr_2025_08.csv">変圧器</a></li>
+            <li>愛媛県　<a href="/nw/assets/line_access/local/keitoukousei_ehime_2025.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local02_line_2025_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local02_tr_2025_08.csv">変圧器</a></li>
+            <li>徳島県　<a href="/nw/assets/line_access/local/keitoukousei_tokushima_2025.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local03_line_2025_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local03_tr_2025_08.csv">変圧器</a></li>
+            <li>高知県　<a href="/nw/assets/line_access/local/keitoukousei_kochi_2025.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local04_line_2025_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local04_tr_2025_08.csv">変圧器</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </div>
+    <h3>過去分</h3>
+    <div>
+      <dl class="c-data-list">
+        <dt>基幹系統(187kV以上系統)</dt>
+        <dd>
+          <ul>
+            <li>(2024年度) <a href="/nw/assets/line_access/main/keitoukousei_2024.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/jisseki_kikan01_line_2024_08.csv">送電線</a>　<a href="/nw/assets/line_access/main/jisseki_kikan01_tr_2024_08.csv">変圧器</a></li>
+            <li>(2023年度) <a href="/nw/assets/line_access/main/keitoukousei_2023.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/line_chouryu_2023.csv">送電線</a>　<a href="/nw/assets/line_access/main/tr_chouryu_2023.csv">変圧器</a></li>
+            <li>(2022年度) <a href="/nw/assets/line_access/main/keitoukousei_2022.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/line_chouryu_2022.csv">送電線</a>　<a href="/nw/assets/line_access/main/tr_chouryu_2022.csv">変圧器</a></li>
+            <li>(2021年度) <a href="/nw/assets/line_access/main/keitoukousei_2021.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/line_chouryu_2021.csv">送電線</a>　<a href="/nw/assets/line_access/main/tr_chouryu_2021.csv">変圧器</a></li>
+            <li>(2020年度) <a href="/nw/assets/line_access/main/keitoukousei_2020.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/line_chouryu_2020.csv">送電線</a>　<a href="/nw/assets/line_access/main/tr_chouryu_2020.csv">変圧器</a></li>
+            <li>(2019年度) <a href="/nw/assets/line_access/main/keitoukousei_2019.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/main/line_chouryu_2019.csv">送電線</a>　<a href="/nw/assets/line_access/main/tr_chouryu_2019.csv">変圧器</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="c-data-list">
+        <dt>ローカル系統(66・110kV以下系統)</dt>
+        <dd>
+          <p class="u-mb5"><strong>2024年度</strong></p>
+          <ul class="c-list_02 u-mb--s">
+            <li>香川県　<a href="/nw/assets/line_access/local/keitoukousei_kagawa_2024.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local01_line_2024_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local01_tr_2024_08.csv">変圧器</a></li>
+            <li>愛媛県　<a href="/nw/assets/line_access/local/keitoukousei_ehime_2024.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local02_line_2024_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local02_tr_2024_08.csv">変圧器</a></li>
+            <li>徳島県　<a href="/nw/assets/line_access/local/keitoukousei_tokushima_2024.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local03_line_2024_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local03_tr_2024_08.csv">変圧器</a></li>
+            <li>高知県　<a href="/nw/assets/line_access/local/keitoukousei_kochi_2024.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/jisseki_local04_line_2024_08.csv">送電線</a>　<a href="/nw/assets/line_access/local/jisseki_local04_tr_2024_08.csv">変圧器</a></li>
+          </ul>
+          <p class="u-mb5"><strong>2023年度</strong></p>
+          <ul class="c-list_02 u-mb--s">
+            <li>香川県　<a href="/nw/assets/line_access/local/keitoukousei_kagawa_2023.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_kagawa_2023.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_kagawa_2023.csv">変圧器</a></li>
+            <li>愛媛県　<a href="/nw/assets/line_access/local/keitoukousei_ehime_2023.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_ehime_2023.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_ehime_2023.csv">変圧器</a></li>
+            <li>徳島県　<a href="/nw/assets/line_access/local/keitoukousei_tokushima_2023.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_tokushima_2023.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_tokushima_2023.csv">変圧器</a></li>
+            <li>高知県　<a href="/nw/assets/line_access/local/keitoukousei_kochi_2023.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_kochi_2023.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_kochi_2023.csv">変圧器</a></li>
+          </ul>
+          <p class="u-mb5"><strong>2022年度</strong></p>
+          <ul class="c-list_02">
+            <li>香川県　<a href="/nw/assets/line_access/local/keitoukousei_kagawa_2022.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_kagawa_2022.csv">送電線</a></li>
+            <li>愛媛県　<a href="/nw/assets/line_access/local/keitoukousei_ehime_2022.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_ehime_2022.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_ehime_2022.csv">変圧器</a></li>
+            <li>徳島県　<a href="/nw/assets/line_access/local/keitoukousei_tokushima_2022.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_tokushima_202204-11.csv">送電線①</a>　<a href="/nw/assets/line_access/local/line_chouryu_tokushima_202212-03.csv">送電線②</a></li>
+            <li>高知県　<a href="/nw/assets/line_access/local/keitoukousei_kochi_2022.pdf" target="_blank">系統構成</a>　<a href="/nw/assets/line_access/local/line_chouryu_kochi_2022.csv">送電線</a>　<a href="/nw/assets/line_access/local/tr_chouryu_kochi_2022.csv">変圧器</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </div>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>平常時出力制御が発生する可能性のあるエリア</h2>
+    <p><a href="/nw/assets/line_access/nf_mapping_kagawa.pdf" target="_blank">香川</a>　<br class="u-sp"><a href="/nw/assets/line_access/nf_mapping_ehime.pdf" target="_blank">愛媛</a>　<br class="u-sp"><a href="/nw/assets/line_access/nf_mapping_tokushima.pdf" target="_blank">徳島</a>　<br class="u-sp"><a href="/nw/assets/line_access/nf_mapping_kochi.pdf" target="_blank">高知</a></p>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>系統混雑処理の実施状況</h2>
+    <ul class="c-link--arrow">
+      <li><a href="/nw/line_access/redispatch.html">系統混雑処理の実施状況</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>発電等設備の受付状況に関する情報について</h2>
+    <ul class="c-link--arrow">
+      <li><a href="/nw/line_access/status.html">発電等設備の受付状況</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>系統混雑に対する中長期見通し</h2>
+    <ul>
+      <li><a href="/nw/assets/line_access/konzatsu_genkou_2031_08.pdf" target="_blank">(2031年度_現行シナリオ)混雑設備一覧表、混雑マッピング</a></li>
+      <li><a href="/nw/assets/line_access/konzatsu_ikou_2031_08.pdf" target="_blank">(2031年度_移行シナリオ)混雑設備一覧表、混雑マッピング</a></li>
+      <li><a href="/nw/assets/line_access/konzatsu_2030_08.pdf" target="_blank">(2030年度)混雑設備一覧表、混雑マッピング</a></li>
+      <li><a href="/nw/assets/line_access/konzatsu_2029_08.pdf" target="_blank">(2029年度)混雑設備一覧表、混雑マッピング</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>系統用蓄電池の接続検討に資する情報公開</h2>
+    <p class="u-mb--s">蓄電池事業者さまの申込み地点の精査に資する情報としてウェルカムゾーンマップの空容量もご参考ください。</p>
+    <ul class="c-link--arrow">
+      <li><a href="/nw/industrial_area/">ウェルカムゾーンマップ</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>送変電設備の投資廃止計画(10年間)</h2>
+    <ul>
+      <li><a href="/nw/assets/line_access/main/toushihaishikeikaku_10years.pdf" target="_blank">基幹系統(187kV以上系統)</a></li>
+      <li><a href="/nw/assets/line_access/local/toushihaishikeikaku.pdf" target="_blank">ローカル系統(66・110kV以下系統)</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>送変電設備のインピーダンス(ループ系統)</h2>
+    <ul>
+      <li><a href="/nw/assets/line_access/main/impedance_kikan01_2025_08.xlsx" target="_blank">基幹系統(187kV以上系統)</a></li>
+      <li><a href="/nw/assets/line_access/local/impedance_local01_2025_08.xlsx" target="_blank">ローカル系統(66・110kV以下系統)</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--l">
+    <h2>主要流通設備の整備計画書</h2>
+    <ul>
+      <li><a href="/nw/assets/line_access/keikaku.pdf" target="_blank">主要流通設備の整備計画書</a></li>
+    </ul>
+  </section>
+
+  <section class="u-mb--ll">
+    <h2>標準的な単価</h2>
+    <ul>
+      <li><a href="https://www.occto.or.jp/news/access_oshirase_2025_2026_0310_tanka_kouhyou.html" target="_blank">送変電設備の標準的な単価</a></li>
+    </ul>
+  </section>
+
+</div>
+
+</main>
+
+<div class="l-footer">
+  <footer role="contentinfo">
+    <button class="js-scroll-top l-footer__scroll-top" aria-label="ページの上部へ"></button>
+    <div class="l-footer__nav">
+      <div class="l-footer__wrapper">
+        <nav role="navigation">
+          <div>
+  <h2 class="js-footer-nav footer-nav"><a href="/nw/safety/">停電・電気の安全</a></h2>
+  <ul class="footer-nav__menu">
+    <li class="u-sp"><a href="/nw/safety/">停電・電気の安全 トップページ</a></li>
+    <li><a href="/nw/safety/teiden/">停電について</a></li>
+    <li><a href="/nw/safety/electrical_safety/">電気の安全について</a></li>
+    <li><a href="/nw/safety/contact_case/">このような場合はお知らせください</a></li>
+    <li><a href="/nw/safety/initiative/">当社の取り組み</a></li>
+    <li><a href="/nw/safety/electromagnetic_field/">電磁界について</a></li>
+  </ul>
+</div>
+<div>
+  <h2 class="js-footer-nav footer-nav"><a href="/nw/renewable_energy/">再生可能エネルギー</a></h2>
+  <ul class="footer-nav__menu">
+    <li class="u-sp"><a href="/nw/renewable_energy/">再生可能エネルギー トップページ</a></li>
+    <li><a href="/nw/renewable_energy/news/">お知らせ</a></li>
+    <li><a href="/nw/renewable_energy/output_control/">再生可能エネルギー出力制御</a></li>
+    <li><a href="/nw/renewable_energy/power_purchase/">再生可能エネルギー固定価格買取制度(FIT制度)</a></li>
+    <li><a href="/nw/renewable_energy/procedure/">契約手続き・申込書類</a></li>
+    <li><a href="/nw/electric_wholesale_supply/">再生可能エネルギー電気卸供給</a></li>
+    <li><a href="/nw/renewable_energy/reference.html">参考情報</a></li>
+    <li><a href="/nw/renewable_energy/data/">各種データ</a></li>
+    <li><a href="/nw/faq/business.html#s03">お問い合わせ</a></li>
+    <li><a class="adjust03" href="https://faq-nw.yonden.co.jp/hc/ja/categories/4905458904478-%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" target="_blank">よくあるご質問</a></li>
+  </ul>
+</div>
+<div>
+  <h2 class="js-footer-nav footer-nav"><a href="/nw/consignment_service/">電力小売託送サービス</a></h2>
+  <ul class="footer-nav__menu">
+    <li class="u-sp"><a href="/nw/consignment_service/">電力小売託送サービス トップページへ</a></li>
+    <li><a href="/nw/consignment_service/outline.html">制度概要</a></li>
+    <li><a href="/nw/consignment_service/supply.html">不足補給・余剰購入</a></li>
+    <li><a href="/nw/consignment_service/law/">約款・要綱等</a></li>
+    <li><a href="/nw/consignment_service/menu.html">メニュー</a></li>
+    <li><a href="/nw/consignment_service/price/">料金表</a></li>
+    <li><a href="/nw/consignment_service/flow/">託送供給、電力量調整供給の<br class="u-pc">開始までの流れ</a></li>
+    <li><a href="/nw/consignment_service/internet_application.html">インターネット託送工事申込み</a></li>
+    <li><a href="/nw/consignment_service/line_application.html">連系線利用申込み</a></li>
+    <li><a href="/nw/consignment_service/info.html">お知らせ</a></li>
+    <li><a href="/nw/consignment_service/quantity_used.html">需要者情報の提供</a></li>
+    <li><a href="/nw/consignment_service/bid.html">入札による電力調達をご検討の<br class="u-pc">お客さまへ</a></li>
+    <li><a href="/nw/consignment_service/briefing_for_e-retailer.html">小売電気事業者さま向け説明会<br class="u-pc">(電力設備見学会)</a></li>
+    <li><a href="/nw/consignment_service/contact.html">お問い合わせ</a></li>
+  </ul>
+</div>
+<div>
+  <h2 class="footer-nav no-sub"><a href="/nw/service/">ご案内・サービス</a></h2>
+  <h2 class="footer-nav no-sub"><a href="/nw/contract_change/">手続き</a></h2>
+  <h2 class="js-footer-nav footer-nav"><a href="/nw/corporate/">企業情報・採用</a></h2>
+  <ul class="footer-nav__menu">
+    <li class="u-sp"><a href="/nw/corporate/">企業情報 トップページへ</a></li>
+    <li><a href="/nw/corporate/outline/">四国電力送配電の概要</a></li>
+    <li><a href="/nw/corporate/norm/">行動規範・方針</a></li>
+    <li><a href="/nw/corporate/recruit/">採用情報</a></li>
+    <li><a href="/nw/corporate/supply/">資材調達情報</a></li>
+  </ul>
+  <h2 class="footer-nav no-sub"><a href="/nw/faq/">よくあるご質問・<br class="u-pc">お問い合わせ</a></h2>
+</div>
+        </nav>
+      </div>
+    </div>
+    <div class="l-wrapper">
+
+      <div class="l-footer__inner">
+        <div class="l-footer__logo"><a href="/nw/"><img src="/nw/assets/img/common/corporate_logo.svg" alt="四国電力送配電"></a></div>
+        <ul class="l-footer__link">
+          <li><a href="/nw/terms/">ご利用にあたって</a></li>
+          <li><a href="/nw/privacy/">個人情報の取り扱い</a></li>
+        </ul>
+        <ul class="l-footer__sns">
+          <li><a href="https://page.line.me/716zqyfg?openQrModal=true" target="_brank"><img src="/nw/assets/img/common/icon_line_logo.svg" alt="LINE"></a></li>
+          <li><a href="https://x.com/YONDEN_kinkyu" target="_brank"><img src="/nw/assets/img/common/icon_x_logo.svg" alt="X"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCg22DuLThKT-IelHUV9uEYQ" target="_brank"><img src="/nw/assets/img/common/youtube.svg" alt="YouTube"></a></li>
+        </ul>
+      </div>
+      <address>&copy; YONDEN T &amp; D</address>
+
+    </div>
+  </footer>
+</div>
+<script>!function(){var o=GALFSRAM=window.GALFSRAM||{};o.mfx=o.mfx||{},o.mfx.router_mode="history"}();</script>
+<script src="https://ce.mf.marsflag.com/latest/js/mf-search.js" charset="UTF-8"></script>
+<script>document.addEventListener("DOMContentLoaded",function(){const e=setInterval(()=>{const n=document.querySelectorAll(".mf-search-bar_input"),t=document.querySelectorAll(".mf-search-bar_form");n.length&&t.length&&(clearInterval(e),t.forEach((e,t)=>{const o=n[t];o&&e.addEventListener("submit",function(e){e.preventDefault();const n=encodeURIComponent(o.value.trim());if(!n)return;const t=encodeURIComponent("https://finder.api.mf.marsflag.com/api/v1/finder_service/documents/8c4707b0/search"),r=`/nw/search/?q=${n}#/?ajaxUrl=${t}&htmlLang=ja&ct=&page=1&d=&doctype=all&q=${n}&sort=0&pagemax=10&imgsize=1`;window.location.href=r})}))},200)});</script>
+
+</body>
+
+</html>

@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WPJKLBM');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="/common/js/viewport.js"></script>
+    <title>系統の予想潮流等に関する情報｜東北電力ネットワーク</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://nw.tohoku-epco.co.jp">
+    <meta property="og:title" content="東北電力ネットワーク">
+    <meta property="og:description"
+        content="東北電力ネットワーク株式会社の公式ホームページです。電気料金やご契約、省エネをはじめとするエネルギーソリューション、系統アクセスや新サービス・新料金プランに関する情報などを掲載しています。「より、そう、ちから。」">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://nw.tohoku-epco.co.jp">
+    <meta property="og:image" content="/common/img/ogp.png">
+    <link rel="icon" href="/common/img/favicon.ico">
+    <link rel="stylesheet" href="/common/css/ress.min.css">
+    <link rel="stylesheet" href="/common/css/style.css">
+    <script src="/common/js/jquery.min.js"></script>
+    <script src="/common/js/jquery.cookie.js"></script>
+    <script src="/common/js/include.js"></script>
+    <script src="/common/js/function.js"></script>
+    
+    <style>
+    	.txt-box { display: inline-block; margin: 0.5em 1em 0; border: 2px solid #ccc; padding: 0.5em 1em; }
+    </style>
+    
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WPJKLBM" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script type="text/javascript">commonHeader();</script>
+    <main>
+        <div id="breadcrumb">
+            <ul>
+                <li><a href="/">トップページ</a></li>
+                <li><a href="/consignment/system/">電力系統への連系</a></li>
+                <li>系統の予想潮流等に関する情報</li>
+            </ul>
+        </div>
+
+        <div class="title00">
+            <h1>系統の予想潮流等に関する情報</h1>
+        </div>
+
+        <div id="mainConteiner">
+            <h2 class="titleL01">送電線および変電所の予想潮流、空容量</h2>
+            <h3 class="titleM01">予想潮流、空容量を確認する際にご留意いただきたい事項</h3>
+            <p>本情報は、送電線および変電所における、系統制約エリア、予想潮流、および空容量を表しております。<br>
+				予想潮流・空容量は、既に連系済みの電源に加え、今後、連系が予定されている電源等を考慮し算定しております。<br>
+				「系統状況マップ」に記載の送電線番号・変電所名と、「送電線の予想潮流等一覧表」または「変電所の予想潮流等一覧表」の組み合わせにより、系統状況をご確認願います。</p>
+			<p>平常時出力制御の有無によらず、系統混雑時の出力制御を条件とした「ノンファーム型接続」によって系統増強を行わずに連系が可能となります。<br>
+				具体的な系統連系に必要となる事項は、系統アクセス検討をお申込み頂くことで、検討を行います。<br>
+				なお、「ノンファーム型接続」の受付については、『<a href="/consignment/system/nonfirm/">ノンファーム型接続の適用について</a>』をご覧ください。 </p>
+            
+			<p style="margin-bottom: 0;">留意事項の詳細につきましては、こちらのpdfをご確認願います。</p>
+			<p class="txt-box"><a href="/consignment/system/announcement/pdf/01.pdf" target="_blank">送電線および変電所の予想潮流等に関する留意事項（81KB）<span class="pdfIcon" style="top: -1.1em;"></span></a></p>
+			<p>基幹系統の運用容量の詳細は、こちらのpdfをご参考願います。<a href="/consignment/system/announcement/pdf/02.pdf" target="_blank" class="pdfIcon">（22KB）</a></p>
+
+            <h3 class="titleM01">系統状況マップおよび送電線・変電所の予想潮流等一覧表</h3>
+
+            <script src="/common/lib/rwdImageMaps/jquery.rwdImageMaps.js"></script>
+            <script>
+                $(document).ready(function (e) {
+                    $('img[usemap]').rwdImageMaps();
+                });
+            </script>
+            <figure class="taC"><img src="./img/01.gif" alt="系統状況マップおよび送電線・変電所の予想潮流等一覧表" width="816" height="870" vspace="30"
+                    border="0" usemap="#Map"></figure>
+            <map name="Map">
+                <area shape="rect" coords="311,88,423,101" href="./pdf/sys_capa_local01_map_202609_02.pdf"
+                    target="_blank" alt="（青森）131_系統状況マップ">
+                <area shape="rect" coords="311,107,569,122" href="./pdf/sys_capa_local01_line_202607_02.pdf"
+                    target="_blank" alt="111_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="572,107,586,123" href="./data/sys_capa_local01_line_202607_02.csv"
+                    target="_blank" alt="112_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="311,126,499,140" href="./pdf/sys_capa_local01_tr_202609_02.pdf"
+                    target="_blank" alt="121_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="502,126,516,142" href="./data/sys_capa_local01_tr_202609_02.csv"
+                    target="_blank" alt="122_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="151,250,262,267" href="./pdf/sys_capa_local03_map_202608_02.pdf"
+                    target="_blank" alt="（秋田）331_系統状況マップ">
+                <area shape="rect" coords="153,270,410,286" href="./pdf/sys_capa_local03_line_202607_02.pdf"
+                    target="_blank" alt="311_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="412,269,428,288" href="./data/sys_capa_local03_line_202607_02.csv"
+                    target="_blank" alt="312_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="154,289,339,304" href="./pdf/sys_capa_local03_tr_202607_02.pdf"
+                    target="_blank" alt="321_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="341,290,357,306" href="./data/sys_capa_local03_tr_202607_02.csv"
+                    target="_blank" alt="322_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="511,251,622,265" href="./pdf/sys_capa_local02_map_202608_02.pdf"
+                    target="_blank" alt="（岩手）231_系統状況マップ">
+                <area shape="rect" coords="512,270,771,286" href="./pdf/sys_capa_local02_line_202607_02.pdf"
+                    target="_blank" alt="211_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="773,270,789,286" href="./data/sys_capa_local02_line_202607_02.csv"
+                    target="_blank" alt="212_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="511,289,700,303" href="./pdf/sys_capa_local02_tr_202607_02.pdf"
+                    target="_blank" alt="221_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="702,289,717,305" href="./data/sys_capa_local02_tr_202607_02.csv"
+                    target="_blank" alt="222_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="297,387,412,404" href="./pdf/sys_capa_kikan01_map_202608_02.pdf"
+                    target="_blank" alt="（500･275･154kV系統）031_系統状況マップ">
+                <area shape="rect" coords="298,405,642,423" href="./pdf/sys_capa_kikan01_line_202607_02.pdf"
+                    target="_blank" alt="011_送電線（500kV，275kV，154kV）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="645,406,660,424" href="./data/sys_capa_kikan01_line_202607_02.csv"
+                    target="_blank" alt="012_送電線（500kV，275kV，154kV）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="297,426,524,444" href="./pdf/sys_capa_kikan01_tr_202607_02.pdf"
+                    target="_blank" alt="021_１次系変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="528,426,541,443" href="./data/sys_capa_kikan01_tr_202607_02.csv"
+                    target="_blank" alt="022_１次系変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="113,530,227,546" href="./pdf/sys_capa_local05_map_202608_02.pdf"
+                    target="_blank" alt="（山形）531_系統状況マップ">
+                <area shape="rect" coords="113,550,373,567" href="./pdf/sys_capa_local05_line_202607_02.pdf"
+                    target="_blank" alt="511_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="375,550,391,568" href="./data/sys_capa_local05_line_202607_02.csv"
+                    target="_blank" alt="512_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="114,569,303,584" href="./pdf/sys_capa_local05_tr_202607_02.pdf"
+                    target="_blank" alt="521_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="306,569,321,586" href="./data/sys_capa_local05_tr_202607_02.csv"
+                    target="_blank" alt="522_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="515,543,626,560" href="./pdf/sys_capa_local04_map_202608_02.pdf"
+                    target="_blank" alt="（宮城）431_系統状況マップ">
+                <area shape="rect" coords="515,563,772,579" href="./pdf/sys_capa_local04_line_202607_02.pdf"
+                    target="_blank" alt="411_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="775,562,789,580" href="./data/sys_capa_local04_line_202607_02.csv"
+                    target="_blank" alt="412_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="515,581,703,597" href="./pdf/sys_capa_local04_tr_202607_02.pdf"
+                    target="_blank" alt="421_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="705,581,720,598" href="./data/sys_capa_local04_tr_202607_02.csv"
+                    target="_blank" alt="422_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="485,701,598,716" href="./pdf/sys_capa_local06_map_202608_02.pdf"
+                    target="_blank" alt="（福島）631_系統状況マップ">
+                <area shape="rect" coords="484,718,743,735" href="./pdf/sys_capa_local06_line_202607_02.pdf"
+                    target="_blank" alt="611_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="747,718,760,736" href="./data/sys_capa_local06_line_202607_02.csv"
+                    target="_blank" alt="612_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="484,738,672,754" href="./pdf/sys_capa_local06_tr_202607_02.pdf"
+                    target="_blank" alt="621_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="674,738,687,755" href="./data/sys_capa_local06_tr_202607_02.csv"
+                    target="_blank" alt="622_変電所の予想潮流等一覧表 CSV">
+
+                <area shape="rect" coords="40,733,150,749" href="./pdf/sys_capa_local07_map_202608_02.pdf"
+                    target="_blank" alt="（新潟）731_系統状況マップ">
+                <area shape="rect" coords="41,751,300,770" href="./pdf/sys_capa_local07_line_202608_02.pdf"
+                    target="_blank" alt="711_送電線（66kV以下）の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="303,752,317,770" href="./data/sys_capa_local07_line_202608_02.csv"
+                    target="_blank" alt="712_送電線（66kV以下）の予想潮流等一覧表 CSV">
+                <area shape="rect" coords="42,771,230,788" href="./pdf/sys_capa_local07_tr_202607_02.pdf"
+                    target="_blank" alt="721_変電所の予想潮流等一覧表 PDF">
+                <area shape="rect" coords="232,772,246,787" href="./data/sys_capa_local07_tr_202607_02.csv"
+                    target="_blank" alt="722_変電所の予想潮流等一覧表 CSV">
+
+            </map>
+
+            <figure class="taC"><img src="./img/02.gif" alt="ノンファーム型接続対象エリア" width="800" height="150" vspace="30"
+                    border="0" usemap="#Map2">
+              <map name="Map2">
+              <area shape="rect" coords="116,77,176,99" href="pdf/no_ao.pdf" target="_blank" alt="ノンファーム青森県">
+              <area shape="rect" coords="195,77,255,99" href="pdf/no_iw.pdf" target="_blank" alt="ノンファーム岩手県">
+              <area shape="rect" coords="273,77,333,99" href="pdf/no_ak.pdf" target="_blank" alt="ノンファーム秋田県">
+              <area shape="rect" coords="350,77,410,99" href="pdf/no_mi.pdf" target="_blank" alt="ノンファーム宮城県">
+              <area shape="rect" coords="427,77,487,99" href="pdf/no_ya.pdf" target="_blank" alt="ノンファーム山形県">
+			  <area shape="rect" coords="506,77,566,99" href="pdf/no_fu.pdf" target="_blank" alt="ノンファーム福島県">
+			  <area shape="rect" coords="584,77,644,99" href="pdf/no_ni.pdf" target="_blank" alt="ノンファーム新潟県">
+              </map>
+      </figure>
+
+        </div>
+    </main>
+    <script type="text/javascript">commonFooter();</script>
+</body>
+
+</html>
